@@ -1,8 +1,13 @@
 var _ = require('underscore');
 var config = require('./config');
-
 var fs = require('fs');
-var obj;
+var elasticsearch = require('elasticsearch');
+
+var client = new elasticsearch.Client({
+	host: '127.0.0.1:9200',
+	log: 'trace'
+});
+
 fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
 	if (err) throw err;
 
@@ -61,9 +66,7 @@ fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
 			type: '',
 			sender: '',
 			receiver: '',
-			date: {
-				imageDate
-			},
+			date: imageDate,
 			title: file.title_se,
 			serie: '',
 			format: {
@@ -83,8 +86,10 @@ fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
 			}), function(item) {
 				return item.value
 			}),
-			collection: 'Nationalmuseum',
-			sub_collection: file.enhet,
+			collection: [
+				'Nationalmuseum',
+				file.enhet
+			],
 			museum_id: file.inventarienr,
 			licence: '',
 			acquisition: file.acquisition,
@@ -93,10 +98,41 @@ fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
 				signature: file.signature
 			},
 			color: {
-				dominant: file.dominantColor
-			}
+				dominant: file.dominantColor,
+				colors: file.colors
+			},
+			image: 'nationalmuseum-'+file.obj_id
 		};
 	});
 
-	console.log(dbData[0]);
+	var bulkBody = [];
+
+	_.each(dbData, function(item, index) {
+		bulkBody.push({
+			create: {
+				_index: 'arosenius',
+				_type: 'artwork'
+			}
+		});
+		bulkBody.push(item);
+	});
+
+	bulkBody.push({
+		mapping: {
+			_index: 'arosenius',
+			_type: 'artwork'
+		}
+	});
+
+	var mapping = {
+		title: {
+			type: 'string'
+		}
+	};
+
+	bulkBody.push(mapping);
+
+	client.bulk({
+		body: bulkBody
+	});
 });
