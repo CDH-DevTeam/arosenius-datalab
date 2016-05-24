@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CDH-DevTeam/arosenius-elasticsearch-import#readme",
   "dependencies": {
-    "elasticsearch": "^11.0.1"
+    "elasticsearch": "^11.0.1",
+    "underscore": "^1.8.3"
   }
 }
