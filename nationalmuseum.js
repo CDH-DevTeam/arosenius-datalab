@@ -64,8 +64,8 @@ fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
 
 		return {
 			type: '',
-			sender: '',
-			receiver: '',
+			sender: {},
+			recipient: {},
 			date: imageDate,
 			title: file.title_se,
 			serie: '',
@@ -86,22 +86,21 @@ fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
 			}), function(item) {
 				return item.value
 			}),
-			collection: [
-				'Nationalmuseum',
-				file.enhet
-			],
-			museum_id: file.inventarienr,
+			collection: {
+				museum: 'Nationalmuseum',
+				department: file.enhet
+			},
+			museum_int_id: file.inventarienr,
 			licence: '',
 			acquisition: file.acquisition,
 			signature: {
-				author_signature: file.remark,
-				signature: file.signature
+				author_signature: file.remark
 			},
 			color: {
 				dominant: file.dominantColor,
 				colors: file.colors
 			},
-			image: 'nationalmuseum-'+file.obj_id
+			image: file.hasImage ? 'nationalmuseum-'+file.obj_id : null
 		};
 	});
 
@@ -116,21 +115,6 @@ fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
 		});
 		bulkBody.push(item);
 	});
-
-	bulkBody.push({
-		mapping: {
-			_index: 'arosenius',
-			_type: 'artwork'
-		}
-	});
-
-	var mapping = {
-		title: {
-			type: 'string'
-		}
-	};
-
-	bulkBody.push(mapping);
 
 	client.bulk({
 		body: bulkBody

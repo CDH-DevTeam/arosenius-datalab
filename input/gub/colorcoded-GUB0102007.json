@@ -1,0 +1,1476 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102007",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "2",
+		"letter_sender_name_given": "John Ossian",
+		"letter_sender_name_family": "Ekman",
+		"letter_sender_name_date": "1880-1949",
+		"letter_recipient_name_given": "Ivar",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1878-1909",
+		"letter_unitdate": "1906-1906",
+		"letter_note": "1 vykort; Se även Vol.3 Handlingar rörande Ivar Arosenius överförda från Göteborgs konstmuseum 2005",
+		"letter_image_physdesc": "1 vykort",
+		"letter_image_unitdate": "1906-07-13",
+		"letter_image_searchdate": "1906-07-13"
+	},
+	"files": [
+		{
+			"id": "image_1016",
+			"metadata": {
+				"hd_id": "1016",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"colors": {
+						"three": [
+							{
+								"rgb": [
+									88,
+									87,
+									81
+								],
+								"hex": "#585751",
+								"hsv": [
+									51,
+									8,
+									35
+								],
+								"temperature": 5860
+							},
+							{
+								"rgb": [
+									203,
+									196,
+									167
+								],
+								"hex": "#cbc4a7",
+								"hsv": [
+									48,
+									18,
+									80
+								],
+								"temperature": 5128
+							},
+							{
+								"rgb": [
+									173,
+									174,
+									144
+								],
+								"hex": "#adae90",
+								"hsv": [
+									62,
+									17,
+									68
+								],
+								"temperature": 5197
+							},
+							{
+								"rgb": [
+									108,
+									123,
+									177
+								],
+								"hex": "#6c7bb1",
+								"hsv": [
+									227,
+									39,
+									69
+								],
+								"temperature": 40000
+							}
+						],
+						"five": [
+							{
+								"rgb": [
+									72,
+									72,
+									70
+								],
+								"hex": "#484846",
+								"hsv": [
+									60,
+									3,
+									28
+								],
+								"temperature": 6285
+							},
+							{
+								"rgb": [
+									203,
+									196,
+									167
+								],
+								"hex": "#cbc4a7",
+								"hsv": [
+									48,
+									18,
+									80
+								],
+								"temperature": 5128
+							},
+							{
+								"rgb": [
+									153,
+									143,
+									126
+								],
+								"hex": "#998f7e",
+								"hsv": [
+									38,
+									18,
+									60
+								],
+								"temperature": 5134
+							},
+							{
+								"rgb": [
+									173,
+									174,
+									144
+								],
+								"hex": "#adae90",
+								"hsv": [
+									62,
+									17,
+									68
+								],
+								"temperature": 5197
+							},
+							{
+								"rgb": [
+									108,
+									123,
+									177
+								],
+								"hex": "#6c7bb1",
+								"hsv": [
+									227,
+									39,
+									69
+								],
+								"temperature": 40000
+							}
+						],
+						"five_mapped": [
+							{
+								"rgb": [
+									64,
+									64,
+									64
+								],
+								"hex": "#404040",
+								"hsv": [
+									null,
+									0,
+									25
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									204,
+									204,
+									153
+								],
+								"hex": "#cccc99",
+								"hsv": [
+									60,
+									25,
+									80
+								],
+								"temperature": 4642
+							},
+							{
+								"rgb": [
+									149,
+									149,
+									149
+								],
+								"hex": "#959595",
+								"hsv": [
+									null,
+									0,
+									58
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									170,
+									170,
+									170
+								],
+								"hex": "#aaaaaa",
+								"hsv": [
+									null,
+									0,
+									67
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									153
+								],
+								"hex": "#666699",
+								"hsv": [
+									240,
+									33,
+									60
+								],
+								"temperature": 18967
+							}
+						],
+						"ten": [
+							{
+								"rgb": [
+									71,
+									70,
+									68
+								],
+								"hex": "#474644",
+								"hsv": [
+									40,
+									4,
+									28
+								],
+								"temperature": 6164
+							},
+							{
+								"rgb": [
+									203,
+									196,
+									167
+								],
+								"hex": "#cbc4a7",
+								"hsv": [
+									48,
+									18,
+									80
+								],
+								"temperature": 5128
+							},
+							{
+								"rgb": [
+									153,
+									143,
+									126
+								],
+								"hex": "#998f7e",
+								"hsv": [
+									38,
+									18,
+									60
+								],
+								"temperature": 5134
+							},
+							{
+								"rgb": [
+									173,
+									174,
+									144
+								],
+								"hex": "#adae90",
+								"hsv": [
+									62,
+									17,
+									68
+								],
+								"temperature": 5197
+							},
+							{
+								"rgb": [
+									113,
+									129,
+									118
+								],
+								"hex": "#718176",
+								"hsv": [
+									139,
+									12,
+									51
+								],
+								"temperature": 7019
+							},
+							{
+								"rgb": [
+									108,
+									123,
+									177
+								],
+								"hex": "#6c7bb1",
+								"hsv": [
+									227,
+									39,
+									69
+								],
+								"temperature": 40000
+							},
+							{
+								"rgb": [
+									63,
+									82,
+									148
+								],
+								"hex": "#3f5294",
+								"hsv": [
+									227,
+									57,
+									58
+								],
+								"temperature": 40000
+							},
+							{
+								"rgb": [
+									25,
+									28,
+									29
+								],
+								"hex": "#191c1d",
+								"hsv": [
+									195,
+									14,
+									11
+								],
+								"temperature": 8393
+							},
+							{
+								"rgb": [
+									188,
+									108,
+									74
+								],
+								"hex": "#bc6c4a",
+								"hsv": [
+									18,
+									61,
+									74
+								],
+								"temperature": 2883
+							}
+						],
+						"ten_mapped": [
+							{
+								"rgb": [
+									64,
+									64,
+									64
+								],
+								"hex": "#404040",
+								"hsv": [
+									null,
+									0,
+									25
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									204,
+									204,
+									153
+								],
+								"hex": "#cccc99",
+								"hsv": [
+									60,
+									25,
+									80
+								],
+								"temperature": 4642
+							},
+							{
+								"rgb": [
+									149,
+									149,
+									149
+								],
+								"hex": "#959595",
+								"hsv": [
+									null,
+									0,
+									58
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									170,
+									170,
+									170
+								],
+								"hex": "#aaaaaa",
+								"hsv": [
+									null,
+									0,
+									67
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									128,
+									128,
+									128
+								],
+								"hex": "#808080",
+								"hsv": [
+									null,
+									0,
+									50
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									153
+								],
+								"hex": "#666699",
+								"hsv": [
+									240,
+									33,
+									60
+								],
+								"temperature": 18967
+							},
+							{
+								"rgb": [
+									51,
+									102,
+									153
+								],
+								"hex": "#336699",
+								"hsv": [
+									210,
+									67,
+									60
+								],
+								"temperature": 40000
+							},
+							{
+								"rgb": [
+									21,
+									21,
+									21
+								],
+								"hex": "#151515",
+								"hsv": [
+									null,
+									0,
+									8
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									204,
+									102,
+									51
+								],
+								"hex": "#cc6633",
+								"hsv": [
+									20,
+									75,
+									80
+								],
+								"temperature": 2418
+							}
+						]
+					},
+					"dominantColor": {
+						"rgb": [
+							72,
+							72,
+							70
+						],
+						"hex": "#484846",
+						"hsv": [
+							60,
+							3,
+							28
+						],
+						"temperature": 6285
+					}
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"colors": {
+						"three": [
+							{
+								"rgb": [
+									174,
+									168,
+									146
+								],
+								"hex": "#aea892",
+								"hsv": [
+									47,
+									16,
+									68
+								],
+								"temperature": 5245
+							},
+							{
+								"rgb": [
+									63,
+									63,
+									60
+								],
+								"hex": "#3f3f3c",
+								"hsv": [
+									60,
+									5,
+									25
+								],
+								"temperature": 6119
+							},
+							{
+								"rgb": [
+									85,
+									82,
+									73
+								],
+								"hex": "#555249",
+								"hsv": [
+									45,
+									14,
+									33
+								],
+								"temperature": 5389
+							},
+							{
+								"rgb": [
+									97,
+									93,
+									66
+								],
+								"hex": "#615d42",
+								"hsv": [
+									52,
+									32,
+									38
+								],
+								"temperature": 4220
+							}
+						],
+						"five": [
+							{
+								"rgb": [
+									185,
+									180,
+									155
+								],
+								"hex": "#b9b49b",
+								"hsv": [
+									50,
+									16,
+									73
+								],
+								"temperature": 5236
+							},
+							{
+								"rgb": [
+									63,
+									63,
+									60
+								],
+								"hex": "#3f3f3c",
+								"hsv": [
+									60,
+									5,
+									25
+								],
+								"temperature": 6119
+							},
+							{
+								"rgb": [
+									109,
+									106,
+									94
+								],
+								"hex": "#6d6a5e",
+								"hsv": [
+									48,
+									14,
+									43
+								],
+								"temperature": 5415
+							},
+							{
+								"rgb": [
+									85,
+									82,
+									73
+								],
+								"hex": "#555249",
+								"hsv": [
+									45,
+									14,
+									33
+								],
+								"temperature": 5389
+							},
+							{
+								"rgb": [
+									97,
+									93,
+									66
+								],
+								"hex": "#615d42",
+								"hsv": [
+									52,
+									32,
+									38
+								],
+								"temperature": 4220
+							}
+						],
+						"five_mapped": [
+							{
+								"rgb": [
+									170,
+									170,
+									170
+								],
+								"hex": "#aaaaaa",
+								"hsv": [
+									null,
+									0,
+									67
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									64,
+									64,
+									64
+								],
+								"hex": "#404040",
+								"hsv": [
+									null,
+									0,
+									25
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									102
+								],
+								"hex": "#666666",
+								"hsv": [
+									null,
+									0,
+									40
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									85,
+									85,
+									85
+								],
+								"hex": "#555555",
+								"hsv": [
+									null,
+									0,
+									33
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									51
+								],
+								"hex": "#666633",
+								"hsv": [
+									60,
+									50,
+									40
+								],
+								"temperature": 3309
+							}
+						],
+						"ten": [
+							{
+								"rgb": [
+									196,
+									190,
+									164
+								],
+								"hex": "#c4bea4",
+								"hsv": [
+									49,
+									16,
+									77
+								],
+								"temperature": 5228
+							},
+							{
+								"rgb": [
+									63,
+									63,
+									60
+								],
+								"hex": "#3f3f3c",
+								"hsv": [
+									60,
+									5,
+									25
+								],
+								"temperature": 6119
+							},
+							{
+								"rgb": [
+									109,
+									106,
+									94
+								],
+								"hex": "#6d6a5e",
+								"hsv": [
+									48,
+									14,
+									43
+								],
+								"temperature": 5415
+							},
+							{
+								"rgb": [
+									85,
+									82,
+									73
+								],
+								"hex": "#555249",
+								"hsv": [
+									45,
+									14,
+									33
+								],
+								"temperature": 5389
+							},
+							{
+								"rgb": [
+									135,
+									129,
+									111
+								],
+								"hex": "#87816f",
+								"hsv": [
+									45,
+									18,
+									53
+								],
+								"temperature": 5125
+							},
+							{
+								"rgb": [
+									150,
+									146,
+									126
+								],
+								"hex": "#96927e",
+								"hsv": [
+									50,
+									16,
+									59
+								],
+								"temperature": 5252
+							},
+							{
+								"rgb": [
+									97,
+									93,
+									66
+								],
+								"hex": "#615d42",
+								"hsv": [
+									52,
+									32,
+									38
+								],
+								"temperature": 4220
+							},
+							{
+								"rgb": [
+									143,
+									140,
+									107
+								],
+								"hex": "#8f8c6b",
+								"hsv": [
+									55,
+									25,
+									56
+								],
+								"temperature": 4631
+							},
+							{
+								"rgb": [
+									76,
+									92,
+									82
+								],
+								"hex": "#4c5c52",
+								"hsv": [
+									143,
+									17,
+									36
+								],
+								"temperature": 7364
+							}
+						],
+						"ten_mapped": [
+							{
+								"rgb": [
+									204,
+									204,
+									153
+								],
+								"hex": "#cccc99",
+								"hsv": [
+									60,
+									25,
+									80
+								],
+								"temperature": 4642
+							},
+							{
+								"rgb": [
+									64,
+									64,
+									64
+								],
+								"hex": "#404040",
+								"hsv": [
+									null,
+									0,
+									25
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									102
+								],
+								"hex": "#666666",
+								"hsv": [
+									null,
+									0,
+									40
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									85,
+									85,
+									85
+								],
+								"hex": "#555555",
+								"hsv": [
+									null,
+									0,
+									33
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									128,
+									128,
+									128
+								],
+								"hex": "#808080",
+								"hsv": [
+									null,
+									0,
+									50
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									149,
+									149,
+									149
+								],
+								"hex": "#959595",
+								"hsv": [
+									null,
+									0,
+									58
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									51
+								],
+								"hex": "#666633",
+								"hsv": [
+									60,
+									50,
+									40
+								],
+								"temperature": 3309
+							},
+							{
+								"rgb": [
+									153,
+									153,
+									102
+								],
+								"hex": "#999966",
+								"hsv": [
+									60,
+									33,
+									60
+								],
+								"temperature": 4141
+							},
+							{
+								"rgb": [
+									85,
+									85,
+									85
+								],
+								"hex": "#555555",
+								"hsv": [
+									null,
+									0,
+									33
+								],
+								"temperature": 6524
+							}
+						]
+					},
+					"dominantColor": {
+						"rgb": [
+							185,
+							180,
+							155
+						],
+						"hex": "#b9b49b",
+						"hsv": [
+							50,
+							16,
+							73
+						],
+						"temperature": 5236
+					}
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"colors": {
+						"three": [
+							{
+								"rgb": [
+									209,
+									204,
+									178
+								],
+								"hex": "#d1ccb2",
+								"hsv": [
+									50,
+									15,
+									82
+								],
+								"temperature": 5336
+							},
+							{
+								"rgb": [
+									72,
+									72,
+									69
+								],
+								"hex": "#484845",
+								"hsv": [
+									60,
+									4,
+									28
+								],
+								"temperature": 6169
+							},
+							{
+								"rgb": [
+									123,
+									124,
+									72
+								],
+								"hex": "#7b7c48",
+								"hsv": [
+									61,
+									42,
+									49
+								],
+								"temperature": 3709
+							},
+							{
+								"rgb": [
+									108,
+									99,
+									81
+								],
+								"hex": "#6c6351",
+								"hsv": [
+									40,
+									25,
+									42
+								],
+								"temperature": 4642
+							}
+						],
+						"five": [
+							{
+								"rgb": [
+									213,
+									208,
+									182
+								],
+								"hex": "#d5d0b6",
+								"hsv": [
+									50,
+									15,
+									84
+								],
+								"temperature": 5356
+							},
+							{
+								"rgb": [
+									72,
+									72,
+									69
+								],
+								"hex": "#484845",
+								"hsv": [
+									60,
+									4,
+									28
+								],
+								"temperature": 6169
+							},
+							{
+								"rgb": [
+									137,
+									135,
+									111
+								],
+								"hex": "#89876f",
+								"hsv": [
+									55,
+									19,
+									54
+								],
+								"temperature": 5042
+							},
+							{
+								"rgb": [
+									123,
+									124,
+									72
+								],
+								"hex": "#7b7c48",
+								"hsv": [
+									61,
+									42,
+									49
+								],
+								"temperature": 3709
+							},
+							{
+								"rgb": [
+									108,
+									99,
+									81
+								],
+								"hex": "#6c6351",
+								"hsv": [
+									40,
+									25,
+									42
+								],
+								"temperature": 4642
+							}
+						],
+						"five_mapped": [
+							{
+								"rgb": [
+									204,
+									204,
+									204
+								],
+								"hex": "#cccccc",
+								"hsv": [
+									null,
+									0,
+									80
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									64,
+									64,
+									64
+								],
+								"hex": "#404040",
+								"hsv": [
+									null,
+									0,
+									25
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									128,
+									128,
+									128
+								],
+								"hex": "#808080",
+								"hsv": [
+									null,
+									0,
+									50
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									51
+								],
+								"hex": "#666633",
+								"hsv": [
+									60,
+									50,
+									40
+								],
+								"temperature": 3309
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									102
+								],
+								"hex": "#666666",
+								"hsv": [
+									null,
+									0,
+									40
+								],
+								"temperature": 6524
+							}
+						],
+						"ten": [
+							{
+								"rgb": [
+									214,
+									208,
+									182
+								],
+								"hex": "#d6d0b6",
+								"hsv": [
+									49,
+									15,
+									84
+								],
+								"temperature": 5327
+							},
+							{
+								"rgb": [
+									72,
+									72,
+									69
+								],
+								"hex": "#484845",
+								"hsv": [
+									60,
+									4,
+									28
+								],
+								"temperature": 6169
+							},
+							{
+								"rgb": [
+									137,
+									135,
+									111
+								],
+								"hex": "#89876f",
+								"hsv": [
+									55,
+									19,
+									54
+								],
+								"temperature": 5042
+							},
+							{
+								"rgb": [
+									123,
+									124,
+									72
+								],
+								"hex": "#7b7c48",
+								"hsv": [
+									61,
+									42,
+									49
+								],
+								"temperature": 3709
+							},
+							{
+								"rgb": [
+									108,
+									99,
+									81
+								],
+								"hex": "#6c6351",
+								"hsv": [
+									40,
+									25,
+									42
+								],
+								"temperature": 4642
+							},
+							{
+								"rgb": [
+									138,
+									140,
+									135
+								],
+								"hex": "#8a8c87",
+								"hsv": [
+									84,
+									4,
+									55
+								],
+								"temperature": 6336
+							},
+							{
+								"rgb": [
+									236,
+									235,
+									221
+								],
+								"hex": "#ecebdd",
+								"hsv": [
+									56,
+									6,
+									93
+								],
+								"temperature": 5989
+							},
+							{
+								"rgb": [
+									99,
+									124,
+									68
+								],
+								"hex": "#637c44",
+								"hsv": [
+									87,
+									45,
+									49
+								],
+								"temperature": 4257
+							},
+							{
+								"rgb": [
+									157,
+									147,
+									135
+								],
+								"hex": "#9d9387",
+								"hsv": [
+									33,
+									14,
+									62
+								],
+								"temperature": 5396
+							}
+						],
+						"ten_mapped": [
+							{
+								"rgb": [
+									204,
+									204,
+									204
+								],
+								"hex": "#cccccc",
+								"hsv": [
+									null,
+									0,
+									80
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									64,
+									64,
+									64
+								],
+								"hex": "#404040",
+								"hsv": [
+									null,
+									0,
+									25
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									128,
+									128,
+									128
+								],
+								"hex": "#808080",
+								"hsv": [
+									null,
+									0,
+									50
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									51
+								],
+								"hex": "#666633",
+								"hsv": [
+									60,
+									50,
+									40
+								],
+								"temperature": 3309
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									102
+								],
+								"hex": "#666666",
+								"hsv": [
+									null,
+									0,
+									40
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									128,
+									128,
+									128
+								],
+								"hex": "#808080",
+								"hsv": [
+									null,
+									0,
+									50
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									234,
+									234,
+									234
+								],
+								"hex": "#eaeaea",
+								"hsv": [
+									null,
+									0,
+									92
+								],
+								"temperature": 6524
+							},
+							{
+								"rgb": [
+									102,
+									102,
+									51
+								],
+								"hex": "#666633",
+								"hsv": [
+									60,
+									50,
+									40
+								],
+								"temperature": 3309
+							},
+							{
+								"rgb": [
+									149,
+									149,
+									149
+								],
+								"hex": "#959595",
+								"hsv": [
+									null,
+									0,
+									58
+								],
+								"temperature": 6524
+							}
+						]
+					},
+					"dominantColor": {
+						"rgb": [
+							213,
+							208,
+							182
+						],
+						"hex": "#d5d0b6",
+						"hsv": [
+							50,
+							15,
+							84
+						],
+						"temperature": 5356
+					}
+				}
+			]
+		}
+	]
+}

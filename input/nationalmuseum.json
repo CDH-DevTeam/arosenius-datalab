@@ -2,6 +2,7 @@
 	"files": [
 		{
 			"obj_id": "19703",
+			"hasImage": true,
 			"title_se": "Apoteos",
 			"title_en": "Apotheosis",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -546,6 +547,7 @@
 		},
 		{
 			"obj_id": "19704",
+			"hasImage": true,
 			"title_se": "Flickan vid dörren. Interiör från konstnärens hem, Älvängen",
 			"title_en": "The Girl at the Door. Interior of the Artist's home, Älvängen",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -1089,6 +1091,7 @@
 		},
 		{
 			"obj_id": "23284",
+			"hasImage": true,
 			"title_se": "Konstnärens hustru Eva",
 			"title_en": "The Artist's Wife, Eva",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -1632,6 +1635,7 @@
 		},
 		{
 			"obj_id": "24307",
+			"hasImage": true,
 			"title_se": "Livet och döden",
 			"title_en": "Life and Death",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -2171,6 +2175,7 @@
 		},
 		{
 			"obj_id": "24438",
+			"hasImage": true,
 			"title_se": "Självporträtt",
 			"title_en": "Selfportrait",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -2714,6 +2719,7 @@
 		},
 		{
 			"obj_id": "24439",
+			"hasImage": true,
 			"title_se": "Den första krogen",
 			"title_en": "The First Tavern",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -3258,6 +3264,7 @@
 		},
 		{
 			"obj_id": "24440",
+			"hasImage": true,
 			"title_se": "Madonna",
 			"title_en": "Madonna",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -3801,6 +3808,7 @@
 		},
 		{
 			"obj_id": "25196",
+			"hasImage": true,
 			"title_se": "Noaks Ark",
 			"title_en": "Noah's Ark",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -4336,6 +4344,7 @@
 		},
 		{
 			"obj_id": "25462",
+			"hasImage": true,
 			"title_se": "Piga och konstapel",
 			"title_en": "Servant-Girl and Policeman",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -4879,6 +4888,7 @@
 		},
 		{
 			"obj_id": "25463",
+			"hasImage": true,
 			"title_se": "Vårens första blomma. Porträtt av Ole Kruse",
 			"title_en": "The First Flower of Spring. Portrait of Ole Kruse",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -5422,6 +5432,7 @@
 		},
 		{
 			"obj_id": "26039",
+			"hasImage": false,
 			"title_se": "Öde landskap",
 			"title_en": "Waste Land",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -5965,6 +5976,7 @@
 		},
 		{
 			"obj_id": "26041",
+			"hasImage": true,
 			"title_se": "Arken",
 			"title_en": "The Ark",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -6498,6 +6510,7 @@
 		},
 		{
 			"obj_id": "27512",
+			"hasImage": true,
 			"title_se": "Målaren Ivar Arosenius",
 			"title_en": "Ivar Arosenius, the Artist",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -7017,6 +7030,7 @@
 		},
 		{
 			"obj_id": "27587",
+			"hasImage": true,
 			"title_se": "Målaren Ivar Arosenius (1905)",
 			"title_en": "The artist Ivar Arosenius",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -7535,6 +7549,7 @@
 		},
 		{
 			"obj_id": "32535",
+			"hasImage": true,
 			"title_se": "Eva med Bohus fästning i bakgrunden, 1907",
 			"title_en": "",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -8068,6 +8083,7 @@
 		},
 		{
 			"obj_id": "36650",
+			"hasImage": true,
 			"title_se": "Vällust",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -8611,6 +8627,7 @@
 		},
 		{
 			"obj_id": "36651",
+			"hasImage": true,
 			"title_se": "Den sista kringlan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -9154,6 +9171,7 @@
 		},
 		{
 			"obj_id": "36888",
+			"hasImage": true,
 			"title_se": "Vänskap",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -9709,6 +9727,7 @@
 		},
 		{
 			"obj_id": "36889",
+			"hasImage": true,
 			"title_se": "November (Ester Sahlin)",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -10252,6 +10271,7 @@
 		},
 		{
 			"obj_id": "36891",
+			"hasImage": true,
 			"title_se": "Ett narrspel",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -10796,6 +10816,7 @@
 		},
 		{
 			"obj_id": "36892",
+			"hasImage": true,
 			"title_se": "Vinguden",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -11340,6 +11361,7 @@
 		},
 		{
 			"obj_id": "36894",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 1, Ben Oni sorgens son, den fattige och föraktade.",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -11892,6 +11914,7 @@
 		},
 		{
 			"obj_id": "36895",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 2, Det bär uppåt över stad och land",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -12444,6 +12467,7 @@
 		},
 		{
 			"obj_id": "36897",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 3, Vid midnattstid landar vinghästen på taket till kalifens slott",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -12996,6 +13020,7 @@
 		},
 		{
 			"obj_id": "36898",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 4, Ben Oni är inte sen att stiga ned i slottet",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -13548,6 +13573,7 @@
 		},
 		{
 			"obj_id": "36899",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 5, För lösa tyglar rusar vinghästen iväg med dem båda",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -14100,6 +14126,7 @@
 		},
 		{
 			"obj_id": "36900",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 6, Ben Oni och den sköna har snart hunnit lägga många mil bakom sig",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -14652,6 +14679,7 @@
 		},
 		{
 			"obj_id": "36901",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 7, Nu har solen runnit upp och vinghästen landat på en underbar ö",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -15204,6 +15232,7 @@
 		},
 		{
 			"obj_id": "36902",
+			"hasImage": true,
 			"title_se": "Ben Onis dröm. Serie om 8 akvareller. 8, \"Upp med dej din trashank\" - polisen väcker omilt Ben Oni",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -15756,6 +15785,7 @@
 		},
 		{
 			"obj_id": "39018",
+			"hasImage": true,
 			"title_se": "Ivar Arosenius, 1878-1909",
 			"title_en": "",
 			"enhet": "Slottssamlingarna",
@@ -16282,6 +16312,7 @@
 		},
 		{
 			"obj_id": "39135",
+			"hasImage": true,
 			"title_se": "Ivar Arosenius, 1878-1909",
 			"title_en": "",
 			"enhet": "Slottssamlingarna",
@@ -16797,6 +16828,7 @@
 		},
 		{
 			"obj_id": "40501",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 13",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -17332,6 +17364,7 @@
 		},
 		{
 			"obj_id": "40502",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 14",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -17867,6 +17900,7 @@
 		},
 		{
 			"obj_id": "41224",
+			"hasImage": false,
 			"title_se": "Kyrkan reformeras",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -18403,6 +18437,7 @@
 		},
 		{
 			"obj_id": "41225",
+			"hasImage": false,
 			"title_se": "Åsna, kor och grisar bland stenar och träd",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -18938,6 +18973,7 @@
 		},
 		{
 			"obj_id": "41226",
+			"hasImage": false,
 			"title_se": "Flygande djur beskådade av fisk",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -19462,6 +19498,7 @@
 		},
 		{
 			"obj_id": "41227",
+			"hasImage": false,
 			"title_se": "Porträttstudie av Lillan som spädbarn",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -19987,6 +20024,7 @@
 		},
 		{
 			"obj_id": "41228",
+			"hasImage": false,
 			"title_se": "Lillan med dockor",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -20520,6 +20558,7 @@
 		},
 		{
 			"obj_id": "41229",
+			"hasImage": false,
 			"title_se": "Lillan får nappflaska",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -21053,6 +21092,7 @@
 		},
 		{
 			"obj_id": "41946",
+			"hasImage": false,
 			"title_se": "Luffare vid sjö",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -21577,6 +21617,7 @@
 		},
 		{
 			"obj_id": "41948",
+			"hasImage": false,
 			"title_se": "Gubbar m m",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -22101,6 +22142,7 @@
 		},
 		{
 			"obj_id": "48028",
+			"hasImage": true,
 			"title_se": "Kvinna med bricka",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -22632,6 +22674,7 @@
 		},
 		{
 			"obj_id": "48041",
+			"hasImage": true,
 			"title_se": "Romantik",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -23166,6 +23209,7 @@
 		},
 		{
 			"obj_id": "48045",
+			"hasImage": false,
 			"title_se": "Självporträtt",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -23708,6 +23752,7 @@
 		},
 		{
 			"obj_id": "48048",
+			"hasImage": true,
 			"title_se": "Två tidningsförsäljare",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -24262,6 +24307,7 @@
 		},
 		{
 			"obj_id": "48051",
+			"hasImage": true,
 			"title_se": "Porträtt av skådespelaren och konstnären John Ekman",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -24803,6 +24849,7 @@
 		},
 		{
 			"obj_id": "48052",
+			"hasImage": true,
 			"title_se": "Självporträtt i turban",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -25335,6 +25382,7 @@
 		},
 		{
 			"obj_id": "48054",
+			"hasImage": true,
 			"title_se": "Damporträtt",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -25867,6 +25915,7 @@
 		},
 		{
 			"obj_id": "48056",
+			"hasImage": true,
 			"title_se": "Söndagsmorgon",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -26422,6 +26471,7 @@
 		},
 		{
 			"obj_id": "48058",
+			"hasImage": true,
 			"title_se": "Kvinna vilande i gräset",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -26986,6 +27036,7 @@
 		},
 		{
 			"obj_id": "48061",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 1",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -27522,6 +27573,7 @@
 		},
 		{
 			"obj_id": "48066",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 2",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -28057,6 +28109,7 @@
 		},
 		{
 			"obj_id": "48068",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 3",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -28592,6 +28645,7 @@
 		},
 		{
 			"obj_id": "48070",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 4",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -29127,6 +29181,7 @@
 		},
 		{
 			"obj_id": "48074",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 5",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -29662,6 +29717,7 @@
 		},
 		{
 			"obj_id": "48078",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 6",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -30197,6 +30253,7 @@
 		},
 		{
 			"obj_id": "48082",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 7",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -30732,6 +30789,7 @@
 		},
 		{
 			"obj_id": "48085",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 8",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -31267,6 +31325,7 @@
 		},
 		{
 			"obj_id": "48086",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 9",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -31802,6 +31861,7 @@
 		},
 		{
 			"obj_id": "48087",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 10",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -32337,6 +32397,7 @@
 		},
 		{
 			"obj_id": "48105",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 11",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -32872,6 +32933,7 @@
 		},
 		{
 			"obj_id": "48107",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 12",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -33407,6 +33469,7 @@
 		},
 		{
 			"obj_id": "48111",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 15",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -33942,6 +34005,7 @@
 		},
 		{
 			"obj_id": "48112",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 16",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -34477,6 +34541,7 @@
 		},
 		{
 			"obj_id": "48113",
+			"hasImage": true,
 			"title_se": "Lillans kattresa, sidan 16",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -35012,6 +35077,7 @@
 		},
 		{
 			"obj_id": "48138",
+			"hasImage": true,
 			"title_se": "Fyllbult",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -35567,6 +35633,7 @@
 		},
 		{
 			"obj_id": "48141",
+			"hasImage": true,
 			"title_se": "Slagsmål, 1869",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -36112,6 +36179,7 @@
 		},
 		{
 			"obj_id": "48142",
+			"hasImage": true,
 			"title_se": "Viking",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -36655,6 +36723,7 @@
 		},
 		{
 			"obj_id": "48143",
+			"hasImage": false,
 			"title_se": "Strid mellan indianer och vita",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -37188,6 +37257,7 @@
 		},
 		{
 			"obj_id": "48144",
+			"hasImage": true,
 			"title_se": "Kämpande greker",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -37721,6 +37791,7 @@
 		},
 		{
 			"obj_id": "48149",
+			"hasImage": true,
 			"title_se": "Pappersfigurer, 35 stycken",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -38246,6 +38317,7 @@
 		},
 		{
 			"obj_id": "48150",
+			"hasImage": true,
 			"title_se": "Dockornas dans. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -38790,6 +38862,7 @@
 		},
 		{
 			"obj_id": "48152",
+			"hasImage": true,
 			"title_se": "Flicka. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -39323,6 +39396,7 @@
 		},
 		{
 			"obj_id": "48154",
+			"hasImage": true,
 			"title_se": "Flicka och andra figurer. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -39867,6 +39941,7 @@
 		},
 		{
 			"obj_id": "48155",
+			"hasImage": true,
 			"title_se": "Flicka och tupp. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -40400,6 +40475,7 @@
 		},
 		{
 			"obj_id": "48163",
+			"hasImage": true,
 			"title_se": "Saft. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -40934,6 +41010,7 @@
 		},
 		{
 			"obj_id": "48170",
+			"hasImage": true,
 			"title_se": "Potta, häst, blomma, och tupp. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -41467,6 +41544,7 @@
 		},
 		{
 			"obj_id": "48173",
+			"hasImage": true,
 			"title_se": "Flicka på krokodil. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -42000,6 +42078,7 @@
 		},
 		{
 			"obj_id": "48174",
+			"hasImage": true,
 			"title_se": "Katt och flicka. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -42533,6 +42612,7 @@
 		},
 		{
 			"obj_id": "48176",
+			"hasImage": true,
 			"title_se": "Gubbe och gumma. Anknytning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -43067,6 +43147,7 @@
 		},
 		{
 			"obj_id": "48177",
+			"hasImage": true,
 			"title_se": "Klippdockor, sju stycken, i anslutning till Kattresan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -43581,6 +43662,7 @@
 		},
 		{
 			"obj_id": "48178",
+			"hasImage": true,
 			"title_se": "Lillans ask",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -44105,6 +44187,7 @@
 		},
 		{
 			"obj_id": "48188",
+			"hasImage": true,
 			"title_se": "Rosa",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -44647,6 +44730,7 @@
 		},
 		{
 			"obj_id": "48190",
+			"hasImage": true,
 			"title_se": "Man på vandring",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -45169,6 +45253,7 @@
 		},
 		{
 			"obj_id": "48191",
+			"hasImage": true,
 			"title_se": "Lustmördaren",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -45711,6 +45796,7 @@
 		},
 		{
 			"obj_id": "48192",
+			"hasImage": true,
 			"title_se": "Min kusin från landet",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -46254,6 +46340,7 @@
 		},
 		{
 			"obj_id": "48195",
+			"hasImage": true,
 			"title_se": "Sagopar",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -46796,6 +46883,7 @@
 		},
 		{
 			"obj_id": "48197",
+			"hasImage": true,
 			"title_se": "Selma tänder brasan",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -47338,6 +47426,7 @@
 		},
 		{
 			"obj_id": "48200",
+			"hasImage": true,
 			"title_se": "Guldfågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -47880,6 +47969,7 @@
 		},
 		{
 			"obj_id": "48201",
+			"hasImage": true,
 			"title_se": "Trollkarlen och kvinnofågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -48422,6 +48512,7 @@
 		},
 		{
 			"obj_id": "48202",
+			"hasImage": true,
 			"title_se": "Trollkarlen och kvinnofågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -48955,6 +49046,7 @@
 		},
 		{
 			"obj_id": "48203",
+			"hasImage": true,
 			"title_se": "Trollkarlen och kvinnofågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -49488,6 +49580,7 @@
 		},
 		{
 			"obj_id": "48204",
+			"hasImage": true,
 			"title_se": "Trollkarlen och kvinnofågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -50030,6 +50123,7 @@
 		},
 		{
 			"obj_id": "48208",
+			"hasImage": true,
 			"title_se": "Trollkarlen och kvinnofågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -50572,6 +50666,7 @@
 		},
 		{
 			"obj_id": "48209",
+			"hasImage": true,
 			"title_se": "Trollkarlen och kvinnofågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -51114,6 +51209,7 @@
 		},
 		{
 			"obj_id": "48210",
+			"hasImage": true,
 			"title_se": "Trollkarlen och kvinnofågeln",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -51656,6 +51752,7 @@
 		},
 		{
 			"obj_id": "48228",
+			"hasImage": true,
 			"title_se": "Lillan vid en drivbänk",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -52189,6 +52286,7 @@
 		},
 		{
 			"obj_id": "48229",
+			"hasImage": true,
 			"title_se": "Lillan med leksaker",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -52722,6 +52820,7 @@
 		},
 		{
 			"obj_id": "48232",
+			"hasImage": true,
 			"title_se": "En kålmask",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -53264,6 +53363,7 @@
 		},
 		{
 			"obj_id": "48243",
+			"hasImage": true,
 			"title_se": "Akta dig",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -53817,6 +53917,7 @@
 		},
 		{
 			"obj_id": "48246",
+			"hasImage": true,
 			"title_se": "Utestängd",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -54370,6 +54471,7 @@
 		},
 		{
 			"obj_id": "48249",
+			"hasImage": true,
 			"title_se": "Solnedgång",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -54903,6 +55005,7 @@
 		},
 		{
 			"obj_id": "48250",
+			"hasImage": true,
 			"title_se": "Sagoboken",
 			"title_en": "Eva läser",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -55445,6 +55548,7 @@
 		},
 		{
 			"obj_id": "48251",
+			"hasImage": true,
 			"title_se": "Uggla med dödskallehuvud",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -55989,6 +56093,7 @@
 		},
 		{
 			"obj_id": "48256",
+			"hasImage": true,
 			"title_se": "En kärlekssaga.  Serie om fyra bilder. 1, Idyll med prinsessa och kavaljer",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -56531,6 +56636,7 @@
 		},
 		{
 			"obj_id": "48262",
+			"hasImage": true,
 			"title_se": "En kärlekssaga. Serie om fyra bilder. 2, Kungen låter avrätta kavaljeren",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -57073,6 +57179,7 @@
 		},
 		{
 			"obj_id": "48265",
+			"hasImage": true,
 			"title_se": "En kärlekssaga. Serie om fyra bilder. 3, Prinsessan krymper inför kungens vrede",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -57606,6 +57713,7 @@
 		},
 		{
 			"obj_id": "48266",
+			"hasImage": true,
 			"title_se": "En kärlekssaga. Serie om fyra bilder. 4, Prinsessan och kavaljeren återförenas som blomma och fjäril",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -58148,6 +58256,7 @@
 		},
 		{
 			"obj_id": "48268",
+			"hasImage": true,
 			"title_se": "Självporträtt. Livets bok",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -58681,6 +58790,7 @@
 		},
 		{
 			"obj_id": "48271",
+			"hasImage": true,
 			"title_se": "Karikatyrer av göteborgare, James Keiller, Hugo Köster med flera",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -59225,6 +59335,7 @@
 		},
 		{
 			"obj_id": "48273",
+			"hasImage": true,
 			"title_se": "Karikatyrer av män och kvinnor",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -59758,6 +59869,7 @@
 		},
 		{
 			"obj_id": "48276",
+			"hasImage": true,
 			"title_se": "Karikatyr av präst",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -60302,6 +60414,7 @@
 		},
 		{
 			"obj_id": "48278",
+			"hasImage": true,
 			"title_se": "Karikatyrer av två herrar",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -60836,6 +60949,7 @@
 		},
 		{
 			"obj_id": "48280",
+			"hasImage": true,
 			"title_se": "Skisser av piratöverfall med mera",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -61369,6 +61483,7 @@
 		},
 		{
 			"obj_id": "48283",
+			"hasImage": true,
 			"title_se": "Fäktning mellan soldater",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -61924,6 +62039,7 @@
 		},
 		{
 			"obj_id": "48285",
+			"hasImage": true,
 			"title_se": "Man och kvinna vid fönster",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -62458,6 +62574,7 @@
 		},
 		{
 			"obj_id": "48287",
+			"hasImage": true,
 			"title_se": "Mansporträtt, karikatyr. Överkorsad",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -62991,6 +63108,7 @@
 		},
 		{
 			"obj_id": "48289",
+			"hasImage": true,
 			"title_se": "Strider mellan soldater till fots och till häst",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -63546,6 +63664,7 @@
 		},
 		{
 			"obj_id": "48292",
+			"hasImage": true,
 			"title_se": "Stridsscener",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -64101,6 +64220,7 @@
 		},
 		{
 			"obj_id": "48296",
+			"hasImage": true,
 			"title_se": "Skämtserie. Misslyckad fågelskytt",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -64634,6 +64754,7 @@
 		},
 		{
 			"obj_id": "48298",
+			"hasImage": true,
 			"title_se": "Skämttecknigar, bl a syftande på Nansens och Andrées polarexpeditioner",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -65167,6 +65288,7 @@
 		},
 		{
 			"obj_id": "48300",
+			"hasImage": true,
 			"title_se": "Skämtserie, bl a fruktsnattare",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -65700,6 +65822,7 @@
 		},
 		{
 			"obj_id": "48301",
+			"hasImage": true,
 			"title_se": "Anatomistudier",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -66233,6 +66356,7 @@
 		},
 		{
 			"obj_id": "48304",
+			"hasImage": true,
 			"title_se": "Indian på kaninjakt",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -66766,6 +66890,7 @@
 		},
 		{
 			"obj_id": "48306",
+			"hasImage": true,
 			"title_se": "Kungligt mottagande",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -67280,6 +67405,7 @@
 		},
 		{
 			"obj_id": "48315",
+			"hasImage": true,
 			"title_se": "Familjeidyll",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -67825,6 +67951,7 @@
 		},
 		{
 			"obj_id": "48318",
+			"hasImage": true,
 			"title_se": "Midsommardans",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -68370,6 +68497,7 @@
 		},
 		{
 			"obj_id": "48319",
+			"hasImage": true,
 			"title_se": "Porträtt av min hustru",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -68914,6 +69042,7 @@
 		},
 		{
 			"obj_id": "122557",
+			"hasImage": false,
 			"title_se": "Elefant",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -69422,6 +69551,7 @@
 		},
 		{
 			"obj_id": "122558",
+			"hasImage": false,
 			"title_se": "Tiger",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -69930,6 +70060,7 @@
 		},
 		{
 			"obj_id": "122559",
+			"hasImage": false,
 			"title_se": "Vit och brun ko",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -70438,6 +70569,7 @@
 		},
 		{
 			"obj_id": "122560",
+			"hasImage": false,
 			"title_se": "Brun tjur",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -70946,6 +71078,7 @@
 		},
 		{
 			"obj_id": "122561",
+			"hasImage": false,
 			"title_se": "Björn",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -71454,6 +71587,7 @@
 		},
 		{
 			"obj_id": "122562",
+			"hasImage": false,
 			"title_se": "Get",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -71962,6 +72096,7 @@
 		},
 		{
 			"obj_id": "122563",
+			"hasImage": false,
 			"title_se": "Hund",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -72470,6 +72605,7 @@
 		},
 		{
 			"obj_id": "122564",
+			"hasImage": false,
 			"title_se": "Leopard",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -72978,6 +73114,7 @@
 		},
 		{
 			"obj_id": "122565",
+			"hasImage": false,
 			"title_se": "Får",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -73486,6 +73623,7 @@
 		},
 		{
 			"obj_id": "122566",
+			"hasImage": false,
 			"title_se": "Vikingaskepp",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -73994,6 +74132,7 @@
 		},
 		{
 			"obj_id": "122567",
+			"hasImage": false,
 			"title_se": "Trädgård med figurer",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -74502,6 +74641,7 @@
 		},
 		{
 			"obj_id": "122568",
+			"hasImage": false,
 			"title_se": "Man med trädgren",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -75010,6 +75150,7 @@
 		},
 		{
 			"obj_id": "150177",
+			"hasImage": true,
 			"title_se": "Dödsmask av Ivar Arosenius (1878-1909) med tillhörande blomsterkrans",
 			"title_en": "",
 			"enhet": "Måleri- och skulptursamlingen",
@@ -75522,6 +75663,7 @@
 		},
 		{
 			"obj_id": "156451",
+			"hasImage": false,
 			"title_se": "Lillans Månresa",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -76060,6 +76202,7 @@
 		},
 		{
 			"obj_id": "174257",
+			"hasImage": true,
 			"title_se": "Onda makter",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -76593,6 +76736,7 @@
 		},
 		{
 			"obj_id": "174258",
+			"hasImage": true,
 			"title_se": "Kalifens guldfågel",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
@@ -77134,6 +77278,7 @@
 		},
 		{
 			"obj_id": "174287",
+			"hasImage": true,
 			"title_se": "Titel: \"Före utställningen\", Ivar Arosenius (1878-1909), konstnär, g.m. Andrea Cecilia Eva Adler, Ole Kruse (1868-1948), dansk verksam i Sverige, konstnär, författare, g.m. Sophie Agnes Schlotfeldt",
 			"title_en": "",
 			"enhet": "Slottssamlingarna",
@@ -77647,6 +77792,7 @@
 		},
 		{
 			"obj_id": "175230",
+			"hasImage": false,
 			"title_se": "Modersmjölken",
 			"title_en": "",
 			"enhet": "Tecknings- och grafiksamlingen",
