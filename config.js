@@ -4,5 +4,5 @@ module.exports = {
 	pass: '',
 
 	nationalmuseum-json: 'input/nationalmuseum.json',
-	gub-json: 'input/gub'
+	gub-folder: 'input/gub'
 };

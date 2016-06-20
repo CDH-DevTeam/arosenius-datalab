@@ -10,10 +10,10 @@ var client = new elasticsearch.Client({
 
 var data = [];
 
-fs.readdir(config.gub-json, _.bind(function(err, files) {
+fs.readdir(config.gub-folder, _.bind(function(err, files) {
 	_.each(files, function(file) {
 //		console.log('open input/gub/'+file);
-		var fileData = fs.readFileSync('input/gub/'+file, 'utf8');
+		var fileData = fs.readFileSync(config.gub-folder+'/'+file, 'utf8');
 		data.push(JSON.parse(fileData));
 	});
 
