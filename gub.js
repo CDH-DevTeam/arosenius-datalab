@@ -34,8 +34,8 @@ fs.readdir(config.gub_folder, _.bind(function(err, files) {
 
 		if (file.meta.letter_recipient_name_date.indexOf('-') > -1) {
 			var recipientYears = file.meta.letter_recipient_name_date.split('-');
-			recipientBirthYear = senderYears[0];
-			recipientDeathYear = senderYears[1];
+			recipientBirthYear = recipientYears[0];
+			recipientDeathYear = recipientYears[1];
 		}
 
 		_.each(file.files, function(imagePack) {
