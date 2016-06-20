@@ -85,7 +85,7 @@ fs.readdir(config.gub_folder, _.bind(function(err, files) {
 					},
 					page: {
 						id: image.id,
-						side: image.Type
+						side: image.type
 					},
 					image: 'gub-'+image.id
 				});
