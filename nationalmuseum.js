@@ -8,7 +8,7 @@ var client = new elasticsearch.Client({
 	log: 'trace'
 });
 
-fs.readFile(config.nationalmuseum-json, 'utf8', function (err, fileData) {
+fs.readFile(config.nationalmuseum_json, 'utf8', function (err, fileData) {
 	if (err) throw err;
 
 	var data = JSON.parse(fileData);

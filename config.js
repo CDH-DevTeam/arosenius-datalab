@@ -3,6 +3,6 @@ module.exports = {
 	user: '',
 	pass: '',
 
-	nationalmuseum-json: 'input/nationalmuseum.json',
-	gub-folder: 'input/gub'
+	nationalmuseum_json: 'input/nationalmuseum.json',
+	gub_folder: 'input/gub'
 };
