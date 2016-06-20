@@ -83,6 +83,10 @@ fs.readdir(config.gub_folder, _.bind(function(err, files) {
 						dominant: image.dominantColor,
 						colors: image.colors
 					},
+					page: {
+						id: image.id,
+						side: image.Type
+					},
 					image: 'gub-'+image.id
 				});
 			});
