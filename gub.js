@@ -4,13 +4,13 @@ var fs = require('fs');
 var elasticsearch = require('elasticsearch');
 
 var client = new elasticsearch.Client({
-	host: '127.0.0.1:9200',
+	host: config.host,
 	log: 'trace'
 });
 
 var data = [];
 
-fs.readdir('input/gub', _.bind(function(err, files) {
+fs.readdir(config.gub-json, _.bind(function(err, files) {
 	_.each(files, function(file) {
 //		console.log('open input/gub/'+file);
 		var fileData = fs.readFileSync('input/gub/'+file, 'utf8');

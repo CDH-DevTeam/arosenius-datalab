@@ -4,11 +4,11 @@ var fs = require('fs');
 var elasticsearch = require('elasticsearch');
 
 var client = new elasticsearch.Client({
-	host: '127.0.0.1:9200',
+	host: config.host,
 	log: 'trace'
 });
 
-fs.readFile('input/nationalmuseum.json', 'utf8', function (err, fileData) {
+fs.readFile(config.nationalmuseum-json, 'utf8', function (err, fileData) {
 	if (err) throw err;
 
 	var data = JSON.parse(fileData);
