@@ -1,19 +1,21 @@
 var _ = require('underscore');
-var config = require('./config');
 var fs = require('fs');
 var elasticsearch = require('elasticsearch');
+var Canvas = require('canvas');
+var colorThief = require('thief');
+
+var colors = require('./arosenius.color_utils');
+var config = require('./config');
 
 var client = new elasticsearch.Client({
-	host: config.host,
-	log: 'trace'
+	host: config.host
 });
 
 var data = [];
 
-fs.readdir(config.gub_folder, _.bind(function(err, files) {
+fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 	_.each(files, function(file) {
-//		console.log('open input/gub/'+file);
-		var fileData = fs.readFileSync(config.gub_folder+'/'+file, 'utf8');
+		var fileData = fs.readFileSync(config.gub_json_path+'/'+file, 'utf8');
 		data.push(JSON.parse(fileData));
 	});
 
@@ -41,7 +43,7 @@ fs.readdir(config.gub_folder, _.bind(function(err, files) {
 		_.each(file.files, function(imagePack) {
 			_.each(imagePack.images, function(image) {
 
-				dbData.push({
+				var imageDocument = {
 					bundle: file.meta.mets_ID, //
 					type: file.letter_sender_name_given && file.letter_sender_name_given != '' ? 'letter' : '',
 					sender: file.letter_sender_name_given && file.letter_sender_name_given != '' ? {
@@ -79,20 +81,83 @@ fs.readdir(config.gub_folder, _.bind(function(err, files) {
 					licence: '',
 					acquisition: null,
 					signature: null,
+/*
 					color: {
 						dominant: image.dominantColor,
 						colors: image.colors
 					},
+*/
 					page: {
 						id: image.id,
 						side: image.type
 					},
-					image: 'gub-'+image.id
+					image: 'gub-'+file.meta.mets_ID+'-'+image.id
+				};
+
+				var imagePath = config.gub_image_path+'\\'+file.meta.mets_ID+'\\web\\'+image.id.replace('web', '')+'.png';
+
+				console.log('readFileSync: '+imagePath);
+				var imageData = fs.readFileSync(imagePath);
+
+				console.log('new Canvas.Image');
+				var image = new Canvas.Image;
+				image.src = imageData;
+
+				var canvas = new Canvas(image.width, image.height);
+				var ctx = canvas.getContext('2d');
+
+				console.log('ctx.drawImage');
+				ctx.drawImage(image, 0, 0, image.width, image.height);
+
+				var imageColors3 = _.map(colorThief.createPalette(canvas, 3), function(color) {
+						return colors.colorObject(color);
 				});
+				var imageColors5 = _.map(colorThief.createPalette(canvas, 5), function(color) {
+						return colors.colorObject(color);
+				});
+				var imageColors10 = _.map(colorThief.createPalette(canvas, 10), function(color) {
+						return colors.colorObject(color);
+				});
+				var dominantColor = colors.colorObject(colorThief.getDominantColor(canvas));
+
+				var colorData = {
+					dominant: dominantColor,
+					colors: {			
+						three: imageColors3,
+						five: imageColors5,
+						five_mapped: _.map(imageColors5, function(color) {
+							var mappedColor = colors.mapColorToPalette(color.rgb);
+
+							return colors.colorObject(mappedColor);
+						}),
+						ten: imageColors10,
+						ten_mapped: _.map(imageColors10, function(color) {
+							var mappedColor = colors.mapColorToPalette(color.rgb);
+
+							return colors.colorObject(mappedColor);
+						})
+					}
+				};
+
+				imageDocument.color = colorData;
+
+				client.bulk({
+					body: [
+						{
+							create: {
+								_index: 'arosenius',
+								_type: 'artwork'
+							}
+						},
+						imageDocument
+					]
+				});
+
+//				dbData.push(imageDocument);
 			});
 		})
 	});
-
+/*
 	var bulkBody = [];
 
 	_.each(dbData, function(item, index) {
@@ -108,5 +173,5 @@ fs.readdir(config.gub_folder, _.bind(function(err, files) {
 	client.bulk({
 		body: bulkBody
 	});
-
+*/
 }, this));
