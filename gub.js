@@ -94,7 +94,7 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					image: 'gub-'+file.meta.mets_ID+'-'+image.id
 				};
 
-				var imagePath = config.gub_image_path+'\\'+file.meta.mets_ID+'\\web\\'+image.id.replace('web', '')+'.png';
+				var imagePath = config.gub_image_path+'/'+file.meta.mets_ID+'/web/'+image.id.replace('web', '')+'.jpg';
 
 				console.log('readFileSync: '+imagePath);
 				var imageData = fs.readFileSync(imagePath);
