@@ -22,7 +22,7 @@ client.search({
 	size: 10000
 }, function(err, response) {
 	_.each(response.hits.hits, function(hit) {
-		var imagePath = config.gub_image_path+'/'+hit._source.bundle+'/web/'+hit._source.page.id.replace('web', '')+'.png';
+		var imagePath = config.gub_image_path+'/'+hit._source.bundle+'/web/'+hit._source.page.id.replace('web', '')+'.'+config.image_type;
 
 		console.log('readFileSync: '+imagePath);
 		var imageData = fs.readFileSync(imagePath);
