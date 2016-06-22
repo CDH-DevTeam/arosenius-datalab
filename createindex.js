@@ -4,8 +4,7 @@ var fs = require('fs');
 var elasticsearch = require('elasticsearch');
 
 var client = new elasticsearch.Client({
-	host: config.host,
-	log: 'trace'
+	host: config.host
 });
 
 client.indices.create({

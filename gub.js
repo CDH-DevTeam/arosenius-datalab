@@ -7,11 +7,9 @@ var colorThief = require('thief');
 var colors = require('./arosenius.color_utils');
 var config = require('./config');
 
-var client = new elasticsearch.Client({
-	host: config.host
-});
-
 var data = [];
+
+var insertCounter = 0;
 
 fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 	_.each(files, function(file) {
@@ -94,70 +92,14 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					image: 'gub-'+file.meta.mets_ID+'-'+image.id
 				};
 
-				var imagePath = config.gub_image_path+'/'+file.meta.mets_ID+'/web/'+image.id.replace('web', '')+'.jpg';
-
-				console.log('readFileSync: '+imagePath);
-				var imageData = fs.readFileSync(imagePath);
-
-				console.log('new Canvas.Image');
-				var image = new Canvas.Image;
-				image.src = imageData;
-
-				var canvas = new Canvas(image.width, image.height);
-				var ctx = canvas.getContext('2d');
-
-				console.log('ctx.drawImage');
-				ctx.drawImage(image, 0, 0, image.width, image.height);
-
-				var imageColors3 = _.map(colorThief.createPalette(canvas, 3), function(color) {
-						return colors.colorObject(color);
-				});
-				var imageColors5 = _.map(colorThief.createPalette(canvas, 5), function(color) {
-						return colors.colorObject(color);
-				});
-				var imageColors10 = _.map(colorThief.createPalette(canvas, 10), function(color) {
-						return colors.colorObject(color);
-				});
-				var dominantColor = colors.colorObject(colorThief.getDominantColor(canvas));
-
-				var colorData = {
-					dominant: dominantColor,
-					colors: {			
-						three: imageColors3,
-						five: imageColors5,
-						five_mapped: _.map(imageColors5, function(color) {
-							var mappedColor = colors.mapColorToPalette(color.rgb);
-
-							return colors.colorObject(mappedColor);
-						}),
-						ten: imageColors10,
-						ten_mapped: _.map(imageColors10, function(color) {
-							var mappedColor = colors.mapColorToPalette(color.rgb);
-
-							return colors.colorObject(mappedColor);
-						})
-					}
-				};
-
-				imageDocument.color = colorData;
-
-				client.bulk({
-					body: [
-						{
-							create: {
-								_index: 'arosenius',
-								_type: 'artwork'
-							}
-						},
-						imageDocument
-					]
-				});
-
-//				dbData.push(imageDocument);
+				if (insertCounter < 10) {
+					dbData.push(imageDocument);
+				}
+				insertCounter++;
 			});
 		})
 	});
-/*
+
 	var bulkBody = [];
 
 	_.each(dbData, function(item, index) {
@@ -170,8 +112,13 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 		bulkBody.push(item);
 	});
 
+	var client = new elasticsearch.Client({
+		host: config.host,
+		log: 'trace'
+	});
+
 	client.bulk({
 		body: bulkBody
 	});
-*/
+
 }, this));
