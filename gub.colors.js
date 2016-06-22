@@ -4,6 +4,7 @@ var elasticsearch = require('elasticsearch');
 var Canvas = require('canvas');
 var colorThief = require('thief');
 var request = require("request");
+var http = require('http');
 
 var colors = require('./arosenius.color_utils');
 var config = require('./config');
@@ -69,6 +70,27 @@ client.search({
 
 		hit._source.color = colorData;
 
+		var options = {
+			host: '127.0.0.1',
+			port: 9200,
+			path: '/arosenius/artwork/'+hit._id+'/_update',
+			method: 'POST'
+		};
+
+		var req = http.request(options, function(resp){
+			resp.on('data', function(chunk){
+		    	console.log(chunk);
+			});
+		}).on("error", function(e){
+			console.log("Got error: " + e.message);
+		});
+
+		req.write(JSON.stringify({
+			doc: hit._source
+		}));
+		req.write('\n');
+		req.end();
+/*
 		request({
 			url: 'http://127.0.0.1:9200/arosenius/artwork/'+hit._id+'/_update',
 			method: "POST",
