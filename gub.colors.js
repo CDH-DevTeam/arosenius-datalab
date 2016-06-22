@@ -109,7 +109,6 @@ client.search({
 			}
 			console.log(response);
 		});
-
+*/
 	});
 });
-*/
