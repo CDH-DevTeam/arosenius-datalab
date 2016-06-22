@@ -92,9 +92,9 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					image: 'gub-'+file.meta.mets_ID+'-'+image.id
 				};
 
-				if (insertCounter < 10) {
+//				if (insertCounter < 10) {
 					dbData.push(imageDocument);
-				}
+//				}
 				insertCounter++;
 			});
 		})
