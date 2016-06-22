@@ -70,12 +70,6 @@ var processColors = function() {
 				var mappedColor = colors.mapColorToPalette(color.rgb);
 
 				return colors.colorObject(mappedColor);
-			}),
-			ten: imageColors10,
-			ten_mapped: _.map(imageColors10, function(color) {
-				var mappedColor = colors.mapColorToPalette(color.rgb);
-
-				return colors.colorObject(mappedColor);
 			})
 		}
 	};
