@@ -112,18 +112,4 @@ client.search({
 
 	});
 });
-
-/*
-
-				imageDocument.color = colorData;
-
-				request({
-					url: url,
-					method: "POST",
-					json: true,
-					headers: {
-						"content-type": "application/json",
-					},
-					body: JSON.stringify(imageDocument)
-				});
 */
