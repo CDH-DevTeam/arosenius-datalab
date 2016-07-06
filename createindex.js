@@ -13,6 +13,14 @@ client.indices.create({
 		mappings: {
 			artwork: {
 				properties: {
+					type: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
+					bundle: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
 					collection: {
 						properties: {
 							museum: {

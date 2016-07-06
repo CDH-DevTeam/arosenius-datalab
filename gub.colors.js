@@ -35,7 +35,7 @@ var processColors = function() {
 	console.log('processColors: hitIndex: '+hitIndex);
 	var hit = hits[hitIndex];
 
-	var imagePath = config.gub_image_path+'/'+hit._source.bundle+'/web/'+hit._source.page.id.replace('web', '')+'.'+config.image_type;
+	var imagePath = config.gub_image_path+'/'+hit._source.image+'-medium.'+config.image_type;
 
 	console.log('readFileSync: '+imagePath);
 	var imageData = fs.readFileSync(imagePath);
@@ -56,21 +56,26 @@ var processColors = function() {
 	var imageColors5 = _.map(colorThief.createPalette(canvas, 5), function(color) {
 			return colors.colorObject(color);
 	});
-	var imageColors10 = _.map(colorThief.createPalette(canvas, 10), function(color) {
+	var imageColors8 = _.map(colorThief.createPalette(canvas, 8), function(color) {
 			return colors.colorObject(color);
 	});
 	var dominantColor = colors.colorObject(colorThief.getDominantColor(canvas));
 
 	var colorData = {
 		dominant: dominantColor,
-		colors: {			
+		colors: {
 			three: imageColors3,
 			five: imageColors5,
 			five_mapped: _.map(imageColors5, function(color) {
 				var mappedColor = colors.mapColorToPalette(color.rgb);
 
 				return colors.colorObject(mappedColor);
-			})
+			}),
+			eight_mapped: _.map(imageColors8, function(color) {
+				var mappedColor = colors.mapColorToPalette(color.rgb);
+
+				return colors.colorObject(mappedColor);
+			}),
 		}
 	};
 

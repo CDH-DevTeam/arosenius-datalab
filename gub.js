@@ -17,9 +17,12 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 		data.push(JSON.parse(fileData));
 	});
 
+	var bundleData = [];
+
 	var dbData = [];
 
 	_.each(data, function(file) {
+
 		var senderBirthYear = '';
 		var senderDeathYear = '';
 
@@ -38,19 +41,32 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 			recipientDeathYear = recipientYears[1];
 		}
 
-		_.each(file.files, function(imagePack) {
-			_.each(imagePack.images, function(image) {
+		console.log(file.letter_sender_name_given);
 
+		_.each(file.files, function(imagePack) {
+			bundleData.push({
+				bundle: file.meta.mets_ID+'-'+imagePack.metadata.hd_id,
+				title: imagePack.metadata.physdesc,
+				description: imagePack.metadata.note,//
+				collection: {
+					museum: 'Göteborgs universitetbibliotek',
+					archive_item: {
+						title: file.meta.archive_unit_title,
+						archive_physloc: file.meta.archive_physloc
+					}
+				}
+			});
+			_.each(imagePack.images, function(image) {
 				var imageDocument = {
-					bundle: file.meta.mets_ID, //
-					type: file.letter_sender_name_given && file.letter_sender_name_given != '' ? 'letter' : '',
-					sender: file.letter_sender_name_given && file.letter_sender_name_given != '' ? {
+					bundle: file.meta.mets_ID+'-'+imagePack.metadata.hd_id, //
+					type: file.meta.letter_sender_name_given && file.meta.letter_sender_name_given != '' ? 'letter' : '',
+					sender: file.meta.letter_sender_name_given && file.meta.letter_sender_name_given != '' ? {
 						firstname: file.meta.letter_sender_name_given,
 						surname: file.meta.letter_sender_name_family,
 						birth_year: senderBirthYear,
 						death_year: senderDeathYear
 					} : null,
-					recipient: file.letter_recipient_name_given && file.letter_sender_name_given != '' ? {
+					recipient: file.meta.letter_recipient_name_given && file.meta.letter_sender_name_given != '' ? {
 						firstname: file.meta.letter_recipient_name_given,
 						surname: file.meta.letter_recipient_name_family,
 						birth_year: recipientBirthYear,
@@ -75,7 +91,11 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 							archive_physloc: file.meta.archive_physloc
 						}
 					},
-					museum_int_id: file.meta.mets_ID,
+					museum_int_id: [
+						file.meta.mets_ID,
+						imagePack.metadata.hd_id,
+						image.id
+					],
 					licence: '',
 					acquisition: null,
 					signature: null,
@@ -89,7 +109,7 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 						id: image.id,
 						side: image.type
 					},
-					image: 'gub-'+file.meta.mets_ID+'-'+image.id
+					image: file.meta.mets_ID+'-'+image.id.replace('web', '')
 				};
 
 				if (config.insert_limit) {
@@ -112,6 +132,16 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 			create: {
 				_index: 'arosenius',
 				_type: 'artwork'
+			}
+		});
+		bulkBody.push(item);
+	});
+
+	_.each(bundleData, function(item, index) {
+		bulkBody.push({
+			create: {
+				_index: 'arosenius',
+				_type: 'bundle'
 			}
 		});
 		bulkBody.push(item);
