@@ -43,7 +43,11 @@ var processColors = function() {
 		encoding: null
 	}, function(err, resp, body) {
 		if (err) {
-			return;
+	    	if (hitIndex < hits.length) {
+	    		hitIndex++;
+
+	    		processColors();
+	    	}
 		}
 		else {
 			var imageData = body;
@@ -119,7 +123,13 @@ var processColors = function() {
 				req.write('\n');
 				req.end();
 			}
-			catch(e) {}
+			catch(e) {
+				if (hitIndex < hits.length) {
+					hitIndex++;
+
+					processColors();
+				}
+			}
 		}
 	});
 };
