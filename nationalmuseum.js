@@ -100,7 +100,7 @@ fs.readFile(config.nationalmuseum_json, 'utf8', function (err, fileData) {
 				dominant: file.dominantColor,
 				colors: file.colors
 			},
-			image: file.hasImage ? 'nationalmuseum-'+file.obj_id : null
+			image: 'nationalmuseum-'+file.obj_id
 		};
 	});
 
