@@ -72,8 +72,8 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 						birth_year: recipientBirthYear,
 						death_year: recipientDeathYear
 					} : null,
-					date: file.meta.letter_unitdate && file.meta.letter_unitdate != '' ? {
-							date: file.meta.letter_unitdate
+					date: file.meta.letter_image_unitdate && file.meta.letter_image_unitdate != '' ? {
+							date: file.meta.letter_image_unitdate
 						} : {
 							date: file.meta.document_unitdate
 						},
