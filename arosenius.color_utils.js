@@ -11,9 +11,9 @@ module.exports = {
 			rgb: color,
 			hex: hex,
 			hsv: {
-				h: hsv[0] == null || typeof hsv[0] == 'null' || Math.round(hsv[0]) == null ? 0 : Math.round(hsv[0]), 
-				s: hsv[1] == null || typeof hsv[1] == 'null' || Math.round(hsv[1]*100) == null ? 0 : Math.round(hsv[1]*100), 
-				v: hsv[2] == null || typeof hsv[2] == 'null' || Math.round(hsv[2]*100) == null ? 0 : Math.round(hsv[2]*100)
+				h: !hsv[0] || hsv[0] == null || typeof hsv[0] === 'null' || Math.round(hsv[0]) == null ? 0 : Math.round(hsv[0]), 
+				s: !hsv[1] || hsv[1] == null || typeof hsv[1] === 'null' || Math.round(hsv[1]*100) == null ? 0 : Math.round(hsv[1]*100), 
+				v: !hsv[2] || hsv[2] == null || typeof hsv[2] === 'null' || Math.round(hsv[2]*100) == null ? 0 : Math.round(hsv[2]*100)
 			},
 			temperature: temperature
 		};
