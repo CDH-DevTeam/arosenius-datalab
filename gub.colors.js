@@ -43,6 +43,7 @@ var processColors = function() {
 		encoding: null
 	}, function(err, resp, body) {
 		if (err) {
+			console.log(err);
 	    	if (hitIndex < hits.length) {
 	    		hitIndex++;
 
@@ -103,7 +104,8 @@ var processColors = function() {
 					method: 'POST'
 				};
 
-				var req = http.request(options, function(resp){
+
+				var req = http.request(options, function(resp) {
 					resp.on('data', function(chunk){
 						console.log('resp.on: data');
 						console.log('hitIndex: '+hitIndex+', hits.length: '+hits.length);
@@ -124,6 +126,7 @@ var processColors = function() {
 				req.end();
 			}
 			catch(e) {
+				console.log(e);
 				if (hitIndex < hits.length) {
 					hitIndex++;
 
