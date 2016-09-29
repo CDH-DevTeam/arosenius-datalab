@@ -106,7 +106,7 @@ var processColors = function() {
 
 
 				var req = http.request(options, function(resp) {
-					console.log('update '+hit_id);
+					console.log('update '+hit._id);
 					resp.on('data', function(chunk){
 						console.log('resp.on: data');
 						console.log('hitIndex: '+hitIndex+', hits.length: '+hits.length);
