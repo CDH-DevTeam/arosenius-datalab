@@ -1,8 +1,6 @@
 var _ = require('underscore');
 var fs = require('fs');
 var elasticsearch = require('elasticsearch');
-var Canvas = require('canvas');
-var colorThief = require('thief');
 
 var colors = require('./arosenius.color_utils');
 var config = require('./config');
