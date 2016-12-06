@@ -53,6 +53,17 @@ client.search({
 
 				if (dateFrom != '' && dateTo != '') {
 					console.log(dateFrom+' - '+dateTo);
+					console.log(hit._id);
+
+					hit._source.date_from = dateFrom;
+					hit._source.date_to = dateTo;
+
+					client.index({
+						index: 'arosenius',
+						type: 'artwork',
+						id: hit._id,
+						body: hit._source
+					});
 				}
 			}
 		});
