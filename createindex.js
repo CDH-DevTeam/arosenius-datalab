@@ -21,6 +21,14 @@ client.indices.create({
 						type: 'string',
 						index: 'not_analyzed'
 					},
+					date_from: {
+						type: 'date',
+						format: 'yyyy-MM-dd'
+					},
+					date_to: {
+						type: 'date',
+						format: 'yyyy-MM-dd'
+					},
 					collection: {
 						properties: {
 							museum: {
@@ -30,6 +38,20 @@ client.indices.create({
 							department: {
 								type: 'string',
 								index: 'not_analyzed'
+							}
+						}
+					},
+					color: {
+						properties: {
+							colors: {
+								properties: {
+									three: {
+										type: "nested"
+									},
+									five: {
+										type: "nested"
+									}
+								}
 							}
 						}
 					}
