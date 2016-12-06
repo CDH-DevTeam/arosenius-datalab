@@ -5,7 +5,7 @@ var config = require('./config');
 
 var client = new elasticsearch.Client({
 	host: config.host,
-//	log: 'trace'
+	log: 'trace'
 });
 
 client.search({
