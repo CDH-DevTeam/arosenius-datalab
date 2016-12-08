@@ -29,6 +29,10 @@ client.indices.create({
 						type: 'date',
 						format: 'yyyy-MM-dd'
 					},
+					item_date: {
+						type: 'date',
+						format: 'yyyy-MM-dd'
+					},
 					collection: {
 						properties: {
 							museum: {
