@@ -45,9 +45,6 @@ client.indices.create({
 							}
 						}
 					},
-					material: {
-						type: "nested"
-					},
 					color: {
 						properties: {
 							colors: {
