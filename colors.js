@@ -21,7 +21,7 @@ var hits = [];
 client.search({
 	index: 'arosenius',
 	type: 'artwork',
-	q: 'collection.museum: "Göteborgs universitetbibliotek"',
+	q: '_missing_: color',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
