@@ -22,16 +22,13 @@ client.indices.create({
 						index: 'not_analyzed'
 					},
 					date_from: {
-						type: 'date',
-						format: 'yyyy-MM-dd'
+						type: 'date'
 					},
 					date_to: {
-						type: 'date',
-						format: 'yyyy-MM-dd'
+						type: 'date'
 					},
 					item_date: {
-						type: 'date',
-						format: 'yyyy-MM-dd'
+						type: 'date'
 					},
 					collection: {
 						properties: {
