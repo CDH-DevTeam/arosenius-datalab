@@ -13,10 +13,6 @@ client.indices.create({
 		mappings: {
 			artwork: {
 				properties: {
-					type: {
-						type: 'string',
-						index: 'not_analyzed'
-					},
 					bundle: {
 						type: 'string',
 						index: 'not_analyzed'
@@ -41,6 +37,18 @@ client.indices.create({
 								index: 'not_analyzed'
 							}
 						}
+					},
+					type: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
+					tags: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
+					persons: {
+						type: 'string',
+						index: 'not_analyzed'
 					},
 					color: {
 						properties: {

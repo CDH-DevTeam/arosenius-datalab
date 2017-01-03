@@ -38,6 +38,7 @@ var processColors = function() {
 	var imagePath = config.gub_image_path+'/'+hit._source.image+'.'+config.image_type;
 
 	console.log('readFileSync: '+imagePath);
+
 	request.get({
 		uri: imagePath,
 		encoding: null

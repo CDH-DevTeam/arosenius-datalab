@@ -57,7 +57,11 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 			_.each(imagePack.images, function(image) {
 				var imageDocument = {
 					bundle: file.meta.mets_ID+'-'+imagePack.metadata.hd_id, //
-					type: file.meta.letter_sender_name_given && file.meta.letter_sender_name_given != '' ? 'letter' : '',
+					type: [
+						file.meta.letter_sender_name_given && file.meta.letter_sender_name_given != '' ? 'letter' : 
+						file.meta.document_unitdate.toLowerCase().indexOf('fotograf') > -1 ? 'brev' :
+						''
+					],
 					sender: file.meta.letter_sender_name_given && file.meta.letter_sender_name_given != '' ? {
 						firstname: file.meta.letter_sender_name_given,
 						surname: file.meta.letter_sender_name_family,
