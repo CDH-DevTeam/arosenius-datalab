@@ -50,6 +50,10 @@ client.indices.create({
 						type: 'string',
 						index: 'not_analyzed'
 					},
+					material: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
 					color: {
 						properties: {
 							colors: {
