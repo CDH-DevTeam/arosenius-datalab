@@ -1,0 +1,2050 @@
+{
+	"meta": {
+		"mets_ID": "GUB0101444",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Fotografier och negativ",
+		"document_physloc": "5",
+		"document_physdesc": "1 kapsel",
+		"document_unitdate": "1906-1968, odat.",
+		"document_searchdate": "1906-1968",
+		"document_note": "Innehåller bilder på Ivar Arosenius, Eva Arosenius, Henrik Arosenius, Sigrid Arosenius, Erik Arosenius, Ingegärd Spolén, Nils Adler, Gerhard Henning, Ernst och Elin Spolén m fl.,  bilder på hus i Åby.",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1196",
+			"metadata": {
+				"hd_id": "1196",
+				"hd_ref": "bild",
+				"physdesc": "6 fotografier",
+				"note": "II. Syskonen Arosenius:\n1.\tIngegerd, Ivar (i mitten), Erik Arosenius\n2.\tHarald, Erik, Ivar Arosenius\n3.\tIvar Arosenius, fotogr. Ward.Dahllöf\n4.\tErik och Ivar Arosenius\n5.\tHarald Arosenius\n6.\tIvar Arosenius, fotogr. James Bourn",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "RightPage",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "RightPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "LeftPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "RightPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "LeftPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "RightPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				}
+			]
+		},
+		{
+			"id": "image_1195",
+			"metadata": {
+				"hd_id": "1195",
+				"hd_ref": "bild",
+				"physdesc": "4 fotografier",
+				"note": "I. Syskonen Arosenius:\n1.\tIvar Arosenius, 1897\n2.\tErik Arosenius, 1897, 1901 2 st.\n3.\tIngegerd Arosenius, 1897",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "LeftPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "LeftPage",
+					"order": "21"
+				}
+			]
+		},
+		{
+			"id": "image_1200",
+			"metadata": {
+				"hd_id": "1200",
+				"hd_ref": "bild",
+				"physdesc": "6 fotografier",
+				"note": "III.Ivar Arosenius:\n1. Valand, 1901\n2-4. München, 1903\n5. Paris, 1904\n6. Älvängen, 1908",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0022",
+					"type": "RightPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "LeftPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "RightPage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "LeftPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "RightPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "LeftPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "RightPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "LeftPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "RightPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "LeftPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "RightPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "LeftPage",
+					"order": "33"
+				}
+			]
+		},
+		{
+			"id": "image_1203",
+			"metadata": {
+				"hd_id": "1203",
+				"hd_ref": "bild",
+				"physdesc": "1 fotografi",
+				"note": "VI. Gipskrossning. På bilden från vänster: Signe Lagerlöf-Sandell, Ivar Arosenius, oidentifierad person, Gerhard Henning, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0034",
+					"type": "RightPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "LeftPage",
+					"order": "35"
+				}
+			]
+		},
+		{
+			"id": "image_1201",
+			"metadata": {
+				"hd_id": "1201",
+				"hd_ref": "bild",
+				"physdesc": "9 fotografier",
+				"note": "IV. Ivar Arosenius i Åby, 1906",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0036",
+					"type": "RightPage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "LeftPage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "RightPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "LeftPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "RightPage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "LeftPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "RightPage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "LeftPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "RightPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "LeftPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "RightPage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "LeftPage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "RightPage",
+					"order": "48"
+				},
+				{
+					"id": "web0049",
+					"type": "LeftPage",
+					"order": "49"
+				},
+				{
+					"id": "web0050",
+					"type": "RightPage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "LeftPage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "RightPage",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "LeftPage",
+					"order": "53"
+				}
+			]
+		},
+		{
+			"id": "image_1202",
+			"metadata": {
+				"hd_id": "1202",
+				"hd_ref": "bild",
+				"physdesc": "2 fotgrafier",
+				"note": "V. Ivar och Ida (Eva) Arosenius i Åby, 1906",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0054",
+					"type": "RightPage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "LeftPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "RightPage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "LeftPage",
+					"order": "57"
+				}
+			]
+		},
+		{
+			"id": "image_1204",
+			"metadata": {
+				"hd_id": "1204",
+				"hd_ref": "bild",
+				"physdesc": "1 fotografi",
+				"note": "Familjefoto: på bilden från vänster 2 oidentifierade personer, Johanna Adler,  Eva ”Lillan”, Ivar Arosenius, Ida (Eva) Arosenius, Elaine Gallén",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0058",
+					"type": "RightPage",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "LeftPage",
+					"order": "59"
+				}
+			]
+		},
+		{
+			"id": "image_1205",
+			"metadata": {
+				"hd_id": "1205",
+				"hd_ref": "bild",
+				"physdesc": "3 fotografier",
+				"note": "VIII. Porträtt av Ivar Arosenius (stora), fotogr. Henrik Gallen:\n1. porträttbild;\n2. porträtt i halvptofil;\n3. Ivar och Lillan",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0060",
+					"type": "RightPage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "LeftPage",
+					"order": "61"
+				},
+				{
+					"id": "web0062",
+					"type": "RightPage",
+					"order": "62"
+				},
+				{
+					"id": "web0063",
+					"type": "LeftPage",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "RightPage",
+					"order": "64"
+				},
+				{
+					"id": "web0065",
+					"type": "LeftPage",
+					"order": "65"
+				}
+			]
+		},
+		{
+			"id": "image_1216",
+			"metadata": {
+				"hd_id": "1216",
+				"hd_ref": "bild",
+				"physdesc": "10 fotografier",
+				"note": "XIX. Eva ”Lillan” med Ida (Eva) och Sigrid Arosenius i Äppelviken, odat. Fotogr. Ernst Spolén , hit även negativ",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0066",
+					"type": "RightPage",
+					"order": "66"
+				},
+				{
+					"id": "web0067",
+					"type": "LeftPage",
+					"order": "67"
+				},
+				{
+					"id": "web0068",
+					"type": "RightPage",
+					"order": "68"
+				},
+				{
+					"id": "web0069",
+					"type": "LeftPage",
+					"order": "69"
+				},
+				{
+					"id": "web0070",
+					"type": "RightPage",
+					"order": "70"
+				},
+				{
+					"id": "web0071",
+					"type": "LeftPage",
+					"order": "71"
+				},
+				{
+					"id": "web0072",
+					"type": "RightPage",
+					"order": "72"
+				},
+				{
+					"id": "web0073",
+					"type": "LeftPage",
+					"order": "73"
+				},
+				{
+					"id": "web0074",
+					"type": "RightPage",
+					"order": "74"
+				},
+				{
+					"id": "web0075",
+					"type": "LeftPage",
+					"order": "75"
+				},
+				{
+					"id": "web0076",
+					"type": "RightPage",
+					"order": "76"
+				},
+				{
+					"id": "web0077",
+					"type": "LeftPage",
+					"order": "77"
+				},
+				{
+					"id": "web0078",
+					"type": "RightPage",
+					"order": "78"
+				},
+				{
+					"id": "web0079",
+					"type": "LeftPage",
+					"order": "79"
+				},
+				{
+					"id": "web0080",
+					"type": "RightPage",
+					"order": "80"
+				},
+				{
+					"id": "web0081",
+					"type": "LeftPage",
+					"order": "81"
+				},
+				{
+					"id": "web0082",
+					"type": "RightPage",
+					"order": "82"
+				},
+				{
+					"id": "web0083",
+					"type": "LeftPage",
+					"order": "83"
+				},
+				{
+					"id": "web0084",
+					"type": "RightPage",
+					"order": "84"
+				},
+				{
+					"id": "web0085",
+					"type": "LeftPage",
+					"order": "85"
+				}
+			]
+		},
+		{
+			"id": "image_1217",
+			"metadata": {
+				"hd_id": "1217",
+				"hd_ref": "bild",
+				"physdesc": "20 fotografier",
+				"note": "XX. Eva ”Lillan” Arosenius, 1920-1970-talet",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0086",
+					"type": "RightPage",
+					"order": "86"
+				},
+				{
+					"id": "web0087",
+					"type": "LeftPage",
+					"order": "87"
+				},
+				{
+					"id": "web0088",
+					"type": "RightPage",
+					"order": "88"
+				},
+				{
+					"id": "web0089",
+					"type": "LeftPage",
+					"order": "89"
+				},
+				{
+					"id": "web0090",
+					"type": "RightPage",
+					"order": "90"
+				},
+				{
+					"id": "web0091",
+					"type": "LeftPage",
+					"order": "91"
+				},
+				{
+					"id": "web0092",
+					"type": "RightPage",
+					"order": "92"
+				},
+				{
+					"id": "web0093",
+					"type": "LeftPage",
+					"order": "93"
+				},
+				{
+					"id": "web0094",
+					"type": "RightPage",
+					"order": "94"
+				},
+				{
+					"id": "web0095",
+					"type": "LeftPage",
+					"order": "95"
+				},
+				{
+					"id": "web0096",
+					"type": "RightPage",
+					"order": "96"
+				},
+				{
+					"id": "web0097",
+					"type": "LeftPage",
+					"order": "97"
+				},
+				{
+					"id": "web0098",
+					"type": "RightPage",
+					"order": "98"
+				},
+				{
+					"id": "web0099",
+					"type": "LeftPage",
+					"order": "99"
+				},
+				{
+					"id": "web0100",
+					"type": "RightPage",
+					"order": "100"
+				},
+				{
+					"id": "web0101",
+					"type": "LeftPage",
+					"order": "101"
+				},
+				{
+					"id": "web0102",
+					"type": "RightPage",
+					"order": "102"
+				},
+				{
+					"id": "web0103",
+					"type": "LeftPage",
+					"order": "103"
+				},
+				{
+					"id": "web0104",
+					"type": "RightPage",
+					"order": "104"
+				},
+				{
+					"id": "web0105",
+					"type": "LeftPage",
+					"order": "105"
+				},
+				{
+					"id": "web0106",
+					"type": "RightPage",
+					"order": "106"
+				},
+				{
+					"id": "web0107",
+					"type": "LeftPage",
+					"order": "107"
+				},
+				{
+					"id": "web0108",
+					"type": "RightPage",
+					"order": "108"
+				},
+				{
+					"id": "web0109",
+					"type": "LeftPage",
+					"order": "109"
+				},
+				{
+					"id": "web0110",
+					"type": "RightPage",
+					"order": "110"
+				},
+				{
+					"id": "web0111",
+					"type": "LeftPage",
+					"order": "111"
+				},
+				{
+					"id": "web0112",
+					"type": "RightPage",
+					"order": "112"
+				},
+				{
+					"id": "web0113",
+					"type": "LeftPage",
+					"order": "113"
+				},
+				{
+					"id": "web0114",
+					"type": "RightPage",
+					"order": "114"
+				},
+				{
+					"id": "web0115",
+					"type": "LeftPage",
+					"order": "115"
+				},
+				{
+					"id": "web0116",
+					"type": "RightPage",
+					"order": "116"
+				},
+				{
+					"id": "web0117",
+					"type": "LeftPage",
+					"order": "117"
+				},
+				{
+					"id": "web0118",
+					"type": "RightPage",
+					"order": "118"
+				},
+				{
+					"id": "web0119",
+					"type": "LeftPage",
+					"order": "119"
+				},
+				{
+					"id": "web0120",
+					"type": "RightPage",
+					"order": "120"
+				},
+				{
+					"id": "web0121",
+					"type": "LeftPage",
+					"order": "121"
+				},
+				{
+					"id": "web0122",
+					"type": "RightPage",
+					"order": "122"
+				},
+				{
+					"id": "web0123",
+					"type": "LeftPage",
+					"order": "123"
+				},
+				{
+					"id": "web0124",
+					"type": "RightPage",
+					"order": "124"
+				},
+				{
+					"id": "web0125",
+					"type": "LeftPage",
+					"order": "125"
+				}
+			]
+		},
+		{
+			"id": "image_1206",
+			"metadata": {
+				"hd_id": "1206",
+				"hd_ref": "bild",
+				"physdesc": "3 forografier",
+				"note": "IX. Ivar på dödsbädden, Älvängen, 1909",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0126",
+					"type": "RightPage",
+					"order": "126"
+				},
+				{
+					"id": "web0127",
+					"type": "LeftPage",
+					"order": "127"
+				},
+				{
+					"id": "web0128",
+					"type": "RightPage",
+					"order": "128"
+				},
+				{
+					"id": "web0129",
+					"type": "LeftPage",
+					"order": "129"
+				},
+				{
+					"id": "web0130",
+					"type": "RightPage",
+					"order": "130"
+				},
+				{
+					"id": "web0131",
+					"type": "LeftPage",
+					"order": "131"
+				}
+			]
+		},
+		{
+			"id": "image_1214",
+			"metadata": {
+				"hd_id": "1214",
+				"hd_ref": "bild",
+				"physdesc": "4 fotografier",
+				"note": "XVII. Porträtt av Eva ”Lillan” Arosenius:\n1. På verandatrappan (med vagn), på baksidan brev till Ida (Eva) Arosenius, 12/1 1909\n2. Framför huset i Älvsängen, 1908\n3. -”-\n4. Med farmor Sigrid Arosenius (1846-1929)",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0132",
+					"type": "RightPage",
+					"order": "132"
+				},
+				{
+					"id": "web0133",
+					"type": "LeftPage",
+					"order": "133"
+				},
+				{
+					"id": "web0134",
+					"type": "RightPage",
+					"order": "134"
+				},
+				{
+					"id": "web0135",
+					"type": "LeftPage",
+					"order": "135"
+				},
+				{
+					"id": "web0136",
+					"type": "RightPage",
+					"order": "136"
+				},
+				{
+					"id": "web0137",
+					"type": "LeftPage",
+					"order": "137"
+				},
+				{
+					"id": "web0138",
+					"type": "RightPage",
+					"order": "138"
+				},
+				{
+					"id": "web0139",
+					"type": "LeftPage",
+					"order": "139"
+				}
+			]
+		},
+		{
+			"id": "image_1215",
+			"metadata": {
+				"hd_id": "1215",
+				"hd_ref": "bild",
+				"physdesc": "12 fotografier",
+				"note": "XVIII. Familjebilder med Eva ”Lillan” i Danmark och Frankrike, 1916 . Hit även bild på Ivan Dick",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0140",
+					"type": "RightPage",
+					"order": "140"
+				},
+				{
+					"id": "web0141",
+					"type": "LeftPage",
+					"order": "141"
+				},
+				{
+					"id": "web0142",
+					"type": "RightPage",
+					"order": "142"
+				},
+				{
+					"id": "web0143",
+					"type": "LeftPage",
+					"order": "143"
+				},
+				{
+					"id": "web0144",
+					"type": "RightPage",
+					"order": "144"
+				},
+				{
+					"id": "web0145",
+					"type": "LeftPage",
+					"order": "145"
+				},
+				{
+					"id": "web0146",
+					"type": "RightPage",
+					"order": "146"
+				},
+				{
+					"id": "web0147",
+					"type": "LeftPage",
+					"order": "147"
+				},
+				{
+					"id": "web0148",
+					"type": "RightPage",
+					"order": "148"
+				},
+				{
+					"id": "web0149",
+					"type": "LeftPage",
+					"order": "149"
+				},
+				{
+					"id": "web0150",
+					"type": "RightPage",
+					"order": "150"
+				},
+				{
+					"id": "web0151",
+					"type": "LeftPage",
+					"order": "151"
+				},
+				{
+					"id": "web0152",
+					"type": "RightPage",
+					"order": "152"
+				},
+				{
+					"id": "web0153",
+					"type": "LeftPage",
+					"order": "153"
+				},
+				{
+					"id": "web0154",
+					"type": "RightPage",
+					"order": "154"
+				},
+				{
+					"id": "web0155",
+					"type": "LeftPage",
+					"order": "155"
+				},
+				{
+					"id": "web0156",
+					"type": "RightPage",
+					"order": "156"
+				},
+				{
+					"id": "web0157",
+					"type": "LeftPage",
+					"order": "157"
+				},
+				{
+					"id": "web0158",
+					"type": "RightPage",
+					"order": "158"
+				},
+				{
+					"id": "web0159",
+					"type": "LeftPage",
+					"order": "159"
+				},
+				{
+					"id": "web0160",
+					"type": "RightPage",
+					"order": "160"
+				},
+				{
+					"id": "web0161",
+					"type": "LeftPage",
+					"order": "161"
+				},
+				{
+					"id": "web0162",
+					"type": "RightPage",
+					"order": "162"
+				},
+				{
+					"id": "web0163",
+					"type": "LeftPage",
+					"order": "163"
+				}
+			]
+		},
+		{
+			"id": "image_1207",
+			"metadata": {
+				"hd_id": "1207",
+				"hd_ref": "bild",
+				"physdesc": "5 fotografier",
+				"note": "X. Åby, 1906:\n1. Gästgiverigården\n2. Blommande gård\n3. Sjön\n4. Evas och Ivars hus\n5. -”- med påskrift av Ivar Arosenius ”Vårt hem”",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0164",
+					"type": "RightPage",
+					"order": "164"
+				},
+				{
+					"id": "web0165",
+					"type": "LeftPage",
+					"order": "165"
+				},
+				{
+					"id": "web0166",
+					"type": "RightPage",
+					"order": "166"
+				},
+				{
+					"id": "web0167",
+					"type": "LeftPage",
+					"order": "167"
+				},
+				{
+					"id": "web0168",
+					"type": "RightPage",
+					"order": "168"
+				},
+				{
+					"id": "web0169",
+					"type": "LeftPage",
+					"order": "169"
+				},
+				{
+					"id": "web0170",
+					"type": "RightPage",
+					"order": "170"
+				},
+				{
+					"id": "web0171",
+					"type": "LeftPage",
+					"order": "171"
+				},
+				{
+					"id": "web0172",
+					"type": "RightPage",
+					"order": "172"
+				},
+				{
+					"id": "web0173",
+					"type": "LeftPage",
+					"order": "173"
+				}
+			]
+		},
+		{
+			"id": "image_1208",
+			"metadata": {
+				"hd_id": "1208",
+				"hd_ref": "bild",
+				"physdesc": "2 fotografier",
+				"note": "XI. Trasdocka sydd av Ivar Arosenius, 1906",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0174",
+					"type": "RightPage",
+					"order": "174"
+				},
+				{
+					"id": "web0175",
+					"type": "LeftPage",
+					"order": "175"
+				},
+				{
+					"id": "web0176",
+					"type": "RightPage",
+					"order": "176"
+				},
+				{
+					"id": "web0177",
+					"type": "LeftPage",
+					"order": "177"
+				}
+			]
+		},
+		{
+			"id": "image_1209",
+			"metadata": {
+				"hd_id": "1209",
+				"hd_ref": "bild",
+				"physdesc": "3 fotografier",
+				"note": "XII. Porträtt av Henrik Arosenius (1841-1901), Ivars far. Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0178",
+					"type": "RightPage",
+					"order": "178"
+				},
+				{
+					"id": "web0179",
+					"type": "LeftPage",
+					"order": "179"
+				},
+				{
+					"id": "web0180",
+					"type": "RightPage",
+					"order": "180"
+				},
+				{
+					"id": "web0181",
+					"type": "LeftPage",
+					"order": "181"
+				},
+				{
+					"id": "web0182",
+					"type": "RightPage",
+					"order": "182"
+				},
+				{
+					"id": "web0183",
+					"type": "LeftPage",
+					"order": "183"
+				}
+			]
+		},
+		{
+			"id": "image_1210",
+			"metadata": {
+				"hd_id": "1210",
+				"hd_ref": "bild",
+				"physdesc": "4 fotografier",
+				"note": "XIII. Porträtt av Ida (Eva) Arosenius\n1. Konfirmationskort\n2. Eva och Lillan\n3. Ida (Eva), fotogr. James Bourn\n4. Profilbild",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0184",
+					"type": "RightPage",
+					"order": "184"
+				},
+				{
+					"id": "web0185",
+					"type": "LeftPage",
+					"order": "185"
+				},
+				{
+					"id": "web0186",
+					"type": "RightPage",
+					"order": "186"
+				},
+				{
+					"id": "web0187",
+					"type": "LeftPage",
+					"order": "187"
+				},
+				{
+					"id": "web0188",
+					"type": "RightPage",
+					"order": "188"
+				},
+				{
+					"id": "web0189",
+					"type": "LeftPage",
+					"order": "189"
+				},
+				{
+					"id": "web0190",
+					"type": "RightPage",
+					"order": "190"
+				},
+				{
+					"id": "web0191",
+					"type": "LeftPage",
+					"order": "191"
+				}
+			]
+		},
+		{
+			"id": "image_1211",
+			"metadata": {
+				"hd_id": "1211",
+				"hd_ref": "bild",
+				"physdesc": "1 fotografi",
+				"note": "XIV. Resan till Danmark, 1912. På tåget: Anton Dick, Eva Arosenius, Lillan. På perrongen till vänster Johanna Adler, till höger Axel, Rut och Bo Adler, 1912",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0192",
+					"type": "RightPage",
+					"order": "192"
+				},
+				{
+					"id": "web0193",
+					"type": "LeftPage",
+					"order": "193"
+				}
+			]
+		},
+		{
+			"id": "image_1213",
+			"metadata": {
+				"hd_id": "1213",
+				"hd_ref": "bild",
+				"physdesc": "3 fotografier",
+				"note": "XVI. Porträtt av Ida (Eva) Arosenius, 1963-1964?",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0194",
+					"type": "RightPage",
+					"order": "194"
+				},
+				{
+					"id": "web0195",
+					"type": "LeftPage",
+					"order": "195"
+				},
+				{
+					"id": "web0196",
+					"type": "RightPage",
+					"order": "196"
+				},
+				{
+					"id": "web0197",
+					"type": "LeftPage",
+					"order": "197"
+				},
+				{
+					"id": "web0198",
+					"type": "RightPage",
+					"order": "198"
+				},
+				{
+					"id": "web0199",
+					"type": "LeftPage",
+					"order": "199"
+				}
+			]
+		},
+		{
+			"id": "image_1212",
+			"metadata": {
+				"hd_id": "1212",
+				"hd_ref": "bild",
+				"physdesc": "6 fotografier",
+				"note": "XV. Familjebilder\n1. Ida (Eva) Arosenius\n2. ?, Nils Adler, Ida (Eva) Arosenius, Solfrid Dick\n3. Leksand. Ida (Eva) Arosenius med barnbarn Astrid, 1942\n4. Från vänster: paret Bauer-Albrektson, Astrid och Ida (Eva), 1942\n5. Evas (Lillan) med maken Harouth Constantine och dottern Astrid, 1946, 2 st.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0200",
+					"type": "RightPage",
+					"order": "200"
+				},
+				{
+					"id": "web0201",
+					"type": "LeftPage",
+					"order": "201"
+				},
+				{
+					"id": "web0202",
+					"type": "RightPage",
+					"order": "202"
+				},
+				{
+					"id": "web0203",
+					"type": "LeftPage",
+					"order": "203"
+				},
+				{
+					"id": "web0204",
+					"type": "RightPage",
+					"order": "204"
+				},
+				{
+					"id": "web0205",
+					"type": "LeftPage",
+					"order": "205"
+				},
+				{
+					"id": "web0206",
+					"type": "RightPage",
+					"order": "206"
+				},
+				{
+					"id": "web0207",
+					"type": "LeftPage",
+					"order": "207"
+				},
+				{
+					"id": "web0208",
+					"type": "RightPage",
+					"order": "208"
+				},
+				{
+					"id": "web0209",
+					"type": "LeftPage",
+					"order": "209"
+				},
+				{
+					"id": "web0210",
+					"type": "RightPage",
+					"order": "210"
+				},
+				{
+					"id": "web0211",
+					"type": "LeftPage",
+					"order": "211"
+				}
+			]
+		},
+		{
+			"id": "image_1218",
+			"metadata": {
+				"hd_id": "1218",
+				"hd_ref": "bild",
+				"physdesc": "1 fotografi",
+				"note": "XXI. Porträtt Eva ”Lillan” Arosenius, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0212",
+					"type": "RightPage",
+					"order": "212"
+				},
+				{
+					"id": "web0213",
+					"type": "LeftPage",
+					"order": "213"
+				},
+				{
+					"id": "web0214",
+					"type": "RightPage",
+					"order": "214"
+				},
+				{
+					"id": "web0215",
+					"type": "LeftPage",
+					"order": "215"
+				},
+				{
+					"id": "web0216",
+					"type": "RightPage",
+					"order": "216"
+				},
+				{
+					"id": "web0217",
+					"type": "LeftPage",
+					"order": "217"
+				}
+			]
+		},
+		{
+			"id": "image_1220",
+			"metadata": {
+				"hd_id": "1220",
+				"hd_ref": "bild",
+				"physdesc": "3 fotografier",
+				"note": "XXIII. Porträtt av Nils B. Adler, 1917, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0218",
+					"type": "RightPage",
+					"order": "218"
+				},
+				{
+					"id": "web0219",
+					"type": "LeftPage",
+					"order": "219"
+				},
+				{
+					"id": "web0220",
+					"type": "RightPage",
+					"order": "220"
+				},
+				{
+					"id": "web0221",
+					"type": "LeftPage",
+					"order": "221"
+				},
+				{
+					"id": "web0222",
+					"type": "RightPage",
+					"order": "222"
+				},
+				{
+					"id": "web0223",
+					"type": "LeftPage",
+					"order": "223"
+				}
+			]
+		},
+		{
+			"id": "image_1221",
+			"metadata": {
+				"hd_id": "1221",
+				"hd_ref": "bild",
+				"physdesc": "7 fotografier",
+				"note": "XXIV. Bilder från Sämholms herrgård:\n1. Vykort med huset\n2. Huset från sjön\n3. Ivar Arosenius sovande\n4. Familjebild med syskonen Adler, från vänster Nils, Elvira, Eva, Axel.\n5. Familjebild från vänster Elvira, mor Johanna, Nils.\n6. Nils Adler\n7. Kusinen Karin Andersson",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0224",
+					"type": "RightPage",
+					"order": "224"
+				},
+				{
+					"id": "web0225",
+					"type": "LeftPage",
+					"order": "225"
+				},
+				{
+					"id": "web0226",
+					"type": "RightPage",
+					"order": "226"
+				},
+				{
+					"id": "web0227",
+					"type": "LeftPage",
+					"order": "227"
+				},
+				{
+					"id": "web0228",
+					"type": "RightPage",
+					"order": "228"
+				},
+				{
+					"id": "web0229",
+					"type": "LeftPage",
+					"order": "229"
+				},
+				{
+					"id": "web0230",
+					"type": "RightPage",
+					"order": "230"
+				},
+				{
+					"id": "web0231",
+					"type": "LeftPage",
+					"order": "231"
+				},
+				{
+					"id": "web0232",
+					"type": "RightPage",
+					"order": "232"
+				},
+				{
+					"id": "web0233",
+					"type": "LeftPage",
+					"order": "233"
+				},
+				{
+					"id": "web0234",
+					"type": "RightPage",
+					"order": "234"
+				},
+				{
+					"id": "web0235",
+					"type": "LeftPage",
+					"order": "235"
+				},
+				{
+					"id": "web0236",
+					"type": "RightPage",
+					"order": "236"
+				},
+				{
+					"id": "web0237",
+					"type": "LeftPage",
+					"order": "237"
+				}
+			]
+		},
+		{
+			"id": "image_1222",
+			"metadata": {
+				"hd_id": "1222",
+				"hd_ref": "bild",
+				"physdesc": "4 fotografier",
+				"note": "XV. Syskonen Adler:\n1. Början på 1900-talet, från vänster Nils, Elvira, Axel, Elisabeth, Eva (Ida).\n2. Axel Adlers dotter Hanna-Greta, Nils Adler 1948-49?\n3. Från vänster Nils, Axel, Elvira, Lisa och Eva (sittande) Adler.\n4. Jäns och Johanna Adler med barnen ca 1890, från vänster Jäns, Ida, Nils, Johanna, Elvira, Lisa, Axel.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0238",
+					"type": "RightPage",
+					"order": "238"
+				},
+				{
+					"id": "web0239",
+					"type": "LeftPage",
+					"order": "239"
+				},
+				{
+					"id": "web0240",
+					"type": "RightPage",
+					"order": "240"
+				},
+				{
+					"id": "web0241",
+					"type": "LeftPage",
+					"order": "241"
+				},
+				{
+					"id": "web0242",
+					"type": "RightPage",
+					"order": "242"
+				},
+				{
+					"id": "web0243",
+					"type": "LeftPage",
+					"order": "243"
+				},
+				{
+					"id": "web0244",
+					"type": "RightPage",
+					"order": "244"
+				},
+				{
+					"id": "web0245",
+					"type": "LeftPage",
+					"order": "245"
+				}
+			]
+		},
+		{
+			"id": "image_1223",
+			"metadata": {
+				"hd_id": "1223",
+				"hd_ref": "bild",
+				"physdesc": "10 fotografier",
+				"note": "XVI. Porträtt på Sigrid Rydén-Arosenius (1846-1929), 9 st. och porträtt av Johanna Adler-Andersson (1847-1923), 1 st., odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0246",
+					"type": "RightPage",
+					"order": "246"
+				},
+				{
+					"id": "web0247",
+					"type": "LeftPage",
+					"order": "247"
+				},
+				{
+					"id": "web0248",
+					"type": "RightPage",
+					"order": "248"
+				},
+				{
+					"id": "web0249",
+					"type": "LeftPage",
+					"order": "249"
+				},
+				{
+					"id": "web0250",
+					"type": "RightPage",
+					"order": "250"
+				},
+				{
+					"id": "web0251",
+					"type": "LeftPage",
+					"order": "251"
+				},
+				{
+					"id": "web0252",
+					"type": "RightPage",
+					"order": "252"
+				},
+				{
+					"id": "web0253",
+					"type": "LeftPage",
+					"order": "253"
+				},
+				{
+					"id": "web0254",
+					"type": "RightPage",
+					"order": "254"
+				},
+				{
+					"id": "web0255",
+					"type": "LeftPage",
+					"order": "255"
+				},
+				{
+					"id": "web0256",
+					"type": "RightPage",
+					"order": "256"
+				},
+				{
+					"id": "web0257",
+					"type": "LeftPage",
+					"order": "257"
+				},
+				{
+					"id": "web0258",
+					"type": "RightPage",
+					"order": "258"
+				},
+				{
+					"id": "web0259",
+					"type": "LeftPage",
+					"order": "259"
+				},
+				{
+					"id": "web0260",
+					"type": "RightPage",
+					"order": "260"
+				},
+				{
+					"id": "web0261",
+					"type": "LeftPage",
+					"order": "261"
+				},
+				{
+					"id": "web0262",
+					"type": "RightPage",
+					"order": "262"
+				},
+				{
+					"id": "web0263",
+					"type": "LeftPage",
+					"order": "263"
+				},
+				{
+					"id": "web0264",
+					"type": "RightPage",
+					"order": "264"
+				},
+				{
+					"id": "web0265",
+					"type": "LeftPage",
+					"order": "265"
+				}
+			]
+		},
+		{
+			"id": "image_1224",
+			"metadata": {
+				"hd_id": "1224",
+				"hd_ref": "bild",
+				"physdesc": "3 fotografier",
+				"note": "XXVII. Släktebilder i Älvängen\n1. Olga Andersson, kusin till Eva Arosenius, 70-årsdagen, 1940-talet\n2. Olga Andresson vid Ivar Arosenius ateljéfönster\n3. Ida (Eva) Arosenius, Ivan Dick med frun, 1945",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0266",
+					"type": "RightPage",
+					"order": "266"
+				},
+				{
+					"id": "web0267",
+					"type": "LeftPage",
+					"order": "267"
+				},
+				{
+					"id": "web0268",
+					"type": "RightPage",
+					"order": "268"
+				},
+				{
+					"id": "web0269",
+					"type": "LeftPage",
+					"order": "269"
+				},
+				{
+					"id": "web0270",
+					"type": "RightPage",
+					"order": "270"
+				},
+				{
+					"id": "web0271",
+					"type": "LeftPage",
+					"order": "271"
+				}
+			]
+		},
+		{
+			"id": "image_1225",
+			"metadata": {
+				"hd_id": "1225",
+				"hd_ref": "bild",
+				"physdesc": "1 fotografi",
+				"note": "XXVIII. Porträtt av Astrid Constantine-Torstensson, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0272",
+					"type": "RightPage",
+					"order": "272"
+				},
+				{
+					"id": "web0273",
+					"type": "LeftPage",
+					"order": "273"
+				}
+			]
+		},
+		{
+			"id": "image_1226",
+			"metadata": {
+				"hd_id": "1226",
+				"hd_ref": "bild",
+				"physdesc": "2 fotografier",
+				"note": "XXIX. Porträtt av Gerhard Henning, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0274",
+					"type": "RightPage",
+					"order": "274"
+				},
+				{
+					"id": "web0275",
+					"type": "LeftPage",
+					"order": "275"
+				},
+				{
+					"id": "web0276",
+					"type": "RightPage",
+					"order": "276"
+				},
+				{
+					"id": "web0277",
+					"type": "LeftPage",
+					"order": "277"
+				}
+			]
+		},
+		{
+			"id": "image_1227",
+			"metadata": {
+				"hd_id": "1227",
+				"hd_ref": "bild",
+				"physdesc": "8 fotografier",
+				"note": "XXX. Bilder på medlemmar av släkten Arosenius\n1. Ernst Spolén, arkitekt, 2 st.\n2. Ernst Spolén med maka\n3. Karin Arosenius (1851-1932), skulptris, 1866\n4. Erik och Elin Arosenius\n5. Ingegerd Arosenius\n6. Erik Arosenius, 1947\n7. Erik och Elin Arosenius bröllopsbild, 1912",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0278",
+					"type": "RightPage",
+					"order": "278"
+				},
+				{
+					"id": "web0279",
+					"type": "LeftPage",
+					"order": "279"
+				},
+				{
+					"id": "web0280",
+					"type": "RightPage",
+					"order": "280"
+				},
+				{
+					"id": "web0281",
+					"type": "LeftPage",
+					"order": "281"
+				},
+				{
+					"id": "web0282",
+					"type": "RightPage",
+					"order": "282"
+				},
+				{
+					"id": "web0283",
+					"type": "LeftPage",
+					"order": "283"
+				},
+				{
+					"id": "web0284",
+					"type": "RightPage",
+					"order": "284"
+				},
+				{
+					"id": "web0285",
+					"type": "LeftPage",
+					"order": "285"
+				},
+				{
+					"id": "web0286",
+					"type": "RightPage",
+					"order": "286"
+				},
+				{
+					"id": "web0287",
+					"type": "LeftPage",
+					"order": "287"
+				},
+				{
+					"id": "web0288",
+					"type": "RightPage",
+					"order": "288"
+				},
+				{
+					"id": "web0289",
+					"type": "LeftPage",
+					"order": "289"
+				},
+				{
+					"id": "web0290",
+					"type": "RightPage",
+					"order": "290"
+				},
+				{
+					"id": "web0291",
+					"type": "LeftPage",
+					"order": "291"
+				},
+				{
+					"id": "web0292",
+					"type": "RightPage",
+					"order": "292"
+				},
+				{
+					"id": "web0293",
+					"type": "LeftPage",
+					"order": "293"
+				}
+			]
+		},
+		{
+			"id": "image_1219",
+			"metadata": {
+				"hd_id": "1219",
+				"hd_ref": "bild",
+				"physdesc": "2 fotografier",
+				"note": "XXII. Eva ”Lillan” Arosenius, skolfotgrafier, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0294",
+					"type": "RightPage",
+					"order": "294"
+				},
+				{
+					"id": "web0295",
+					"type": "LeftPage",
+					"order": "295"
+				},
+				{
+					"id": "web0296",
+					"type": "RightPage",
+					"order": "296"
+				},
+				{
+					"id": "web0297",
+					"type": "LeftPage",
+					"order": "297"
+				}
+			]
+		},
+		{
+			"id": "image_1228",
+			"metadata": {
+				"hd_id": "1228",
+				"hd_ref": "bild",
+				"physdesc": "10 fotografier",
+				"note": "XXXV. Ävlängenbilder\n1. Exterior med veranda\n2. Baksida, ingången till köket\n3. Kakelung nedrevåning\n4. Kakelung övrevåning\n5. Huset från vägen\n6. Dörrmålningar i Älvängens hus (dörrarna bevaras i Starrkärrs hembygdsmuseum), 5 motiv.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0298",
+					"type": "RightPage",
+					"order": "298"
+				},
+				{
+					"id": "web0299",
+					"type": "LeftPage",
+					"order": "299"
+				},
+				{
+					"id": "web0300",
+					"type": "RightPage",
+					"order": "300"
+				},
+				{
+					"id": "web0301",
+					"type": "LeftPage",
+					"order": "301"
+				},
+				{
+					"id": "web0302",
+					"type": "RightPage",
+					"order": "302"
+				},
+				{
+					"id": "web0303",
+					"type": "LeftPage",
+					"order": "303"
+				},
+				{
+					"id": "web0304",
+					"type": "RightPage",
+					"order": "304"
+				},
+				{
+					"id": "web0305",
+					"type": "LeftPage",
+					"order": "305"
+				},
+				{
+					"id": "web0306",
+					"type": "RightPage",
+					"order": "306"
+				},
+				{
+					"id": "web0307",
+					"type": "LeftPage",
+					"order": "307"
+				},
+				{
+					"id": "web0308",
+					"type": "RightPage",
+					"order": "308"
+				},
+				{
+					"id": "web0309",
+					"type": "LeftPage",
+					"order": "309"
+				},
+				{
+					"id": "web0310",
+					"type": "RightPage",
+					"order": "310"
+				},
+				{
+					"id": "web0311",
+					"type": "LeftPage",
+					"order": "311"
+				},
+				{
+					"id": "web0312",
+					"type": "RightPage",
+					"order": "312"
+				},
+				{
+					"id": "web0313",
+					"type": "LeftPage",
+					"order": "313"
+				},
+				{
+					"id": "web0314",
+					"type": "RightPage",
+					"order": "314"
+				},
+				{
+					"id": "web0315",
+					"type": "LeftPage",
+					"order": "315"
+				},
+				{
+					"id": "web0316",
+					"type": "RightPage",
+					"order": "316"
+				},
+				{
+					"id": "web0317",
+					"type": "LeftPage",
+					"order": "317"
+				}
+			]
+		},
+		{
+			"id": "image_1229",
+			"metadata": {
+				"hd_id": "1229",
+				"hd_ref": "bild",
+				"physdesc": "5 fotografier",
+				"note": "XXXVI. Per Wik och Maria Totstensen, barnbarnbarn till Ivar Arosenius, vid huset Älvängen, 1968",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0318",
+					"type": "RightPage",
+					"order": "318"
+				},
+				{
+					"id": "web0319",
+					"type": "LeftPage",
+					"order": "319"
+				},
+				{
+					"id": "web0320",
+					"type": "RightPage",
+					"order": "320"
+				},
+				{
+					"id": "web0321",
+					"type": "LeftPage",
+					"order": "321"
+				},
+				{
+					"id": "web0322",
+					"type": "RightPage",
+					"order": "322"
+				},
+				{
+					"id": "web0323",
+					"type": "LeftPage",
+					"order": "323"
+				},
+				{
+					"id": "web0324",
+					"type": "RightPage",
+					"order": "324"
+				},
+				{
+					"id": "web0325",
+					"type": "LeftPage",
+					"order": "325"
+				},
+				{
+					"id": "web0326",
+					"type": "RightPage",
+					"order": "326"
+				},
+				{
+					"id": "web0327",
+					"type": "LeftPage",
+					"order": "327"
+				}
+			]
+		}
+	]
+}

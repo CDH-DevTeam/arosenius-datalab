@@ -74,7 +74,10 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 						birth_year: recipientBirthYear,
 						death_year: recipientDeathYear
 					} : null,
-					date: file.meta.letter_image_unitdate && file.meta.letter_image_unitdate != '' ? {
+					date: file.meta.letter_recipient_name_given && file.meta.letter_sender_name_given && imagePack.metadata.searchdate && imagePack.metadata.searchdate != '' ?
+						{
+							date: imagePack.metadata.searchdate
+						} :	file.meta.letter_image_unitdate && file.meta.letter_image_unitdate != '' ? {
 							date: file.meta.letter_image_unitdate
 						} : file.meta.letter_image_searchdate && file.meta.letter_image_searchdate != '' ? {
 							date: file.meta.letter_image_searchdate
@@ -111,7 +114,8 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 */
 					page: {
 						id: image.id,
-						side: image.type
+						side: image.type,
+						order: image.order
 					},
 					image: file.meta.mets_ID+'-'+image.id.replace('web', '')
 				};

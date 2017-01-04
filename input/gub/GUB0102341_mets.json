@@ -1,0 +1,364 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102341",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Manuskript av Ivar Arosenius (Litterära försök)",
+		"document_physloc": "3",
+		"document_physdesc": "27 bl.",
+		"document_unitdate": "odat.",
+		"document_searchdate": "1900-1900",
+		"document_note": "Överförda från Göteborgs konstmuseum 2005. Hit ingår Sagan om fågeln, burken och korken, Välgörenhet, m.m.",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1052",
+			"metadata": {
+				"hd_id": "1052",
+				"hd_ref": "bild",
+				"physdesc": "1 bl., skadat.",
+				"note": "Sagan om fågeln, burken och korken, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				}
+			]
+		},
+		{
+			"id": "image_1053",
+			"metadata": {
+				"hd_id": "1053",
+				"hd_ref": "bild",
+				"physdesc": "4 bl. (1-5). Bl. 4 se vol.1",
+				"note": "Välgörenhet. Bl.4 är inklistrat i Sagobok med Sagosång om Herr Rudis, m.m.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "RightPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "LeftPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "RightPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "LeftPage",
+					"order": "11"
+				}
+			]
+		},
+		{
+			"id": "image_1054",
+			"metadata": {
+				"hd_id": "1054",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Jean, Gustaf Lars o Peter! Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0012",
+					"type": "RightPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				}
+			]
+		},
+		{
+			"id": "image_1055",
+			"metadata": {
+				"hd_id": "1055",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "En visa on Nineve. Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "LeftPage",
+					"order": "17"
+				}
+			]
+		},
+		{
+			"id": "image_1056",
+			"metadata": {
+				"hd_id": "1056",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Adolf Svenson och hans fästmö. Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				}
+			]
+		},
+		{
+			"id": "image_1057",
+			"metadata": {
+				"hd_id": "1057",
+				"hd_ref": "bild",
+				"physdesc": "4 bl.",
+				"note": "Esteten samt fragment av ett annat verk. Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "DoublePage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "LeftPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "RightPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "LeftPage",
+					"order": "24"
+				}
+			]
+		},
+		{
+			"id": "image_1058",
+			"metadata": {
+				"hd_id": "1058",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "En visa om den sorgsne riddar Rudis af Plommongren. Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0025",
+					"type": "RightPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "DoublePage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "LeftPage",
+					"order": "27"
+				}
+			]
+		},
+		{
+			"id": "image_1059",
+			"metadata": {
+				"hd_id": "1059",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Om Noaks ark, vinet och de stackars fiskar. Underskriven \"I.A.07\", 1907",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0028",
+					"type": "RightPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "LeftPage",
+					"order": "29"
+				}
+			]
+		},
+		{
+			"id": "image_1060",
+			"metadata": {
+				"hd_id": "1060",
+				"hd_ref": "bild",
+				"physdesc": "6 bl.",
+				"note": "Diverse manuskript, delvis skadade, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0030",
+					"type": "RightPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "RightPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "LeftPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "LeftPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "RightPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "LeftPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "RightPage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "LeftPage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "RightPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "LeftPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "RightPage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "LeftPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "RightPage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "RightPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "LeftPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "LeftPage",
+					"order": "45"
+				}
+			]
+		}
+	]
+}

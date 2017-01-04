@@ -1,0 +1,365 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102422",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Biographica",
+		"document_physloc": "3",
+		"document_physdesc": "2 fasc.",
+		"document_unitdate": "1909-1928, 2004",
+		"document_searchdate": "1909-2004",
+		"document_note": "Förmynderskapshandlingar för Eva Arosenius; nekrolog.",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1083",
+			"metadata": {
+				"hd_id": "1083",
+				"hd_ref": "bild",
+				"physdesc": "34 bl.",
+				"note": "Förmyndarskapshandlingar för Eva Arosenius (1906-2004), 1909-1928",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "DoublePage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "LeftPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "RightPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "DoublePage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "DoublePage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "LeftPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "RightPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "LeftPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "RightPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "LeftPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "RightPage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "LeftPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "RightPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "LeftPage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "RightPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "LeftPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "RightPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "LeftPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "RightPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "LeftPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "RightPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "LeftPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "RightPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "LeftPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "RightPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "LeftPage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "RightPage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "LeftPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "RightPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "LeftPage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "RightPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "LeftPage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "RightPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "LeftPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "RightPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "DoublePage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "LeftPage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "RightPage",
+					"order": "48"
+				},
+				{
+					"id": "web0049",
+					"type": "DoublePage",
+					"order": "49"
+				},
+				{
+					"id": "web0050",
+					"type": "LeftPage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "RightPage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "LeftPage",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "RightPage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "LeftPage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "RightPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "LeftPage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "RightPage",
+					"order": "57"
+				},
+				{
+					"id": "web0058",
+					"type": "LeftPage",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "RightPage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "DoublePage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "LeftPage",
+					"order": "61"
+				}
+			]
+		},
+		{
+			"id": "image_1190",
+			"metadata": {
+				"hd_id": "1190",
+				"hd_ref": "bild",
+				"physdesc": "1 tidningsklipp",
+				"note": "Nekrolog ur Göteborgs-Posten",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0062",
+					"type": "RightPage",
+					"order": "62"
+				}
+			]
+		}
+	]
+}

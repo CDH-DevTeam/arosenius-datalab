@@ -1,0 +1,1092 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102214",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Handlingar rörande utställningar och publikation av Ivar Arosenius verk",
+		"document_physloc": "2a",
+		"document_physdesc": "13 fasc.",
+		"document_unitdate": "",
+		"document_searchdate": "1909-1909",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_984",
+			"metadata": {
+				"hd_id": "984",
+				"hd_ref": "bild",
+				"physdesc": "13 bl.",
+				"note": "Handlingar rörande reproduktion av Ivar Arosenius teckningar i tidningen Söndags-Nisse.\nHit även 5 brev till Nils B.Adler från redaktören Hans Zetterström. Dat. 1909-1912.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "RightPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "LeftPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "RightPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "LeftPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "RightPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "LeftPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "LeftPage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "RightPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "LeftPage",
+					"order": "23"
+				}
+			]
+		},
+		{
+			"id": "image_985",
+			"metadata": {
+				"hd_id": "985",
+				"hd_ref": "bild",
+				"physdesc": "8 bl.",
+				"note": "Minnesutställning 10/4-16/5 1909, Stockholm\nHit även ett brev daterat 22/5 1909 från Erik Arosenius till Nils B. Adler",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0024",
+					"type": "RightPage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "DoublePage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "LeftPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "DoublePage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "DoublePage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "RightPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "LeftPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "RightPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "LeftPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "RightPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "DoublePage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "LeftPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "DoublePage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "DoublePage",
+					"order": "37"
+				}
+			]
+		},
+		{
+			"id": "image_986",
+			"metadata": {
+				"hd_id": "986",
+				"hd_ref": "bild",
+				"physdesc": "5 bl.",
+				"note": "Handlingar rörande illustrationer i albumet Ivar Arosenius: tjugonio bilder i färg. Göteborg: Åhlen & Åkerlund, 1909",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0038",
+					"type": "RightPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "LeftPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "RightPage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "LeftPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "RightPage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "LeftPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "RightPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "LeftPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "DoublePage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "DoublePage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "RightPage",
+					"order": "48"
+				},
+				{
+					"id": "web0049",
+					"type": "LeftPage",
+					"order": "49"
+				}
+			]
+		},
+		{
+			"id": "image_987",
+			"metadata": {
+				"hd_id": "987",
+				"hd_ref": "bild",
+				"physdesc": "6 bl., 1 tidningsklipp",
+				"note": "Handlingar rörande utgivning av Kattresan. A.Bonniers förlag.\nHit även brev från Albert Bonnier till Ida (Eva) Arosenius-Dich, dat. 11/12 1911.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0050",
+					"type": "RightPage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "LeftPage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "RightPage",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "LeftPage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "RightPage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "LeftPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "RightPage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "LeftPage",
+					"order": "57"
+				},
+				{
+					"id": "web0058",
+					"type": "RightPage",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "LeftPage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "RightPage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "LeftPage",
+					"order": "61"
+				}
+			]
+		},
+		{
+			"id": "image_988",
+			"metadata": {
+				"hd_id": "988",
+				"hd_ref": "bild",
+				"physdesc": "6 bl.",
+				"note": "Utställning i Tyskland. Hit brev till Ida (Eva) Arosenius från Emil Österman 1909 9/6.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0062",
+					"type": "RightPage",
+					"order": "62"
+				},
+				{
+					"id": "web0063",
+					"type": "LeftPage",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "RightPage",
+					"order": "64"
+				},
+				{
+					"id": "web0065",
+					"type": "LeftPage",
+					"order": "65"
+				},
+				{
+					"id": "web0066",
+					"type": "RightPage",
+					"order": "66"
+				},
+				{
+					"id": "web0067",
+					"type": "LeftPage",
+					"order": "67"
+				},
+				{
+					"id": "web0068",
+					"type": "RightPage",
+					"order": "68"
+				},
+				{
+					"id": "web0069",
+					"type": "DoublePage",
+					"order": "69"
+				},
+				{
+					"id": "web0070",
+					"type": "LeftPage",
+					"order": "70"
+				}
+			]
+		},
+		{
+			"id": "image_989",
+			"metadata": {
+				"hd_id": "989",
+				"hd_ref": "bild",
+				"physdesc": "3 bl.",
+				"note": "Inköps- och utställningsförslag till Nationalmuseum, 1912",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0071",
+					"type": "RightPage",
+					"order": "71"
+				},
+				{
+					"id": "web0072",
+					"type": "DoublePage",
+					"order": "72"
+				},
+				{
+					"id": "web0073",
+					"type": "LeftPage",
+					"order": "73"
+				},
+				{
+					"id": "web0074",
+					"type": "RightPage",
+					"order": "74"
+				},
+				{
+					"id": "web0075",
+					"type": "LeftPage",
+					"order": "75"
+				}
+			]
+		},
+		{
+			"id": "image_990",
+			"metadata": {
+				"hd_id": "990",
+				"hd_ref": "bild",
+				"physdesc": "24 bl., 3 tidningsklipp",
+				"note": "Handlingar rörande en akvarell ur serien ”Sagan om trollkarlen och den underbara fågeln” vilken förlorades i samband med Arosenius utställning i Rom 1911-1912. Hit korrespondens med Sveriges legation i Rom, bl.a. med Anshelm Schulzberg (1862-1945), konstnär, baron Carl Bildt (1850-1931), envoyé.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0076",
+					"type": "RightPage",
+					"order": "76"
+				},
+				{
+					"id": "web0077",
+					"type": "LeftPage",
+					"order": "77"
+				},
+				{
+					"id": "web0078",
+					"type": "RightPage",
+					"order": "78"
+				},
+				{
+					"id": "web0079",
+					"type": "LeftPage",
+					"order": "79"
+				},
+				{
+					"id": "web0080",
+					"type": "RightPage",
+					"order": "80"
+				},
+				{
+					"id": "web0081",
+					"type": "LeftPage",
+					"order": "81"
+				},
+				{
+					"id": "web0082",
+					"type": "RightPage",
+					"order": "82"
+				},
+				{
+					"id": "web0083",
+					"type": "DoublePage",
+					"order": "83"
+				},
+				{
+					"id": "web0084",
+					"type": "LeftPage",
+					"order": "84"
+				},
+				{
+					"id": "web0085",
+					"type": "RightPage",
+					"order": "85"
+				},
+				{
+					"id": "web0086",
+					"type": "LeftPage",
+					"order": "86"
+				},
+				{
+					"id": "web0087",
+					"type": "RightPage",
+					"order": "87"
+				},
+				{
+					"id": "web0088",
+					"type": "LeftPage",
+					"order": "88"
+				},
+				{
+					"id": "web0089",
+					"type": "RightPage",
+					"order": "89"
+				},
+				{
+					"id": "web0090",
+					"type": "DoublePage",
+					"order": "90"
+				},
+				{
+					"id": "web0091",
+					"type": "LeftPage",
+					"order": "91"
+				},
+				{
+					"id": "web0092",
+					"type": "RightPage",
+					"order": "92"
+				},
+				{
+					"id": "web0093",
+					"type": "DoublePage",
+					"order": "93"
+				},
+				{
+					"id": "web0094",
+					"type": "LeftPage",
+					"order": "94"
+				},
+				{
+					"id": "web0095",
+					"type": "RightPage",
+					"order": "95"
+				},
+				{
+					"id": "web0096",
+					"type": "LeftPage",
+					"order": "96"
+				},
+				{
+					"id": "web0097",
+					"type": "RightPage",
+					"order": "97"
+				},
+				{
+					"id": "web0098",
+					"type": "LeftPage",
+					"order": "98"
+				},
+				{
+					"id": "web0099",
+					"type": "RightPage",
+					"order": "99"
+				},
+				{
+					"id": "web0100",
+					"type": "LeftPage",
+					"order": "100"
+				},
+				{
+					"id": "web0101",
+					"type": "RightPage",
+					"order": "101"
+				},
+				{
+					"id": "web0102",
+					"type": "LeftPage",
+					"order": "102"
+				},
+				{
+					"id": "web0103",
+					"type": "RightPage",
+					"order": "103"
+				},
+				{
+					"id": "web0104",
+					"type": "DoublePage",
+					"order": "104"
+				},
+				{
+					"id": "web0105",
+					"type": "LeftPage",
+					"order": "105"
+				},
+				{
+					"id": "web0106",
+					"type": "RightPage",
+					"order": "106"
+				},
+				{
+					"id": "web0107",
+					"type": "LeftPage",
+					"order": "107"
+				},
+				{
+					"id": "web0108",
+					"type": "RightPage",
+					"order": "108"
+				},
+				{
+					"id": "web0109",
+					"type": "LeftPage",
+					"order": "109"
+				},
+				{
+					"id": "web0110",
+					"type": "RightPage",
+					"order": "110"
+				},
+				{
+					"id": "web0111",
+					"type": "LeftPage",
+					"order": "111"
+				},
+				{
+					"id": "web0112",
+					"type": "RightPage",
+					"order": "112"
+				},
+				{
+					"id": "web0113",
+					"type": "LeftPage",
+					"order": "113"
+				},
+				{
+					"id": "web0114",
+					"type": "RightPage",
+					"order": "114"
+				},
+				{
+					"id": "web0115",
+					"type": "LeftPage",
+					"order": "115"
+				},
+				{
+					"id": "web0116",
+					"type": "RightPage",
+					"order": "116"
+				},
+				{
+					"id": "web0117",
+					"type": "DoublePage",
+					"order": "117"
+				},
+				{
+					"id": "web0118",
+					"type": "LeftPage",
+					"order": "118"
+				}
+			]
+		},
+		{
+			"id": "image_991",
+			"metadata": {
+				"hd_id": "991",
+				"hd_ref": "bild",
+				"physdesc": "9 bl.",
+				"note": "Utställning i Brighton. Hit brev till Nils B. Adler och Ida (Eva) Arosenius från direktören Thorsten Laurin (1875-1954). Dat. 1911-1912.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0119",
+					"type": "RightPage",
+					"order": "119"
+				},
+				{
+					"id": "web0120",
+					"type": "LeftPage",
+					"order": "120"
+				},
+				{
+					"id": "web0121",
+					"type": "RightPage",
+					"order": "121"
+				},
+				{
+					"id": "web0122",
+					"type": "LeftPage",
+					"order": "122"
+				},
+				{
+					"id": "web0123",
+					"type": "RightPage",
+					"order": "123"
+				},
+				{
+					"id": "web0124",
+					"type": "LeftPage",
+					"order": "124"
+				},
+				{
+					"id": "web0125",
+					"type": "RightPage",
+					"order": "125"
+				},
+				{
+					"id": "web0126",
+					"type": "DoublePage",
+					"order": "126"
+				},
+				{
+					"id": "web0127",
+					"type": "LeftPage",
+					"order": "127"
+				},
+				{
+					"id": "web0128",
+					"type": "RightPage",
+					"order": "128"
+				},
+				{
+					"id": "web0129",
+					"type": "LeftPage",
+					"order": "129"
+				},
+				{
+					"id": "web0130",
+					"type": "RightPage",
+					"order": "130"
+				},
+				{
+					"id": "web0131",
+					"type": "LeftPage",
+					"order": "131"
+				},
+				{
+					"id": "web0132",
+					"type": "RightPage",
+					"order": "132"
+				},
+				{
+					"id": "web0133",
+					"type": "DoublePage",
+					"order": "133"
+				},
+				{
+					"id": "web0134",
+					"type": "LeftPage",
+					"order": "134"
+				},
+				{
+					"id": "web0135",
+					"type": "RightPage",
+					"order": "135"
+				},
+				{
+					"id": "web0136",
+					"type": "LeftPage",
+					"order": "136"
+				}
+			]
+		},
+		{
+			"id": "image_992",
+			"metadata": {
+				"hd_id": "992",
+				"hd_ref": "bild",
+				"physdesc": "8 bl.",
+				"note": "Brevkoncept från Nils Bonde Adler till arkitekten Ernst Spolén (1880-1974) och till dr. A.Bendixson i samband med planerad utställning i Stockholm, 1912",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0137",
+					"type": "RightPage",
+					"order": "137"
+				},
+				{
+					"id": "web0138",
+					"type": "LeftPage",
+					"order": "138"
+				},
+				{
+					"id": "web0139",
+					"type": "RightPage",
+					"order": "139"
+				},
+				{
+					"id": "web0140",
+					"type": "LeftPage",
+					"order": "140"
+				},
+				{
+					"id": "web0141",
+					"type": "RightPage",
+					"order": "141"
+				},
+				{
+					"id": "web0142",
+					"type": "LeftPage",
+					"order": "142"
+				},
+				{
+					"id": "web0143",
+					"type": "RightPage",
+					"order": "143"
+				},
+				{
+					"id": "web0144",
+					"type": "LeftPage",
+					"order": "144"
+				},
+				{
+					"id": "web0145",
+					"type": "RightPage",
+					"order": "145"
+				},
+				{
+					"id": "web0146",
+					"type": "DoublePage",
+					"order": "146"
+				},
+				{
+					"id": "web0147",
+					"type": "LeftPage",
+					"order": "147"
+				},
+				{
+					"id": "web0148",
+					"type": "RightPage",
+					"order": "148"
+				},
+				{
+					"id": "web0149",
+					"type": "DoublePage",
+					"order": "149"
+				},
+				{
+					"id": "web0150",
+					"type": "LeftPage",
+					"order": "150"
+				}
+			]
+		},
+		{
+			"id": "image_993",
+			"metadata": {
+				"hd_id": "993",
+				"hd_ref": "bild",
+				"physdesc": "9 bl.",
+				"note": "Korrespondens rörande illustrationer till en folkupplaga av Karl Asplunds bok om Ivar Arosenius. Hit korrespondens mellan Ida (Eva) Arosenius, Nils B. Adler, Karl Asplund och Johan Nordenfalk (1897-1980), chef för Norstedts förlag. 7 brev, 1 bilaga. Dat. 1944.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0151",
+					"type": "RightPage",
+					"order": "151"
+				},
+				{
+					"id": "web0152",
+					"type": "LeftPage",
+					"order": "152"
+				},
+				{
+					"id": "web0153",
+					"type": "RightPage",
+					"order": "153"
+				},
+				{
+					"id": "web0154",
+					"type": "LeftPage",
+					"order": "154"
+				},
+				{
+					"id": "web0155",
+					"type": "RightPage",
+					"order": "155"
+				},
+				{
+					"id": "web0156",
+					"type": "LeftPage",
+					"order": "156"
+				},
+				{
+					"id": "web0157",
+					"type": "RightPage",
+					"order": "157"
+				},
+				{
+					"id": "web0158",
+					"type": "LeftPage",
+					"order": "158"
+				},
+				{
+					"id": "web0159",
+					"type": "RightPage",
+					"order": "159"
+				},
+				{
+					"id": "web0160",
+					"type": "LeftPage",
+					"order": "160"
+				},
+				{
+					"id": "web0161",
+					"type": "RightPage",
+					"order": "161"
+				},
+				{
+					"id": "web0162",
+					"type": "LeftPage",
+					"order": "162"
+				},
+				{
+					"id": "web0163",
+					"type": "RightPage",
+					"order": "163"
+				},
+				{
+					"id": "web0164",
+					"type": "LeftPage",
+					"order": "164"
+				},
+				{
+					"id": "web0165",
+					"type": "RightPage",
+					"order": "165"
+				},
+				{
+					"id": "web0166",
+					"type": "LeftPage",
+					"order": "166"
+				},
+				{
+					"id": "web0167",
+					"type": "RightPage",
+					"order": "167"
+				},
+				{
+					"id": "web0168",
+					"type": "RightPage",
+					"order": "168"
+				},
+				{
+					"id": "web0169",
+					"type": "LeftPage",
+					"order": "169"
+				}
+			]
+		},
+		{
+			"id": "image_994",
+			"metadata": {
+				"hd_id": "994",
+				"hd_ref": "bild",
+				"physdesc": "3 bl.",
+				"note": "Korrespondens med bokförlaget ”Natur och kultur” rörande boken om Ivar Arosenius, 3 brev, 1944",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0170",
+					"type": "RightPage",
+					"order": "170"
+				},
+				{
+					"id": "web0171",
+					"type": "LeftPage",
+					"order": "171"
+				},
+				{
+					"id": "web0172",
+					"type": "RightPage",
+					"order": "172"
+				},
+				{
+					"id": "web0173",
+					"type": "LeftPage",
+					"order": "173"
+				},
+				{
+					"id": "web0174",
+					"type": "RightPage",
+					"order": "174"
+				},
+				{
+					"id": "web0175",
+					"type": "LeftPage",
+					"order": "175"
+				}
+			]
+		},
+		{
+			"id": "image_995",
+			"metadata": {
+				"hd_id": "995",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Avtal med Albert Bonniers förlag om reproduktionsrätt till Arosenius verk ägda av Ida (Eva) Arosenius-Dick, 1 kopia, 1944.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0176",
+					"type": "RightPage",
+					"order": "176"
+				},
+				{
+					"id": "web0177",
+					"type": "LeftPage",
+					"order": "177"
+				}
+			]
+		},
+		{
+			"id": "image_996",
+			"metadata": {
+				"hd_id": "996",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Förteckning över Ivar Arosenius handlingar som Sven Sandström lånade under arbete med sin bok om Arosenius, 1957.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0178",
+					"type": "RightPage",
+					"order": "178"
+				},
+				{
+					"id": "web0179",
+					"type": "LeftPage",
+					"order": "179"
+				},
+				{
+					"id": "web0180",
+					"type": "RightPage",
+					"order": "180"
+				},
+				{
+					"id": "web0181",
+					"type": "LeftPage",
+					"order": "181"
+				}
+			]
+		}
+	]
+}

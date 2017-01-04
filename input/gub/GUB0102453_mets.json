@@ -1,0 +1,694 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102453",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Tidningsklipp rörande Ivar Arosenius",
+		"document_physloc": "7-8",
+		"document_physdesc": "2 kapslar",
+		"document_unitdate": "1908-2010",
+		"document_searchdate": "1908-2010",
+		"document_note": "2 klippböcker samt lösa klipp",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1231",
+			"metadata": {
+				"hd_id": "1231",
+				"hd_ref": "bild",
+				"physdesc": "1 band",
+				"note": "Om Ivar Arosenius: tidningsklippbok, 1923-1935, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "BookCover",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "DoublePage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "DoublePage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "DoublePage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "DoublePage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "DoublePage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "DoublePage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "DoublePage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "DoublePage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "DoublePage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "DoublePage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "DoublePage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "DoublePage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "DoublePage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "DoublePage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "DoublePage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "DoublePage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "DoublePage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "DoublePage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "DoublePage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "DoublePage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "DoublePage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "DoublePage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "DoublePage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "DoublePage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "DoublePage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "DoublePage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "DoublePage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "DoublePage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "DoublePage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "DoublePage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "DoublePage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "DoublePage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "DoublePage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "DoublePage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "DoublePage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "DoublePage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "DoublePage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "DoublePage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "DoublePage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "DoublePage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "DoublePage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "DoublePage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "DoublePage",
+					"order": "48"
+				},
+				{
+					"id": "web0049",
+					"type": "DoublePage",
+					"order": "49"
+				},
+				{
+					"id": "web0050",
+					"type": "DoublePage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "DoublePage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "DoublePage",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "DoublePage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "DoublePage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "DoublePage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "DoublePage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "DoublePage",
+					"order": "57"
+				},
+				{
+					"id": "web0058",
+					"type": "DoublePage",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "DoublePage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "DoublePage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "DoublePage",
+					"order": "61"
+				},
+				{
+					"id": "web0062",
+					"type": "LeftPage",
+					"order": "62"
+				}
+			]
+		},
+		{
+			"id": "image_1232",
+			"metadata": {
+				"hd_id": "1232",
+				"hd_ref": "bild",
+				"physdesc": "1 band",
+				"note": "Ivar: tidningsklippbok",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0063",
+					"type": "ColorTarget",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "RightPage",
+					"order": "64"
+				},
+				{
+					"id": "web0065",
+					"type": "DoublePage",
+					"order": "65"
+				},
+				{
+					"id": "web0066",
+					"type": "RightPage",
+					"order": "66"
+				},
+				{
+					"id": "web0067",
+					"type": "RightPage",
+					"order": "67"
+				},
+				{
+					"id": "web0068",
+					"type": "DoublePage",
+					"order": "68"
+				},
+				{
+					"id": "web0069",
+					"type": "DoublePage",
+					"order": "69"
+				},
+				{
+					"id": "web0070",
+					"type": "DoublePage",
+					"order": "70"
+				},
+				{
+					"id": "web0071",
+					"type": "DoublePage",
+					"order": "71"
+				},
+				{
+					"id": "web0072",
+					"type": "DoublePage",
+					"order": "72"
+				},
+				{
+					"id": "web0073",
+					"type": "DoublePage",
+					"order": "73"
+				},
+				{
+					"id": "web0074",
+					"type": "DoublePage",
+					"order": "74"
+				},
+				{
+					"id": "web0075",
+					"type": "DoublePage",
+					"order": "75"
+				},
+				{
+					"id": "web0076",
+					"type": "DoublePage",
+					"order": "76"
+				},
+				{
+					"id": "web0077",
+					"type": "DoublePage",
+					"order": "77"
+				},
+				{
+					"id": "web0078",
+					"type": "DoublePage",
+					"order": "78"
+				},
+				{
+					"id": "web0079",
+					"type": "DoublePage",
+					"order": "79"
+				},
+				{
+					"id": "web0080",
+					"type": "DoublePage",
+					"order": "80"
+				},
+				{
+					"id": "web0081",
+					"type": "DoublePage",
+					"order": "81"
+				},
+				{
+					"id": "web0082",
+					"type": "DoublePage",
+					"order": "82"
+				},
+				{
+					"id": "web0083",
+					"type": "DoublePage",
+					"order": "83"
+				},
+				{
+					"id": "web0084",
+					"type": "DoublePage",
+					"order": "84"
+				},
+				{
+					"id": "web0085",
+					"type": "DoublePage",
+					"order": "85"
+				},
+				{
+					"id": "web0086",
+					"type": "DoublePage",
+					"order": "86"
+				},
+				{
+					"id": "web0087",
+					"type": "DoublePage",
+					"order": "87"
+				},
+				{
+					"id": "web0088",
+					"type": "DoublePage",
+					"order": "88"
+				},
+				{
+					"id": "web0089",
+					"type": "DoublePage",
+					"order": "89"
+				},
+				{
+					"id": "web0090",
+					"type": "DoublePage",
+					"order": "90"
+				},
+				{
+					"id": "web0091",
+					"type": "DoublePage",
+					"order": "91"
+				},
+				{
+					"id": "web0092",
+					"type": "DoublePage",
+					"order": "92"
+				},
+				{
+					"id": "web0093",
+					"type": "DoublePage",
+					"order": "93"
+				},
+				{
+					"id": "web0094",
+					"type": "DoublePage",
+					"order": "94"
+				},
+				{
+					"id": "web0095",
+					"type": "DoublePage",
+					"order": "95"
+				},
+				{
+					"id": "web0096",
+					"type": "DoublePage",
+					"order": "96"
+				},
+				{
+					"id": "web0097",
+					"type": "DoublePage",
+					"order": "97"
+				},
+				{
+					"id": "web0098",
+					"type": "DoublePage",
+					"order": "98"
+				},
+				{
+					"id": "web0099",
+					"type": "DoublePage",
+					"order": "99"
+				},
+				{
+					"id": "web0100",
+					"type": "DoublePage",
+					"order": "100"
+				},
+				{
+					"id": "web0101",
+					"type": "DoublePage",
+					"order": "101"
+				},
+				{
+					"id": "web0102",
+					"type": "DoublePage",
+					"order": "102"
+				},
+				{
+					"id": "web0103",
+					"type": "DoublePage",
+					"order": "103"
+				},
+				{
+					"id": "web0104",
+					"type": "RightPage",
+					"order": "104"
+				}
+			]
+		},
+		{
+			"id": "image_1233",
+			"metadata": {
+				"hd_id": "1233",
+				"hd_ref": "bild",
+				"physdesc": "5 tidningsklipp",
+				"note": "Urval av artiklar om Arosenius utställningar och auktioner, 1920-talet.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0105",
+					"type": "ColorTarget",
+					"order": "105"
+				},
+				{
+					"id": "web0106",
+					"type": "RightPage",
+					"order": "106"
+				},
+				{
+					"id": "web0107",
+					"type": "RightPage",
+					"order": "107"
+				},
+				{
+					"id": "web0108",
+					"type": "RightPage",
+					"order": "108"
+				},
+				{
+					"id": "web0109",
+					"type": "RightPage",
+					"order": "109"
+				},
+				{
+					"id": "web0110",
+					"type": "RightPage",
+					"order": "110"
+				},
+				{
+					"id": "web0111",
+					"type": "RightPage",
+					"order": "111"
+				},
+				{
+					"id": "web0112",
+					"type": "RightPage",
+					"order": "112"
+				},
+				{
+					"id": "web0113",
+					"type": "RightPage",
+					"order": "113"
+				},
+				{
+					"id": "web0114",
+					"type": "RightPage",
+					"order": "114"
+				},
+				{
+					"id": "web0115",
+					"type": "RightPage",
+					"order": "115"
+				}
+			]
+		},
+		{
+			"id": "image_1299",
+			"metadata": {
+				"hd_id": "1299",
+				"hd_ref": "bild",
+				"physdesc": "2 kopior, 1 tidningsklipp",
+				"note": "Artiklar om Ivar Arosenius i utländska tidningar 1910-1930-talet.(danska och italienska)",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0116",
+					"type": "RightPage",
+					"order": "116"
+				},
+				{
+					"id": "web0117",
+					"type": "RightPage",
+					"order": "117"
+				},
+				{
+					"id": "web0118",
+					"type": "RightPage",
+					"order": "118"
+				},
+				{
+					"id": "web0119",
+					"type": "LeftPage",
+					"order": "119"
+				},
+				{
+					"id": "web0120",
+					"type": "RightPage",
+					"order": "120"
+				},
+				{
+					"id": "web0121",
+					"type": "LeftPage",
+					"order": "121"
+				},
+				{
+					"id": "web0122",
+					"type": "RightPage",
+					"order": "122"
+				},
+				{
+					"id": "web0123",
+					"type": "LeftPage",
+					"order": "123"
+				}
+			]
+		}
+	]
+}

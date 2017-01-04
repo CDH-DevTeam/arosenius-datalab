@@ -1,0 +1,1244 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102384",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Ida (Eva)",
+		"letter_sender_name_family": "Arosenius",
+		"letter_sender_name_date": "1879-1965",
+		"letter_recipient_name_given": "Ellen",
+		"letter_recipient_name_family": "Trotzig",
+		"letter_recipient_name_date": "1878-1949",
+		"letter_unitdate": "1905-1949",
+		"letter_note": "Bilagor: förlovnings kort från Eva och Ivar Arosenius 1906, 1 foto, porträtt av Ellen Trotzig.",
+		"letter_image_physdesc": "4 bl.",
+		"letter_image_unitdate": "1905-06-01",
+		"letter_image_searchdate": "1905-06-01"
+	},
+	"files": [
+		{
+			"id": "image_1090",
+			"metadata": {
+				"hd_id": "1090",
+				"hd_ref": "bild",
+				"physdesc": "4 bl.",
+				"note": "",
+				"searchdate": "1905-06-01"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				}
+			]
+		},
+		{
+			"id": "image_1091",
+			"metadata": {
+				"hd_id": "1091",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1905-06-10"
+			},
+			"images": [
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "DoublePage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "LeftPage",
+					"order": "10"
+				}
+			]
+		},
+		{
+			"id": "image_1092",
+			"metadata": {
+				"hd_id": "1092",
+				"hd_ref": "bild",
+				"physdesc": "2 bl., 1 kuvert",
+				"note": "",
+				"searchdate": "1912-02-15"
+			},
+			"images": [
+				{
+					"id": "web0011",
+					"type": "RightPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "LeftPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "RightPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "LeftPage",
+					"order": "14"
+				}
+			]
+		},
+		{
+			"id": "image_1093",
+			"metadata": {
+				"hd_id": "1093",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1941-03-27"
+			},
+			"images": [
+				{
+					"id": "web0015",
+					"type": "RightPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "LeftPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "RightPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "LeftPage",
+					"order": "18"
+				}
+			]
+		},
+		{
+			"id": "image_1094",
+			"metadata": {
+				"hd_id": "1094",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1941-08-31"
+			},
+			"images": [
+				{
+					"id": "web0019",
+					"type": "RightPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "LeftPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "RightPage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "LeftPage",
+					"order": "22"
+				}
+			]
+		},
+		{
+			"id": "image_1095",
+			"metadata": {
+				"hd_id": "1095",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1941-12-21"
+			},
+			"images": [
+				{
+					"id": "web0023",
+					"type": "RightPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "LeftPage",
+					"order": "24"
+				}
+			]
+		},
+		{
+			"id": "image_1096",
+			"metadata": {
+				"hd_id": "1096",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1942-03-03"
+			},
+			"images": [
+				{
+					"id": "web0025",
+					"type": "RightPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "LeftPage",
+					"order": "26"
+				}
+			]
+		},
+		{
+			"id": "image_1097",
+			"metadata": {
+				"hd_id": "1097",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1942-08-06"
+			},
+			"images": [
+				{
+					"id": "web0027",
+					"type": "RightPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "LeftPage",
+					"order": "28"
+				}
+			]
+		},
+		{
+			"id": "image_1098",
+			"metadata": {
+				"hd_id": "1098",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1942-12-22"
+			},
+			"images": [
+				{
+					"id": "web0029",
+					"type": "RightPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "LeftPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "RightPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "LeftPage",
+					"order": "32"
+				}
+			]
+		},
+		{
+			"id": "image_1099",
+			"metadata": {
+				"hd_id": "1099",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1943-10-19"
+			},
+			"images": [
+				{
+					"id": "web0033",
+					"type": "RightPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "LeftPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "RightPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "LeftPage",
+					"order": "36"
+				}
+			]
+		},
+		{
+			"id": "image_1100",
+			"metadata": {
+				"hd_id": "1100",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1944-01-09"
+			},
+			"images": [
+				{
+					"id": "web0037",
+					"type": "RightPage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "LeftPage",
+					"order": "38"
+				}
+			]
+		},
+		{
+			"id": "image_1101",
+			"metadata": {
+				"hd_id": "1101",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1944-02-03"
+			},
+			"images": [
+				{
+					"id": "web0039",
+					"type": "RightPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "LeftPage",
+					"order": "40"
+				}
+			]
+		},
+		{
+			"id": "image_1102",
+			"metadata": {
+				"hd_id": "1102",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1944-06-27"
+			},
+			"images": [
+				{
+					"id": "web0041",
+					"type": "RightPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "LeftPage",
+					"order": "42"
+				}
+			]
+		},
+		{
+			"id": "image_1103",
+			"metadata": {
+				"hd_id": "1103",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1944-10-05"
+			},
+			"images": [
+				{
+					"id": "web0043",
+					"type": "RightPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "LeftPage",
+					"order": "44"
+				}
+			]
+		},
+		{
+			"id": "image_1104",
+			"metadata": {
+				"hd_id": "1104",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1944-11-14"
+			},
+			"images": [
+				{
+					"id": "web0045",
+					"type": "RightPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "LeftPage",
+					"order": "46"
+				}
+			]
+		},
+		{
+			"id": "image_1105",
+			"metadata": {
+				"hd_id": "1105",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1944-12-01"
+			},
+			"images": [
+				{
+					"id": "web0047",
+					"type": "RightPage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "LeftPage",
+					"order": "48"
+				}
+			]
+		},
+		{
+			"id": "image_1106",
+			"metadata": {
+				"hd_id": "1106",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1944-12-12"
+			},
+			"images": [
+				{
+					"id": "web0049",
+					"type": "RightPage",
+					"order": "49"
+				},
+				{
+					"id": "web0050",
+					"type": "LeftPage",
+					"order": "50"
+				}
+			]
+		},
+		{
+			"id": "image_1107",
+			"metadata": {
+				"hd_id": "1107",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1945-01-24"
+			},
+			"images": [
+				{
+					"id": "web0051",
+					"type": "RightPage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "LeftPage",
+					"order": "52"
+				}
+			]
+		},
+		{
+			"id": "image_1108",
+			"metadata": {
+				"hd_id": "1108",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1945-03-23"
+			},
+			"images": [
+				{
+					"id": "web0053",
+					"type": "RightPage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "LeftPage",
+					"order": "54"
+				}
+			]
+		},
+		{
+			"id": "image_1109",
+			"metadata": {
+				"hd_id": "1109",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1945-05-19"
+			},
+			"images": [
+				{
+					"id": "web0055",
+					"type": "RightPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "LeftPage",
+					"order": "56"
+				}
+			]
+		},
+		{
+			"id": "image_1110",
+			"metadata": {
+				"hd_id": "1110",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1945-09-18"
+			},
+			"images": [
+				{
+					"id": "web0057",
+					"type": "RightPage",
+					"order": "57"
+				},
+				{
+					"id": "web0058",
+					"type": "LeftPage",
+					"order": "58"
+				}
+			]
+		},
+		{
+			"id": "image_1111",
+			"metadata": {
+				"hd_id": "1111",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1945-11-25"
+			},
+			"images": [
+				{
+					"id": "web0059",
+					"type": "RightPage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "LeftPage",
+					"order": "60"
+				}
+			]
+		},
+		{
+			"id": "image_1112",
+			"metadata": {
+				"hd_id": "1112",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1945-12-19"
+			},
+			"images": [
+				{
+					"id": "web0061",
+					"type": "RightPage",
+					"order": "61"
+				},
+				{
+					"id": "web0062",
+					"type": "LeftPage",
+					"order": "62"
+				}
+			]
+		},
+		{
+			"id": "image_1114",
+			"metadata": {
+				"hd_id": "1114",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1946-02-18"
+			},
+			"images": [
+				{
+					"id": "web0063",
+					"type": "RightPage",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "LeftPage",
+					"order": "64"
+				}
+			]
+		},
+		{
+			"id": "image_1115",
+			"metadata": {
+				"hd_id": "1115",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1946-04-19"
+			},
+			"images": [
+				{
+					"id": "web0065",
+					"type": "RightPage",
+					"order": "65"
+				},
+				{
+					"id": "web0066",
+					"type": "LeftPage",
+					"order": "66"
+				}
+			]
+		},
+		{
+			"id": "image_1116",
+			"metadata": {
+				"hd_id": "1116",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1946-10-12"
+			},
+			"images": [
+				{
+					"id": "web0067",
+					"type": "RightPage",
+					"order": "67"
+				},
+				{
+					"id": "web0068",
+					"type": "LeftPage",
+					"order": "68"
+				}
+			]
+		},
+		{
+			"id": "image_1117",
+			"metadata": {
+				"hd_id": "1117",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1946-11-21"
+			},
+			"images": [
+				{
+					"id": "web0069",
+					"type": "RightPage",
+					"order": "69"
+				},
+				{
+					"id": "web0070",
+					"type": "LeftPage",
+					"order": "70"
+				}
+			]
+		},
+		{
+			"id": "image_1118",
+			"metadata": {
+				"hd_id": "1118",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1946-12-15"
+			},
+			"images": [
+				{
+					"id": "web0071",
+					"type": "RightPage",
+					"order": "71"
+				},
+				{
+					"id": "web0072",
+					"type": "LeftPage",
+					"order": "72"
+				}
+			]
+		},
+		{
+			"id": "image_1119",
+			"metadata": {
+				"hd_id": "1119",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1947-03-30"
+			},
+			"images": [
+				{
+					"id": "web0073",
+					"type": "RightPage",
+					"order": "73"
+				},
+				{
+					"id": "web0074",
+					"type": "LeftPage",
+					"order": "74"
+				}
+			]
+		},
+		{
+			"id": "image_1120",
+			"metadata": {
+				"hd_id": "1120",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1947-04-14"
+			},
+			"images": [
+				{
+					"id": "web0075",
+					"type": "RightPage",
+					"order": "75"
+				},
+				{
+					"id": "web0076",
+					"type": "LeftPage",
+					"order": "76"
+				}
+			]
+		},
+		{
+			"id": "image_1121",
+			"metadata": {
+				"hd_id": "1121",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1947-05-15"
+			},
+			"images": [
+				{
+					"id": "web0077",
+					"type": "RightPage",
+					"order": "77"
+				},
+				{
+					"id": "web0078",
+					"type": "LeftPage",
+					"order": "78"
+				}
+			]
+		},
+		{
+			"id": "image_1122",
+			"metadata": {
+				"hd_id": "1122",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1947-06-20"
+			},
+			"images": [
+				{
+					"id": "web0079",
+					"type": "RightPage",
+					"order": "79"
+				},
+				{
+					"id": "web0080",
+					"type": "LeftPage",
+					"order": "80"
+				}
+			]
+		},
+		{
+			"id": "image_1123",
+			"metadata": {
+				"hd_id": "1123",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1947-11-20"
+			},
+			"images": [
+				{
+					"id": "web0081",
+					"type": "RightPage",
+					"order": "81"
+				},
+				{
+					"id": "web0082",
+					"type": "LeftPage",
+					"order": "82"
+				}
+			]
+		},
+		{
+			"id": "image_1124",
+			"metadata": {
+				"hd_id": "1124",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1947-12-04"
+			},
+			"images": [
+				{
+					"id": "web0083",
+					"type": "RightPage",
+					"order": "83"
+				},
+				{
+					"id": "web0084",
+					"type": "LeftPage",
+					"order": "84"
+				}
+			]
+		},
+		{
+			"id": "image_1125",
+			"metadata": {
+				"hd_id": "1125",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-02-02"
+			},
+			"images": [
+				{
+					"id": "web0085",
+					"type": "RightPage",
+					"order": "85"
+				},
+				{
+					"id": "web0086",
+					"type": "LeftPage",
+					"order": "86"
+				}
+			]
+		},
+		{
+			"id": "image_1126",
+			"metadata": {
+				"hd_id": "1126",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-03-29"
+			},
+			"images": [
+				{
+					"id": "web0087",
+					"type": "RightPage",
+					"order": "87"
+				},
+				{
+					"id": "web0088",
+					"type": "LeftPage",
+					"order": "88"
+				}
+			]
+		},
+		{
+			"id": "image_1127",
+			"metadata": {
+				"hd_id": "1127",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-04-21"
+			},
+			"images": [
+				{
+					"id": "web0089",
+					"type": "RightPage",
+					"order": "89"
+				},
+				{
+					"id": "web0090",
+					"type": "LeftPage",
+					"order": "90"
+				}
+			]
+		},
+		{
+			"id": "image_1128",
+			"metadata": {
+				"hd_id": "1128",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-06-19"
+			},
+			"images": [
+				{
+					"id": "web0091",
+					"type": "RightPage",
+					"order": "91"
+				},
+				{
+					"id": "web0092",
+					"type": "LeftPage",
+					"order": "92"
+				}
+			]
+		},
+		{
+			"id": "image_1129",
+			"metadata": {
+				"hd_id": "1129",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-08-06"
+			},
+			"images": [
+				{
+					"id": "web0093",
+					"type": "RightPage",
+					"order": "93"
+				},
+				{
+					"id": "web0094",
+					"type": "LeftPage",
+					"order": "94"
+				}
+			]
+		},
+		{
+			"id": "image_1130",
+			"metadata": {
+				"hd_id": "1130",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-09-28"
+			},
+			"images": [
+				{
+					"id": "web0095",
+					"type": "RightPage",
+					"order": "95"
+				},
+				{
+					"id": "web0096",
+					"type": "LeftPage",
+					"order": "96"
+				}
+			]
+		},
+		{
+			"id": "image_1131",
+			"metadata": {
+				"hd_id": "1131",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-11-25"
+			},
+			"images": [
+				{
+					"id": "web0097",
+					"type": "RightPage",
+					"order": "97"
+				},
+				{
+					"id": "web0098",
+					"type": "LeftPage",
+					"order": "98"
+				}
+			]
+		},
+		{
+			"id": "image_1132",
+			"metadata": {
+				"hd_id": "1132",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1948-11-12"
+			},
+			"images": [
+				{
+					"id": "web0099",
+					"type": "RightPage",
+					"order": "99"
+				},
+				{
+					"id": "web0100",
+					"type": "LeftPage",
+					"order": "100"
+				}
+			]
+		},
+		{
+			"id": "image_1133",
+			"metadata": {
+				"hd_id": "1133",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1949-01-15"
+			},
+			"images": [
+				{
+					"id": "web0101",
+					"type": "RightPage",
+					"order": "101"
+				},
+				{
+					"id": "web0102",
+					"type": "LeftPage",
+					"order": "102"
+				}
+			]
+		},
+		{
+			"id": "image_1134",
+			"metadata": {
+				"hd_id": "1134",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1949-02-28"
+			},
+			"images": [
+				{
+					"id": "web0103",
+					"type": "RightPage",
+					"order": "103"
+				},
+				{
+					"id": "web0104",
+					"type": "LeftPage",
+					"order": "104"
+				}
+			]
+		},
+		{
+			"id": "image_1135",
+			"metadata": {
+				"hd_id": "1135",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1949-07-31"
+			},
+			"images": [
+				{
+					"id": "web0105",
+					"type": "RightPage",
+					"order": "105"
+				},
+				{
+					"id": "web0106",
+					"type": "LeftPage",
+					"order": "106"
+				},
+				{
+					"id": "web0107",
+					"type": "RightPage",
+					"order": "107"
+				},
+				{
+					"id": "web0108",
+					"type": "LeftPage",
+					"order": "108"
+				}
+			]
+		},
+		{
+			"id": "image_1136",
+			"metadata": {
+				"hd_id": "1136",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Odat.",
+				"searchdate": "1905-01-01"
+			},
+			"images": [
+				{
+					"id": "web0109",
+					"type": "RightPage",
+					"order": "109"
+				},
+				{
+					"id": "web0110",
+					"type": "LeftPage",
+					"order": "110"
+				},
+				{
+					"id": "web0111",
+					"type": "RightPage",
+					"order": "111"
+				}
+			]
+		},
+		{
+			"id": "image_1137",
+			"metadata": {
+				"hd_id": "1137",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Odat.",
+				"searchdate": "1905-01-01"
+			},
+			"images": [
+				{
+					"id": "web0112",
+					"type": "LeftPage",
+					"order": "112"
+				},
+				{
+					"id": "web0113",
+					"type": "RightPage",
+					"order": "113"
+				}
+			]
+		},
+		{
+			"id": "image_1138",
+			"metadata": {
+				"hd_id": "1138",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Ofullst.",
+				"searchdate": "1940-01-01"
+			},
+			"images": [
+				{
+					"id": "web0114",
+					"type": "LeftPage",
+					"order": "114"
+				},
+				{
+					"id": "web0115",
+					"type": "RightPage",
+					"order": "115"
+				}
+			]
+		},
+		{
+			"id": "image_1139",
+			"metadata": {
+				"hd_id": "1139",
+				"hd_ref": "bild",
+				"physdesc": "2 kort, 1 kuvert, 1 vykort",
+				"note": "Förlovningskort från Eva Adler och Ivar Arosenius, Vykort från Imma Dich till Ellen Trotzig, jul 1946.",
+				"searchdate": "1906-01-01"
+			},
+			"images": [
+				{
+					"id": "web0116",
+					"type": "LeftPage",
+					"order": "116"
+				},
+				{
+					"id": "web0117",
+					"type": "LeftPage",
+					"order": "117"
+				},
+				{
+					"id": "web0118",
+					"type": "RightPage",
+					"order": "118"
+				},
+				{
+					"id": "web0119",
+					"type": "RightPage",
+					"order": "119"
+				},
+				{
+					"id": "web0120",
+					"type": "LeftPage",
+					"order": "120"
+				},
+				{
+					"id": "web0121",
+					"type": "RightPage",
+					"order": "121"
+				},
+				{
+					"id": "web0122",
+					"type": "LeftPage",
+					"order": "122"
+				},
+				{
+					"id": "web0123",
+					"type": "RightPage",
+					"order": "123"
+				},
+				{
+					"id": "web0124",
+					"type": "LeftPage",
+					"order": "124"
+				},
+				{
+					"id": "web0125",
+					"type": "RightPage",
+					"order": "125"
+				}
+			]
+		}
+	]
+}

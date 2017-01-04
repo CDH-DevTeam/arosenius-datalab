@@ -1,0 +1,80 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102334",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Ivar",
+		"letter_sender_name_family": "Arosenius",
+		"letter_sender_name_date": "1878-1909",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "Oidentifierade personer",
+		"letter_recipient_name_date": "-",
+		"letter_unitdate": "-",
+		"letter_note": "På baksidan av ett av breven en teckning. Breven är överförda från GKM 2005.",
+		"letter_image_physdesc": "1 bl.",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": "1900-01-01"
+	},
+	"files": [
+		{
+			"id": "image_1289",
+			"metadata": {
+				"hd_id": "1289",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Odat.",
+				"searchdate": "1900-01-01"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				}
+			]
+		},
+		{
+			"id": "image_1290",
+			"metadata": {
+				"hd_id": "1290",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Odat. På baksidan en teckning.",
+				"searchdate": "1900-01-01"
+			},
+			"images": [
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				}
+			]
+		}
+	]
+}

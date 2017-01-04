@@ -1,0 +1,206 @@
+{
+	"meta": {
+		"mets_ID": "GUB0101999",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "2",
+		"letter_sender_name_given": "Ivar",
+		"letter_sender_name_family": "Arosenius",
+		"letter_sender_name_date": "1878-1909",
+		"letter_recipient_name_given": "John Ossian",
+		"letter_recipient_name_family": "Ekman",
+		"letter_recipient_name_date": "1880-1949",
+		"letter_unitdate": "-",
+		"letter_note": "[1906] varav 4 i kopia efter original i privat ägo.",
+		"letter_image_physdesc": "2 bl.",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": "1906-01-01"
+	},
+	"files": [
+		{
+			"id": "image_1027",
+			"metadata": {
+				"hd_id": "1027",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Odat.",
+				"searchdate": "1906-01-01"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				}
+			]
+		},
+		{
+			"id": "image_1028",
+			"metadata": {
+				"hd_id": "1028",
+				"hd_ref": "bild",
+				"physdesc": "4 bl.",
+				"note": "Kopia, odat.",
+				"searchdate": "1906-01-01"
+			},
+			"images": [
+				{
+					"id": "web0005",
+					"type": "ColorTarget",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "RightPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "LeftPage",
+					"order": "9"
+				}
+			]
+		},
+		{
+			"id": "image_1029",
+			"metadata": {
+				"hd_id": "1029",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Kopia, odat. med porträtt av Ivar Arosenius",
+				"searchdate": "1906-01-01"
+			},
+			"images": [
+				{
+					"id": "web0010",
+					"type": "RightPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "LeftPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "RightPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				}
+			]
+		},
+		{
+			"id": "image_1030",
+			"metadata": {
+				"hd_id": "1030",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Kopia, odat.",
+				"searchdate": "1906-01-01"
+			},
+			"images": [
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "LeftPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "LeftPage",
+					"order": "21"
+				}
+			]
+		},
+		{
+			"id": "image_1270",
+			"metadata": {
+				"hd_id": "1270",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Odat.",
+				"searchdate": "1906-01-01"
+			},
+			"images": [
+				{
+					"id": "web0022",
+					"type": "RightPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "LeftPage",
+					"order": "23"
+				}
+			]
+		}
+	]
+}

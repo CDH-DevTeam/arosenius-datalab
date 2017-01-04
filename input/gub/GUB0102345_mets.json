@@ -1,0 +1,68 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102345",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Rut",
+		"letter_sender_name_family": "Adler",
+		"letter_sender_name_date": "1888-1969",
+		"letter_recipient_name_given": "Ida (Eva)",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1879-1965",
+		"letter_unitdate": "1959-",
+		"letter_note": "",
+		"letter_image_physdesc": "2 bl.",
+		"letter_image_unitdate": "1959-11-27",
+		"letter_image_searchdate": "1959-11-27"
+	},
+	"files": [
+		{
+			"id": "image_1145",
+			"metadata": {
+				"hd_id": "1145",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1959-11-27"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				}
+			]
+		}
+	]
+}

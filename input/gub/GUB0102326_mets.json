@@ -1,0 +1,177 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102326",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Utställningskataloger",
+		"document_physloc": "3",
+		"document_physdesc": "2 häften, 1 bl.",
+		"document_unitdate": "",
+		"document_searchdate": "1908-1908",
+		"document_note": "Handskrivna och tryckta. Material överfört från GKM 2005. Häri: Förteckning över försålda tavlor av I.Arosenius; Katalog öfver I. Arosenii utställning, hösten 1908 (med original teckning); Katalog öfver Ivar Arosenius, Sigge Bergström, Gerhard Hennings utställning. Göteborg, 1908",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1065",
+			"metadata": {
+				"hd_id": "1065",
+				"hd_ref": "bild",
+				"physdesc": "1 bl., 1 kuvert",
+				"note": "Försåldt på utställningen i Göteborg 1908",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "LeftPage",
+					"order": "6"
+				}
+			]
+		},
+		{
+			"id": "image_1066",
+			"metadata": {
+				"hd_id": "1066",
+				"hd_ref": "bild",
+				"physdesc": "1 häfte (9 bl.)",
+				"note": "Katalog öfver I.Arosenii utställnig hösten 1908.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0007",
+					"type": "RightPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "DoublePage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "DoublePage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "DoublePage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "DoublePage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "DoublePage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "DoublePage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "DoublePage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				}
+			]
+		},
+		{
+			"id": "image_1067",
+			"metadata": {
+				"hd_id": "1067",
+				"hd_ref": "bild",
+				"physdesc": "1 häfte (6 bl.)",
+				"note": "Katalog öfver öfver Arosenius, Sigge Bergström och Gerhard Hennings utställning 1908.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "DoublePage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "DoublePage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "DoublePage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "DoublePage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "DoublePage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "LeftPage",
+					"order": "22"
+				}
+			]
+		}
+	]
+}

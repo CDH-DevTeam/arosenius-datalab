@@ -1,0 +1,196 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102342",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Nils Bonde",
+		"letter_sender_name_family": "Adler",
+		"letter_sender_name_date": "1885-1984",
+		"letter_recipient_name_given": "Ida (Eva)",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1879-1965",
+		"letter_unitdate": "1912-1960",
+		"letter_note": "1 bil.",
+		"letter_image_physdesc": "1 vykort",
+		"letter_image_unitdate": "1960-09-23",
+		"letter_image_searchdate": "1960-09-23"
+	},
+	"files": [
+		{
+			"id": "image_1140",
+			"metadata": {
+				"hd_id": "1140",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1912-01-11"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				}
+			]
+		},
+		{
+			"id": "image_1141",
+			"metadata": {
+				"hd_id": "1141",
+				"hd_ref": "bild",
+				"physdesc": "3 bl.",
+				"note": "",
+				"searchdate": "1920-11-08"
+			},
+			"images": [
+				{
+					"id": "web0005",
+					"type": "ColorTarget",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "RightPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "LeftPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "RightPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "LeftPage",
+					"order": "11"
+				}
+			]
+		},
+		{
+			"id": "image_1142",
+			"metadata": {
+				"hd_id": "1142",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1922-07-08"
+			},
+			"images": [
+				{
+					"id": "web0012",
+					"type": "ColorTarget",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "RightPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "LeftPage",
+					"order": "14"
+				}
+			]
+		},
+		{
+			"id": "image_1143",
+			"metadata": {
+				"hd_id": "1143",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Bilaga: avskrift av Nils Ferlins dikt",
+				"searchdate": "1948-08-24"
+			},
+			"images": [
+				{
+					"id": "web0015",
+					"type": "ColorTarget",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "LeftPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				}
+			]
+		},
+		{
+			"id": "image_1144",
+			"metadata": {
+				"hd_id": "1144",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1960-09-23"
+			},
+			"images": [
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "LeftPage",
+					"order": "21"
+				}
+			]
+		}
+	]
+}

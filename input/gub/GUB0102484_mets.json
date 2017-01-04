@@ -1,0 +1,728 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102484",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Tidningsklipp om Ivar Arosenius",
+		"document_physloc": "12",
+		"document_physdesc": "11 fasc.",
+		"document_unitdate": "",
+		"document_searchdate": "1905-1960",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1247",
+			"metadata": {
+				"hd_id": "1247",
+				"hd_ref": "bild",
+				"physdesc": "3 tidningsklipp",
+				"note": "Separatutställning i Konstnärshuset, Stockholm, Smålandsgatan, 7, 1905.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "RightPage",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "DoublePage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "DoublePage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "RightPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "RightPage",
+					"order": "7"
+				}
+			]
+		},
+		{
+			"id": "image_1248",
+			"metadata": {
+				"hd_id": "1248",
+				"hd_ref": "bild",
+				"physdesc": "6 tidningsklipp, med dubbletter, 7 kuvert",
+				"note": "Arosenius m.fl. utställning på Valand november-december 1908. Hit artiklar av:\nE.Alkman, L.Romdahl, J.Atterbom, O.Lund, Eggers.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "RightPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "RightPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "LeftPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "LeftPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "RightPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "RightPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "RightPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "LeftPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "RightPage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "LeftPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "RightPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "LeftPage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "LeftPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "RightPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "RightPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "RightPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "RightPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "LeftPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "LeftPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "RightPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "RightPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "LeftPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "RightPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "LeftPage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "LeftPage",
+					"order": "37"
+				}
+			]
+		},
+		{
+			"id": "image_1249",
+			"metadata": {
+				"hd_id": "1249",
+				"hd_ref": "bild",
+				"physdesc": "1 tidningsklipp, 1 kuvert",
+				"note": "Signe Lagerlöw. Ivar Arosenius. In memoriam. Göteborgs-Bladet 8/1 1909",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0038",
+					"type": "RightPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "RightPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "RightPage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "LeftPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "LeftPage",
+					"order": "42"
+				}
+			]
+		},
+		{
+			"id": "image_1250",
+			"metadata": {
+				"hd_id": "1250",
+				"hd_ref": "bild",
+				"physdesc": "4 tidningsklipp",
+				"note": "Nekrologer, januari 1909",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0043",
+					"type": "RightPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "RightPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "RightPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "RightPage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "RightPage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "RightPage",
+					"order": "48"
+				},
+				{
+					"id": "web0049",
+					"type": "RightPage",
+					"order": "49"
+				}
+			]
+		},
+		{
+			"id": "image_1251",
+			"metadata": {
+				"hd_id": "1251",
+				"hd_ref": "bild",
+				"physdesc": "11 tidningsklipp, 2 kuvert",
+				"note": "Ivar Arosenius. Minnesutställning på Konstakademin, 1909.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0050",
+					"type": "RightPage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "RightPage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "RightPage",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "RightPage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "RightPage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "RightPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "RightPage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "RightPage",
+					"order": "57"
+				},
+				{
+					"id": "web0058",
+					"type": "RightPage",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "RightPage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "RightPage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "LeftPage",
+					"order": "61"
+				},
+				{
+					"id": "web0062",
+					"type": "LeftPage",
+					"order": "62"
+				},
+				{
+					"id": "web0063",
+					"type": "RightPage",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "RightPage",
+					"order": "64"
+				},
+				{
+					"id": "web0065",
+					"type": "RightPage",
+					"order": "65"
+				},
+				{
+					"id": "web0066",
+					"type": "LeftPage",
+					"order": "66"
+				},
+				{
+					"id": "web0067",
+					"type": "LeftPage",
+					"order": "67"
+				}
+			]
+		},
+		{
+			"id": "image_1252",
+			"metadata": {
+				"hd_id": "1252",
+				"hd_ref": "bild",
+				"physdesc": "2 tidningsklipp",
+				"note": "Bokrecensioner av A.L. Romdahls bok om Ivar Arosenius, 1909, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0068",
+					"type": "RightPage",
+					"order": "68"
+				},
+				{
+					"id": "web0069",
+					"type": "RightPage",
+					"order": "69"
+				},
+				{
+					"id": "web0070",
+					"type": "RightPage",
+					"order": "70"
+				},
+				{
+					"id": "web0071",
+					"type": "RightPage",
+					"order": "71"
+				},
+				{
+					"id": "web0072",
+					"type": "RightPage",
+					"order": "72"
+				}
+			]
+		},
+		{
+			"id": "image_1253",
+			"metadata": {
+				"hd_id": "1253",
+				"hd_ref": "bild",
+				"physdesc": "5 tidningsklipp",
+				"note": "Carl Wilhelmson, Ivar Arosenius m.fl. Liljevalchs galleri, novemberutställning 1922",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0073",
+					"type": "RightPage",
+					"order": "73"
+				},
+				{
+					"id": "web0074",
+					"type": "RightPage",
+					"order": "74"
+				},
+				{
+					"id": "web0075",
+					"type": "RightPage",
+					"order": "75"
+				},
+				{
+					"id": "web0076",
+					"type": "RightPage",
+					"order": "76"
+				},
+				{
+					"id": "web0077",
+					"type": "RightPage",
+					"order": "77"
+				},
+				{
+					"id": "web0078",
+					"type": "RightPage",
+					"order": "78"
+				},
+				{
+					"id": "web0079",
+					"type": "RightPage",
+					"order": "79"
+				},
+				{
+					"id": "web0080",
+					"type": "RightPage",
+					"order": "80"
+				},
+				{
+					"id": "web0081",
+					"type": "LeftPage",
+					"order": "81"
+				},
+				{
+					"id": "web0082",
+					"type": "RightPage",
+					"order": "82"
+				},
+				{
+					"id": "web0083",
+					"type": "RightPage",
+					"order": "83"
+				},
+				{
+					"id": "web0084",
+					"type": "RightPage",
+					"order": "84"
+				}
+			]
+		},
+		{
+			"id": "image_1254",
+			"metadata": {
+				"hd_id": "1254",
+				"hd_ref": "bild",
+				"physdesc": "1 tidningsklipp",
+				"note": "Arosenius utställning, Stockholm 1944",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0085",
+					"type": "RightPage",
+					"order": "85"
+				},
+				{
+					"id": "web0086",
+					"type": "RightPage",
+					"order": "86"
+				},
+				{
+					"id": "web0087",
+					"type": "RightPage",
+					"order": "87"
+				},
+				{
+					"id": "web0088",
+					"type": "RightPage",
+					"order": "88"
+				},
+				{
+					"id": "web0089",
+					"type": "RightPage",
+					"order": "89"
+				}
+			]
+		},
+		{
+			"id": "image_1255",
+			"metadata": {
+				"hd_id": "1255",
+				"hd_ref": "bild",
+				"physdesc": "3 tidningsklipp",
+				"note": "Bokrecensioner av Sven Sandströms bok om Ivar Arosenius, 1959",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0090",
+					"type": "RightPage",
+					"order": "90"
+				},
+				{
+					"id": "web0091",
+					"type": "RightPage",
+					"order": "91"
+				},
+				{
+					"id": "web0092",
+					"type": "RightPage",
+					"order": "92"
+				},
+				{
+					"id": "web0093",
+					"type": "RightPage",
+					"order": "93"
+				}
+			]
+		},
+		{
+			"id": "image_1256",
+			"metadata": {
+				"hd_id": "1256",
+				"hd_ref": "bild",
+				"physdesc": "2 tidningsklipp",
+				"note": "Arosenius verk på auktioner, 1926, 1966",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0094",
+					"type": "RightPage",
+					"order": "94"
+				},
+				{
+					"id": "web0095",
+					"type": "RightPage",
+					"order": "95"
+				},
+				{
+					"id": "web0096",
+					"type": "RightPage",
+					"order": "96"
+				}
+			]
+		},
+		{
+			"id": "image_1257",
+			"metadata": {
+				"hd_id": "1257",
+				"hd_ref": "bild",
+				"physdesc": "9 tidningsklipp, 1 kuvert",
+				"note": "Diverse klipp om Ivar Arosenius, 1909-1941, odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0097",
+					"type": "RightPage",
+					"order": "97"
+				},
+				{
+					"id": "web0098",
+					"type": "RightPage",
+					"order": "98"
+				},
+				{
+					"id": "web0099",
+					"type": "RightPage",
+					"order": "99"
+				},
+				{
+					"id": "web0100",
+					"type": "RightPage",
+					"order": "100"
+				},
+				{
+					"id": "web0101",
+					"type": "RightPage",
+					"order": "101"
+				},
+				{
+					"id": "web0102",
+					"type": "RightPage",
+					"order": "102"
+				},
+				{
+					"id": "web0103",
+					"type": "RightPage",
+					"order": "103"
+				},
+				{
+					"id": "web0104",
+					"type": "RightPage",
+					"order": "104"
+				},
+				{
+					"id": "web0105",
+					"type": "RightPage",
+					"order": "105"
+				},
+				{
+					"id": "web0106",
+					"type": "RightPage",
+					"order": "106"
+				},
+				{
+					"id": "web0107",
+					"type": "RightPage",
+					"order": "107"
+				},
+				{
+					"id": "web0108",
+					"type": "RightPage",
+					"order": "108"
+				},
+				{
+					"id": "web0109",
+					"type": "RightPage",
+					"order": "109"
+				},
+				{
+					"id": "web0110",
+					"type": "RightPage",
+					"order": "110"
+				},
+				{
+					"id": "web0111",
+					"type": "RightPage",
+					"order": "111"
+				},
+				{
+					"id": "web0112",
+					"type": "LeftPage",
+					"order": "112"
+				},
+				{
+					"id": "web0113",
+					"type": "LeftPage",
+					"order": "113"
+				}
+			]
+		}
+	]
+}

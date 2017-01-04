@@ -1,0 +1,73 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102009",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "2",
+		"letter_sender_name_given": "Karin",
+		"letter_sender_name_family": "Larsson",
+		"letter_sender_name_date": "1859-1928",
+		"letter_recipient_name_given": "Karin",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1851-1932",
+		"letter_unitdate": "1919-",
+		"letter_note": "",
+		"letter_image_physdesc": "2 bl., 1 kuvert",
+		"letter_image_unitdate": "1919-02-19",
+		"letter_image_searchdate": "1919-02-19"
+	},
+	"files": [
+		{
+			"id": "image_1018",
+			"metadata": {
+				"hd_id": "1018",
+				"hd_ref": "bild",
+				"physdesc": "2 bl., 1 kuvert",
+				"note": "",
+				"searchdate": "1919-02-19"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "LeftPage",
+					"order": "6"
+				}
+			]
+		}
+	]
+}

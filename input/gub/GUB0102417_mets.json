@@ -1,0 +1,63 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102417",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Elisabeth",
+		"letter_sender_name_family": "Söderlind",
+		"letter_sender_name_date": "-",
+		"letter_recipient_name_given": "Astrid",
+		"letter_recipient_name_family": "Constantine-Torstensson",
+		"letter_recipient_name_date": "1935-",
+		"letter_unitdate": "1989-1989",
+		"letter_note": "bilaga: Familjetavla Arosenius-Rydén",
+		"letter_image_physdesc": "2 bl.",
+		"letter_image_unitdate": "1989-08-24",
+		"letter_image_searchdate": "1989-08-24"
+	},
+	"files": [
+		{
+			"id": "image_1182",
+			"metadata": {
+				"hd_id": "1182",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "1 bilaga",
+				"searchdate": "1989-08-24"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "RightPage",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "LeftPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "RightPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				}
+			]
+		}
+	]
+}

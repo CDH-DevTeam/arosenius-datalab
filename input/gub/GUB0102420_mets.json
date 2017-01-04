@@ -1,0 +1,63 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102420",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Skrivelse till Notarius Publicus med protest mot reproduktion av Ivar Arosenius bilder i tidningen ”Söndags-Nisse”",
+		"document_physloc": "3",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "1909-1909",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1085",
+			"metadata": {
+				"hd_id": "1085",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "1909",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				}
+			]
+		}
+	]
+}

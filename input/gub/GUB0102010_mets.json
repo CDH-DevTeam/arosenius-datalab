@@ -1,0 +1,63 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102010",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "2",
+		"letter_sender_name_given": "Carl",
+		"letter_sender_name_family": "Larsson",
+		"letter_sender_name_date": "1853-1919",
+		"letter_recipient_name_given": "Hedvig (Hedda)",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1812-1902",
+		"letter_unitdate": "1889-",
+		"letter_note": "",
+		"letter_image_physdesc": "2 bl.",
+		"letter_image_unitdate": "1889-07-05",
+		"letter_image_searchdate": "1889-07-05"
+	},
+	"files": [
+		{
+			"id": "image_1019",
+			"metadata": {
+				"hd_id": "1019",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1889-07-05"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				}
+			]
+		}
+	]
+}

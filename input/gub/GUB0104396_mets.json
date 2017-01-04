@@ -1,0 +1,1293 @@
+{
+	"meta": {
+		"mets_ID": "GUB0104396",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Kataloger över utställningar av  Ivar Arosenius verk",
+		"document_physloc": "12",
+		"document_physdesc": "12 häften",
+		"document_unitdate": "",
+		"document_searchdate": "1905-1980",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1241",
+			"metadata": {
+				"hd_id": "1241",
+				"hd_ref": "bild",
+				"physdesc": "1 band",
+				"note": "Västsvensk konst. Jubileumsutställningen i Göteborg 1923: katalog. Göteborg: Wald. Zachrissons boktryckeri, 1923. med blyertsanteckning \"N.A.\" på titelsidan.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "BookCover",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "BookCover",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "RightPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "LeftPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "RightPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "LeftPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "RightPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "LeftPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "RightPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "LeftPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "RightPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "LeftPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "RightPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "LeftPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "RightPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "LeftPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "RightPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "LeftPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "RightPage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "LeftPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "RightPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "LeftPage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "RightPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "LeftPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "RightPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "LeftPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "RightPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "LeftPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "RightPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "LeftPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "RightPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "LeftPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "RightPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "LeftPage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "RightPage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "LeftPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "RightPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "LeftPage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "RightPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "LeftPage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "RightPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "LeftPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "RightPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "LeftPage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "RightPage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "LeftPage",
+					"order": "48"
+				},
+				{
+					"id": "web0049",
+					"type": "RightPage",
+					"order": "49"
+				},
+				{
+					"id": "web0050",
+					"type": "LeftPage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "RightPage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "LeftPage",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "RightPage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "LeftPage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "RightPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "LeftPage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "RightPage",
+					"order": "57"
+				},
+				{
+					"id": "web0058",
+					"type": "LeftPage",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "RightPage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "LeftPage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "RightPage",
+					"order": "61"
+				},
+				{
+					"id": "web0062",
+					"type": "LeftPage",
+					"order": "62"
+				},
+				{
+					"id": "web0063",
+					"type": "RightPage",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "LeftPage",
+					"order": "64"
+				},
+				{
+					"id": "web0065",
+					"type": "RightPage",
+					"order": "65"
+				},
+				{
+					"id": "web0066",
+					"type": "LeftPage",
+					"order": "66"
+				},
+				{
+					"id": "web0067",
+					"type": "RightPage",
+					"order": "67"
+				},
+				{
+					"id": "web0068",
+					"type": "LeftPage",
+					"order": "68"
+				},
+				{
+					"id": "web0069",
+					"type": "RightPage",
+					"order": "69"
+				},
+				{
+					"id": "web0070",
+					"type": "LeftPage",
+					"order": "70"
+				},
+				{
+					"id": "web0071",
+					"type": "RightPage",
+					"order": "71"
+				},
+				{
+					"id": "web0072",
+					"type": "LeftPage",
+					"order": "72"
+				},
+				{
+					"id": "web0073",
+					"type": "RightPage",
+					"order": "73"
+				},
+				{
+					"id": "web0074",
+					"type": "LeftPage",
+					"order": "74"
+				},
+				{
+					"id": "web0075",
+					"type": "RightPage",
+					"order": "75"
+				},
+				{
+					"id": "web0076",
+					"type": "LeftPage",
+					"order": "76"
+				},
+				{
+					"id": "web0077",
+					"type": "RightPage",
+					"order": "77"
+				},
+				{
+					"id": "web0078",
+					"type": "LeftPage",
+					"order": "78"
+				},
+				{
+					"id": "web0079",
+					"type": "RightPage",
+					"order": "79"
+				},
+				{
+					"id": "web0080",
+					"type": "LeftPage",
+					"order": "80"
+				},
+				{
+					"id": "web0081",
+					"type": "RightPage",
+					"order": "81"
+				},
+				{
+					"id": "web0082",
+					"type": "LeftPage",
+					"order": "82"
+				},
+				{
+					"id": "web0083",
+					"type": "RightPage",
+					"order": "83"
+				},
+				{
+					"id": "web0084",
+					"type": "LeftPage",
+					"order": "84"
+				},
+				{
+					"id": "web0085",
+					"type": "RightPage",
+					"order": "85"
+				},
+				{
+					"id": "web0086",
+					"type": "LeftPage",
+					"order": "86"
+				},
+				{
+					"id": "web0087",
+					"type": "RightPage",
+					"order": "87"
+				},
+				{
+					"id": "web0088",
+					"type": "LeftPage",
+					"order": "88"
+				},
+				{
+					"id": "web0089",
+					"type": "RightPage",
+					"order": "89"
+				},
+				{
+					"id": "web0090",
+					"type": "LeftPage",
+					"order": "90"
+				},
+				{
+					"id": "web0091",
+					"type": "RightPage",
+					"order": "91"
+				},
+				{
+					"id": "web0092",
+					"type": "LeftPage",
+					"order": "92"
+				},
+				{
+					"id": "web0093",
+					"type": "RightPage",
+					"order": "93"
+				},
+				{
+					"id": "web0094",
+					"type": "LeftPage",
+					"order": "94"
+				},
+				{
+					"id": "web0095",
+					"type": "RightPage",
+					"order": "95"
+				},
+				{
+					"id": "web0096",
+					"type": "LeftPage",
+					"order": "96"
+				},
+				{
+					"id": "web0097",
+					"type": "RightPage",
+					"order": "97"
+				},
+				{
+					"id": "web0098",
+					"type": "LeftPage",
+					"order": "98"
+				},
+				{
+					"id": "web0099",
+					"type": "RightPage",
+					"order": "99"
+				},
+				{
+					"id": "web0100",
+					"type": "LeftPage",
+					"order": "100"
+				},
+				{
+					"id": "web0101",
+					"type": "RightPage",
+					"order": "101"
+				},
+				{
+					"id": "web0102",
+					"type": "LeftPage",
+					"order": "102"
+				},
+				{
+					"id": "web0103",
+					"type": "RightPage",
+					"order": "103"
+				},
+				{
+					"id": "web0104",
+					"type": "LeftPage",
+					"order": "104"
+				},
+				{
+					"id": "web0105",
+					"type": "RightPage",
+					"order": "105"
+				},
+				{
+					"id": "web0106",
+					"type": "LeftPage",
+					"order": "106"
+				},
+				{
+					"id": "web0107",
+					"type": "RightPage",
+					"order": "107"
+				},
+				{
+					"id": "web0108",
+					"type": "LeftPage",
+					"order": "108"
+				},
+				{
+					"id": "web0109",
+					"type": "RightPage",
+					"order": "109"
+				},
+				{
+					"id": "web0110",
+					"type": "LeftPage",
+					"order": "110"
+				},
+				{
+					"id": "web0111",
+					"type": "RightPage",
+					"order": "111"
+				},
+				{
+					"id": "web0112",
+					"type": "LeftPage",
+					"order": "112"
+				},
+				{
+					"id": "web0113",
+					"type": "RightPage",
+					"order": "113"
+				},
+				{
+					"id": "web0114",
+					"type": "LeftPage",
+					"order": "114"
+				},
+				{
+					"id": "web0115",
+					"type": "RightPage",
+					"order": "115"
+				},
+				{
+					"id": "web0116",
+					"type": "LeftPage",
+					"order": "116"
+				},
+				{
+					"id": "web0117",
+					"type": "RightPage",
+					"order": "117"
+				},
+				{
+					"id": "web0118",
+					"type": "LeftPage",
+					"order": "118"
+				},
+				{
+					"id": "web0119",
+					"type": "RightPage",
+					"order": "119"
+				},
+				{
+					"id": "web0120",
+					"type": "LeftPage",
+					"order": "120"
+				},
+				{
+					"id": "web0121",
+					"type": "RightPage",
+					"order": "121"
+				},
+				{
+					"id": "web0122",
+					"type": "LeftPage",
+					"order": "122"
+				},
+				{
+					"id": "web0123",
+					"type": "RightPage",
+					"order": "123"
+				},
+				{
+					"id": "web0124",
+					"type": "LeftPage",
+					"order": "124"
+				},
+				{
+					"id": "web0125",
+					"type": "RightPage",
+					"order": "125"
+				},
+				{
+					"id": "web0126",
+					"type": "LeftPage",
+					"order": "126"
+				},
+				{
+					"id": "web0127",
+					"type": "RightPage",
+					"order": "127"
+				},
+				{
+					"id": "web0128",
+					"type": "LeftPage",
+					"order": "128"
+				},
+				{
+					"id": "web0129",
+					"type": "RightPage",
+					"order": "129"
+				},
+				{
+					"id": "web0130",
+					"type": "LeftPage",
+					"order": "130"
+				},
+				{
+					"id": "web0131",
+					"type": "RightPage",
+					"order": "131"
+				},
+				{
+					"id": "web0132",
+					"type": "LeftPage",
+					"order": "132"
+				},
+				{
+					"id": "web0133",
+					"type": "RightPage",
+					"order": "133"
+				},
+				{
+					"id": "web0134",
+					"type": "LeftPage",
+					"order": "134"
+				},
+				{
+					"id": "web0135",
+					"type": "RightPage",
+					"order": "135"
+				},
+				{
+					"id": "web0136",
+					"type": "LeftPage",
+					"order": "136"
+				},
+				{
+					"id": "web0137",
+					"type": "RightPage",
+					"order": "137"
+				},
+				{
+					"id": "web0138",
+					"type": "LeftPage",
+					"order": "138"
+				},
+				{
+					"id": "web0139",
+					"type": "RightPage",
+					"order": "139"
+				},
+				{
+					"id": "web0140",
+					"type": "LeftPage",
+					"order": "140"
+				},
+				{
+					"id": "web0141",
+					"type": "RightPage",
+					"order": "141"
+				},
+				{
+					"id": "web0142",
+					"type": "LeftPage",
+					"order": "142"
+				},
+				{
+					"id": "web0143",
+					"type": "RightPage",
+					"order": "143"
+				},
+				{
+					"id": "web0144",
+					"type": "LeftPage",
+					"order": "144"
+				},
+				{
+					"id": "web0145",
+					"type": "RightPage",
+					"order": "145"
+				},
+				{
+					"id": "web0146",
+					"type": "LeftPage",
+					"order": "146"
+				},
+				{
+					"id": "web0147",
+					"type": "RightPage",
+					"order": "147"
+				},
+				{
+					"id": "web0148",
+					"type": "LeftPage",
+					"order": "148"
+				},
+				{
+					"id": "web0149",
+					"type": "RightPage",
+					"order": "149"
+				},
+				{
+					"id": "web0150",
+					"type": "LeftPage",
+					"order": "150"
+				},
+				{
+					"id": "web0151",
+					"type": "RightPage",
+					"order": "151"
+				},
+				{
+					"id": "web0152",
+					"type": "LeftPage",
+					"order": "152"
+				},
+				{
+					"id": "web0153",
+					"type": "RightPage",
+					"order": "153"
+				},
+				{
+					"id": "web0154",
+					"type": "LeftPage",
+					"order": "154"
+				},
+				{
+					"id": "web0155",
+					"type": "RightPage",
+					"order": "155"
+				},
+				{
+					"id": "web0156",
+					"type": "LeftPage",
+					"order": "156"
+				},
+				{
+					"id": "web0157",
+					"type": "RightPage",
+					"order": "157"
+				},
+				{
+					"id": "web0158",
+					"type": "LeftPage",
+					"order": "158"
+				},
+				{
+					"id": "web0159",
+					"type": "RightPage",
+					"order": "159"
+				},
+				{
+					"id": "web0160",
+					"type": "LeftPage",
+					"order": "160"
+				},
+				{
+					"id": "web0161",
+					"type": "RightPage",
+					"order": "161"
+				},
+				{
+					"id": "web0162",
+					"type": "LeftPage",
+					"order": "162"
+				},
+				{
+					"id": "web0163",
+					"type": "RightPage",
+					"order": "163"
+				},
+				{
+					"id": "web0164",
+					"type": "LeftPage",
+					"order": "164"
+				},
+				{
+					"id": "web0165",
+					"type": "RightPage",
+					"order": "165"
+				},
+				{
+					"id": "web0166",
+					"type": "LeftPage",
+					"order": "166"
+				},
+				{
+					"id": "web0167",
+					"type": "RightPage",
+					"order": "167"
+				},
+				{
+					"id": "web0168",
+					"type": "LeftPage",
+					"order": "168"
+				},
+				{
+					"id": "web0169",
+					"type": "RightPage",
+					"order": "169"
+				},
+				{
+					"id": "web0170",
+					"type": "LeftPage",
+					"order": "170"
+				},
+				{
+					"id": "web0171",
+					"type": "RightPage",
+					"order": "171"
+				},
+				{
+					"id": "web0172",
+					"type": "LeftPage",
+					"order": "172"
+				},
+				{
+					"id": "web0173",
+					"type": "RightPage",
+					"order": "173"
+				},
+				{
+					"id": "web0174",
+					"type": "LeftPage",
+					"order": "174"
+				},
+				{
+					"id": "web0175",
+					"type": "RightPage",
+					"order": "175"
+				},
+				{
+					"id": "web0176",
+					"type": "LeftPage",
+					"order": "176"
+				},
+				{
+					"id": "web0177",
+					"type": "RightPage",
+					"order": "177"
+				},
+				{
+					"id": "web0178",
+					"type": "LeftPage",
+					"order": "178"
+				},
+				{
+					"id": "web0179",
+					"type": "RightPage",
+					"order": "179"
+				},
+				{
+					"id": "web0180",
+					"type": "LeftPage",
+					"order": "180"
+				},
+				{
+					"id": "web0181",
+					"type": "RightPage",
+					"order": "181"
+				},
+				{
+					"id": "web0182",
+					"type": "LeftPage",
+					"order": "182"
+				},
+				{
+					"id": "web0183",
+					"type": "RightPage",
+					"order": "183"
+				},
+				{
+					"id": "web0184",
+					"type": "LeftPage",
+					"order": "184"
+				},
+				{
+					"id": "web0185",
+					"type": "RightPage",
+					"order": "185"
+				},
+				{
+					"id": "web0186",
+					"type": "LeftPage",
+					"order": "186"
+				},
+				{
+					"id": "web0187",
+					"type": "RightPage",
+					"order": "187"
+				},
+				{
+					"id": "web0188",
+					"type": "LeftPage",
+					"order": "188"
+				},
+				{
+					"id": "web0189",
+					"type": "RightPage",
+					"order": "189"
+				},
+				{
+					"id": "web0190",
+					"type": "LeftPage",
+					"order": "190"
+				},
+				{
+					"id": "web0191",
+					"type": "RightPage",
+					"order": "191"
+				},
+				{
+					"id": "web0192",
+					"type": "LeftPage",
+					"order": "192"
+				},
+				{
+					"id": "web0193",
+					"type": "RightPage",
+					"order": "193"
+				},
+				{
+					"id": "web0194",
+					"type": "LeftPage",
+					"order": "194"
+				},
+				{
+					"id": "web0195",
+					"type": "RightPage",
+					"order": "195"
+				},
+				{
+					"id": "web0196",
+					"type": "LeftPage",
+					"order": "196"
+				},
+				{
+					"id": "web0197",
+					"type": "RightPage",
+					"order": "197"
+				},
+				{
+					"id": "web0198",
+					"type": "LeftPage",
+					"order": "198"
+				},
+				{
+					"id": "web0199",
+					"type": "RightPage",
+					"order": "199"
+				},
+				{
+					"id": "web0200",
+					"type": "LeftPage",
+					"order": "200"
+				},
+				{
+					"id": "web0201",
+					"type": "RightPage",
+					"order": "201"
+				},
+				{
+					"id": "web0202",
+					"type": "LeftPage",
+					"order": "202"
+				},
+				{
+					"id": "web0203",
+					"type": "RightPage",
+					"order": "203"
+				},
+				{
+					"id": "web0204",
+					"type": "LeftPage",
+					"order": "204"
+				},
+				{
+					"id": "web0205",
+					"type": "RightPage",
+					"order": "205"
+				},
+				{
+					"id": "web0206",
+					"type": "LeftPage",
+					"order": "206"
+				},
+				{
+					"id": "web0207",
+					"type": "RightPage",
+					"order": "207"
+				},
+				{
+					"id": "web0208",
+					"type": "LeftPage",
+					"order": "208"
+				},
+				{
+					"id": "web0209",
+					"type": "RightPage",
+					"order": "209"
+				},
+				{
+					"id": "web0210",
+					"type": "LeftPage",
+					"order": "210"
+				},
+				{
+					"id": "web0211",
+					"type": "RightPage",
+					"order": "211"
+				},
+				{
+					"id": "web0212",
+					"type": "LeftPage",
+					"order": "212"
+				},
+				{
+					"id": "web0213",
+					"type": "RightPage",
+					"order": "213"
+				},
+				{
+					"id": "web0214",
+					"type": "LeftPage",
+					"order": "214"
+				},
+				{
+					"id": "web0215",
+					"type": "RightPage",
+					"order": "215"
+				},
+				{
+					"id": "web0216",
+					"type": "LeftPage",
+					"order": "216"
+				},
+				{
+					"id": "web0217",
+					"type": "RightPage",
+					"order": "217"
+				},
+				{
+					"id": "web0218",
+					"type": "LeftPage",
+					"order": "218"
+				},
+				{
+					"id": "web0219",
+					"type": "RightPage",
+					"order": "219"
+				},
+				{
+					"id": "web0220",
+					"type": "LeftPage",
+					"order": "220"
+				},
+				{
+					"id": "web0221",
+					"type": "RightPage",
+					"order": "221"
+				},
+				{
+					"id": "web0222",
+					"type": "LeftPage",
+					"order": "222"
+				},
+				{
+					"id": "web0223",
+					"type": "RightPage",
+					"order": "223"
+				},
+				{
+					"id": "web0224",
+					"type": "LeftPage",
+					"order": "224"
+				},
+				{
+					"id": "web0225",
+					"type": "RightPage",
+					"order": "225"
+				},
+				{
+					"id": "web0226",
+					"type": "LeftPage",
+					"order": "226"
+				},
+				{
+					"id": "web0227",
+					"type": "RightPage",
+					"order": "227"
+				},
+				{
+					"id": "web0228",
+					"type": "LeftPage",
+					"order": "228"
+				},
+				{
+					"id": "web0229",
+					"type": "RightPage",
+					"order": "229"
+				},
+				{
+					"id": "web0230",
+					"type": "LeftPage",
+					"order": "230"
+				},
+				{
+					"id": "web0231",
+					"type": "RightPage",
+					"order": "231"
+				},
+				{
+					"id": "web0232",
+					"type": "LeftPage",
+					"order": "232"
+				},
+				{
+					"id": "web0233",
+					"type": "RightPage",
+					"order": "233"
+				},
+				{
+					"id": "web0234",
+					"type": "LeftPage",
+					"order": "234"
+				},
+				{
+					"id": "web0235",
+					"type": "RightPage",
+					"order": "235"
+				},
+				{
+					"id": "web0236",
+					"type": "LeftPage",
+					"order": "236"
+				},
+				{
+					"id": "web0237",
+					"type": "RightPage",
+					"order": "237"
+				},
+				{
+					"id": "web0238",
+					"type": "LeftPage",
+					"order": "238"
+				},
+				{
+					"id": "web0239",
+					"type": "RightPage",
+					"order": "239"
+				},
+				{
+					"id": "web0240",
+					"type": "LeftPage",
+					"order": "240"
+				},
+				{
+					"id": "web0241",
+					"type": "RightPage",
+					"order": "241"
+				},
+				{
+					"id": "web0242",
+					"type": "LeftPage",
+					"order": "242"
+				},
+				{
+					"id": "web0243",
+					"type": "RightPage",
+					"order": "243"
+				},
+				{
+					"id": "web0244",
+					"type": "LeftPage",
+					"order": "244"
+				},
+				{
+					"id": "web0245",
+					"type": "RightPage",
+					"order": "245"
+				},
+				{
+					"id": "web0246",
+					"type": "LeftPage",
+					"order": "246"
+				},
+				{
+					"id": "web0247",
+					"type": "RightPage",
+					"order": "247"
+				},
+				{
+					"id": "web0248",
+					"type": "LeftPage",
+					"order": "248"
+				},
+				{
+					"id": "web0249",
+					"type": "BookCover",
+					"order": "249"
+				},
+				{
+					"id": "web0250",
+					"type": "BookCover",
+					"order": "250"
+				}
+			]
+		}
+	]
+}

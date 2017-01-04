@@ -38,6 +38,13 @@ client.indices.create({
 							}
 						}
 					},
+					page: {
+						properties: {
+							order: {
+								type: 'integer'
+							}
+						}
+					},
 					type: {
 						type: 'string',
 						index: 'not_analyzed'

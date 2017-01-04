@@ -1,0 +1,476 @@
+{
+	"meta": {
+		"mets_ID": "GUB0101997",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Biographica",
+		"document_physloc": "2",
+		"document_physdesc": "7 fasc.",
+		"document_unitdate": "",
+		"document_searchdate": "1896-1909",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1259",
+			"metadata": {
+				"hd_id": "1259",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Arosenius, Harald (1874-1889) Ivar. Versmanuskript, Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				}
+			]
+		},
+		{
+			"id": "image_1260",
+			"metadata": {
+				"hd_id": "1260",
+				"hd_ref": "bild",
+				"physdesc": "4 bl.",
+				"note": "Herz, John (1875-1952)\nSkrivelse till Ivar Arosenius: med anledning av att Stockholmstidningen blamerat sig , 1905.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "DoublePage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "RightPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "DoublePage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "RightPage",
+					"order": "9"
+				}
+			]
+		},
+		{
+			"id": "image_1261",
+			"metadata": {
+				"hd_id": "1261",
+				"hd_ref": "bild",
+				"physdesc": "7 bl., 1 pärm",
+				"note": "Diverse biographica, 1896-1909. Hit: Konfirmationskort, Inbjudan till vigsel mellan Ernst Spolén och Ingegerd Arosenius, Grafbrev på Ivar Arosenius, Inbjudning till begravningsakt, Inbjudningskort till minnesutställning",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0010",
+					"type": "LeftPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "RightPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "LeftPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "RightPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "LeftPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "RightPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "LeftPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "RightPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "LeftPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "RightPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "LeftPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "RightPage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "LeftPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "RightPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "LeftPage",
+					"order": "24"
+				}
+			]
+		},
+		{
+			"id": "image_1262",
+			"metadata": {
+				"hd_id": "1262",
+				"hd_ref": "bild",
+				"physdesc": "6 bl.",
+				"note": "Bouppteckning efter konstnären Ivar Arosenius upprättad av Nils Bonde Adler, 1909",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0025",
+					"type": "RightPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "LeftPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "RightPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "LeftPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "RightPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "LeftPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "RightPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "LeftPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "RightPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "LeftPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "RightPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "LeftPage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "RightPage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "LeftPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "RightPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "LeftPage",
+					"order": "40"
+				}
+			]
+		},
+		{
+			"id": "image_1263",
+			"metadata": {
+				"hd_id": "1263",
+				"hd_ref": "bild",
+				"physdesc": "17 bl., omslag",
+				"note": "Utdrag ur brev från Ivar Arosenius till modern och fadern. Ur Nils Bonde Adlers samling, Odat.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0041",
+					"type": "RightPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "RightPage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "LeftPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "RightPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "LeftPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "RightPage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "LeftPage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "RightPage",
+					"order": "48"
+				},
+				{
+					"id": "web0049",
+					"type": "LeftPage",
+					"order": "49"
+				},
+				{
+					"id": "web0050",
+					"type": "RightPage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "LeftPage",
+					"order": "51"
+				},
+				{
+					"id": "web0052",
+					"type": "RightPage",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "LeftPage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "RightPage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "LeftPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "RightPage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "LeftPage",
+					"order": "57"
+				},
+				{
+					"id": "web0058",
+					"type": "RightPage",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "LeftPage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "RightPage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "LeftPage",
+					"order": "61"
+				},
+				{
+					"id": "web0062",
+					"type": "RightPage",
+					"order": "62"
+				},
+				{
+					"id": "web0063",
+					"type": "LeftPage",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "RightPage",
+					"order": "64"
+				},
+				{
+					"id": "web0065",
+					"type": "LeftPage",
+					"order": "65"
+				},
+				{
+					"id": "web0066",
+					"type": "RightPage",
+					"order": "66"
+				},
+				{
+					"id": "web0067",
+					"type": "LeftPage",
+					"order": "67"
+				},
+				{
+					"id": "web0068",
+					"type": "RightPage",
+					"order": "68"
+				},
+				{
+					"id": "web0069",
+					"type": "LeftPage",
+					"order": "69"
+				},
+				{
+					"id": "web0070",
+					"type": "RightPage",
+					"order": "70"
+				},
+				{
+					"id": "web0071",
+					"type": "LeftPage",
+					"order": "71"
+				},
+				{
+					"id": "web0072",
+					"type": "RightPage",
+					"order": "72"
+				},
+				{
+					"id": "web0073",
+					"type": "LeftPage",
+					"order": "73"
+				},
+				{
+					"id": "web0074",
+					"type": "RightPage",
+					"order": "74"
+				},
+				{
+					"id": "web0075",
+					"type": "LeftPage",
+					"order": "75"
+				},
+				{
+					"id": "web0076",
+					"type": "DoublePage",
+					"order": "76"
+				},
+				{
+					"id": "web0077",
+					"type": "LeftPage",
+					"order": "77"
+				}
+			]
+		}
+	]
+}

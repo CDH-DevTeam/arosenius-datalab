@@ -1,0 +1,73 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102017",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Ack skona måne, sol och stjärna",
+		"document_physloc": "2",
+		"document_physdesc": "1 blad",
+		"document_unitdate": "1908",
+		"document_searchdate": "1908-1908",
+		"document_note": "Dikt med teckning till Nils Rudolf Sebastian med flera. - Kopia av original i privat ägo",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_407",
+			"metadata": {
+				"hd_id": "407",
+				"hd_ref": "bild",
+				"physdesc": "1 blad",
+				"note": "Dikt med teckning",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "RightPage",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "LeftPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "RightPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "LeftPage",
+					"order": "6"
+				}
+			]
+		}
+	]
+}

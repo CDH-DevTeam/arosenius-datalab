@@ -1,0 +1,255 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102348",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Eva",
+		"letter_sender_name_family": "Arosenius",
+		"letter_sender_name_date": "1906-2004",
+		"letter_recipient_name_given": "Ida (Eva)",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1879-1965",
+		"letter_unitdate": "1915-1931",
+		"letter_note": "",
+		"letter_image_physdesc": "2 bl.",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": "1931-01-01"
+	},
+	"files": [
+		{
+			"id": "image_1149",
+			"metadata": {
+				"hd_id": "1149",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1915-11-18"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				}
+			]
+		},
+		{
+			"id": "image_1150",
+			"metadata": {
+				"hd_id": "1150",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1930-05-20"
+			},
+			"images": [
+				{
+					"id": "web0004",
+					"type": "ColorTarget",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "LeftPage",
+					"order": "6"
+				}
+			]
+		},
+		{
+			"id": "image_1151",
+			"metadata": {
+				"hd_id": "1151",
+				"hd_ref": "bild",
+				"physdesc": "2 bl, 1 kuvert",
+				"note": "",
+				"searchdate": "1931-01-09"
+			},
+			"images": [
+				{
+					"id": "web0007",
+					"type": "ColorTarget",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "LeftPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "RightPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "LeftPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "RightPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				}
+			]
+		},
+		{
+			"id": "image_1152",
+			"metadata": {
+				"hd_id": "1152",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Odat.",
+				"searchdate": "1931-01-01"
+			},
+			"images": [
+				{
+					"id": "web0014",
+					"type": "ColorTarget",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "RightPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "LeftPage",
+					"order": "16"
+				}
+			]
+		},
+		{
+			"id": "image_1153",
+			"metadata": {
+				"hd_id": "1153",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Odat.",
+				"searchdate": "1931-01-01"
+			},
+			"images": [
+				{
+					"id": "web0017",
+					"type": "ColorTarget",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "DoublePage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "LeftPage",
+					"order": "20"
+				}
+			]
+		},
+		{
+			"id": "image_1154",
+			"metadata": {
+				"hd_id": "1154",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Odat.",
+				"searchdate": "1931-01-01"
+			},
+			"images": [
+				{
+					"id": "web0021",
+					"type": "ColorTarget",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "RightPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "LeftPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "RightPage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "LeftPage",
+					"order": "25"
+				}
+			]
+		},
+		{
+			"id": "image_1155",
+			"metadata": {
+				"hd_id": "1155",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Odat.",
+				"searchdate": "1931-01-01"
+			},
+			"images": [
+				{
+					"id": "web0026",
+					"type": "ColorTarget",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "RightPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "LeftPage",
+					"order": "28"
+				}
+			]
+		}
+	]
+}

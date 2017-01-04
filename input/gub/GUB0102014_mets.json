@@ -1,0 +1,90 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102014",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "2",
+		"letter_sender_name_given": "Eva",
+		"letter_sender_name_family": "Arosenius",
+		"letter_sender_name_date": "1906-2004",
+		"letter_recipient_name_given": "Sigrid",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1872-1929",
+		"letter_unitdate": "1917-1921",
+		"letter_note": "varav 1 postkort med porträtt på Eva Arosenius (fotografi) och 1 julkort.",
+		"letter_image_physdesc": "2 bl.",
+		"letter_image_unitdate": "1921-02-07",
+		"letter_image_searchdate": "1921-02-07"
+	},
+	"files": [
+		{
+			"id": "image_1024",
+			"metadata": {
+				"hd_id": "1024",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1917-12-02"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				}
+			]
+		},
+		{
+			"id": "image_1025",
+			"metadata": {
+				"hd_id": "1025",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1921-02-07"
+			},
+			"images": [
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				}
+			]
+		}
+	]
+}

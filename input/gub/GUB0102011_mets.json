@@ -1,0 +1,63 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102011",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "2",
+		"letter_sender_name_given": "Ingegärd",
+		"letter_sender_name_family": "Spolén",
+		"letter_sender_name_date": "1884-1938",
+		"letter_recipient_name_given": "Gabriel",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1881-1950",
+		"letter_unitdate": "1909-",
+		"letter_note": "",
+		"letter_image_physdesc": "2 bl.",
+		"letter_image_unitdate": "1909-01-16",
+		"letter_image_searchdate": "1909-01-16"
+	},
+	"files": [
+		{
+			"id": "image_1020",
+			"metadata": {
+				"hd_id": "1020",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "",
+				"searchdate": "1909-01-16"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				}
+			]
+		}
+	]
+}

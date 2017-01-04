@@ -1,0 +1,423 @@
+{
+	"meta": {
+		"mets_ID": "GUB0101998",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Skrifter till Ivar Arosenius minne",
+		"document_physloc": "2",
+		"document_physdesc": "6 fasc.",
+		"document_unitdate": "",
+		"document_searchdate": "1909-1964",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1264",
+			"metadata": {
+				"hd_id": "1264",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Lagerlöw-Sandell, Signe (1881-1970), konstnär.  Ivar Arosenius in memoriam, 1909",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				}
+			]
+		},
+		{
+			"id": "image_1265",
+			"metadata": {
+				"hd_id": "1265",
+				"hd_ref": "bild",
+				"physdesc": "9 bl. varav 1 kopia av tidningsklipp",
+				"note": "Callmander, Ivar (1880-1951), arkitekt. Ivar Arosenius in memoriam,1929. Bilagor: Brev från Pia Callmander-Nilsson till Göran Söderlund, odat.; Brev från Göran Söderlund till Astrid Constantine-Torstensson 2010 16/3; tidningsklipp",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "LeftPage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "RightPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "LeftPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "RightPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "LeftPage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "ColorTarget",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "RightPage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "LeftPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "LeftPage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "RightPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "LeftPage",
+					"order": "23"
+				}
+			]
+		},
+		{
+			"id": "image_1266",
+			"metadata": {
+				"hd_id": "1266",
+				"hd_ref": "bild",
+				"physdesc": "12 bl.",
+				"note": "Adler, Nils Bonde (1885-1984). Manuskript till radioföredrag om Ivar Arosenius, 1944",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0024",
+					"type": "ColorTarget",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "RightPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "LeftPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "RightPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "LeftPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "RightPage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "LeftPage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "RightPage",
+					"order": "31"
+				},
+				{
+					"id": "web0032",
+					"type": "LeftPage",
+					"order": "32"
+				},
+				{
+					"id": "web0033",
+					"type": "RightPage",
+					"order": "33"
+				},
+				{
+					"id": "web0034",
+					"type": "LeftPage",
+					"order": "34"
+				},
+				{
+					"id": "web0035",
+					"type": "RightPage",
+					"order": "35"
+				},
+				{
+					"id": "web0036",
+					"type": "LeftPage",
+					"order": "36"
+				},
+				{
+					"id": "web0037",
+					"type": "RightPage",
+					"order": "37"
+				},
+				{
+					"id": "web0038",
+					"type": "LeftPage",
+					"order": "38"
+				},
+				{
+					"id": "web0039",
+					"type": "RightPage",
+					"order": "39"
+				},
+				{
+					"id": "web0040",
+					"type": "LeftPage",
+					"order": "40"
+				},
+				{
+					"id": "web0041",
+					"type": "RightPage",
+					"order": "41"
+				},
+				{
+					"id": "web0042",
+					"type": "LeftPage",
+					"order": "42"
+				},
+				{
+					"id": "web0043",
+					"type": "RightPage",
+					"order": "43"
+				},
+				{
+					"id": "web0044",
+					"type": "LeftPage",
+					"order": "44"
+				},
+				{
+					"id": "web0045",
+					"type": "RightPage",
+					"order": "45"
+				},
+				{
+					"id": "web0046",
+					"type": "LeftPage",
+					"order": "46"
+				},
+				{
+					"id": "web0047",
+					"type": "RightPage",
+					"order": "47"
+				},
+				{
+					"id": "web0048",
+					"type": "LeftPage",
+					"order": "48"
+				}
+			]
+		},
+		{
+			"id": "image_1267",
+			"metadata": {
+				"hd_id": "1267",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Ida (Eva) Arosenius (1879-1965). Radioanförande vid vernissagen av Ivar Arosenius utställning 1958",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0049",
+					"type": "ColorTarget",
+					"order": "49"
+				},
+				{
+					"id": "web0050",
+					"type": "RightPage",
+					"order": "50"
+				},
+				{
+					"id": "web0051",
+					"type": "LeftPage",
+					"order": "51"
+				}
+			]
+		},
+		{
+			"id": "image_1268",
+			"metadata": {
+				"hd_id": "1268",
+				"hd_ref": "bild",
+				"physdesc": "1 häfte (särtryck)",
+				"note": "Om Ivar Arosenius …: intervju med Filip Wahlström (1885-1972), konstnär, författare, i radioprogrammet ”Hemmets magasin” 8/10 1964.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0052",
+					"type": "ColorTarget",
+					"order": "52"
+				},
+				{
+					"id": "web0053",
+					"type": "RightPage",
+					"order": "53"
+				},
+				{
+					"id": "web0054",
+					"type": "LeftPage",
+					"order": "54"
+				},
+				{
+					"id": "web0055",
+					"type": "RightPage",
+					"order": "55"
+				},
+				{
+					"id": "web0056",
+					"type": "LeftPage",
+					"order": "56"
+				},
+				{
+					"id": "web0057",
+					"type": "RightPage",
+					"order": "57"
+				}
+			]
+		},
+		{
+			"id": "image_1269",
+			"metadata": {
+				"hd_id": "1269",
+				"hd_ref": "bild",
+				"physdesc": "4 bl.",
+				"note": "Minnesrik gård i Älvängen. Där konstnären Arosenius målade sina bästa tavlor: Avskrift av artikel i Göteborgs morgontidning 7.3.1936",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0058",
+					"type": "ColorTarget",
+					"order": "58"
+				},
+				{
+					"id": "web0059",
+					"type": "RightPage",
+					"order": "59"
+				},
+				{
+					"id": "web0060",
+					"type": "LeftPage",
+					"order": "60"
+				},
+				{
+					"id": "web0061",
+					"type": "RightPage",
+					"order": "61"
+				},
+				{
+					"id": "web0062",
+					"type": "LeftPage",
+					"order": "62"
+				},
+				{
+					"id": "web0063",
+					"type": "RightPage",
+					"order": "63"
+				},
+				{
+					"id": "web0064",
+					"type": "LeftPage",
+					"order": "64"
+				}
+			]
+		}
+	]
+}

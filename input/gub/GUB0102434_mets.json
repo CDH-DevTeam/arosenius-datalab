@@ -1,0 +1,93 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102434",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Böcker med anteckningar av Ivar Arosenius",
+		"document_physloc": "6",
+		"document_physdesc": "2 band",
+		"document_unitdate": "",
+		"document_searchdate": "1839-1894",
+		"document_note": "Schultness F., Fransk-svensk ordbok, Stockholm, 1894; Hedenborg, Johan, Turkiska nationens seder, bruk och kläder, Stockholm 1839. Med teckningar och anteckningar i blyerts av Ivar Arosenius.",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1230",
+			"metadata": {
+				"hd_id": "1230",
+				"hd_ref": "bild",
+				"physdesc": "Bokpärm, titelsida, 6 sidor med anteckningar",
+				"note": "Anteckningar av Ivar Arosenius i Schultness F., Fransk-svensk ordbok, Stockholm, 1894",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "DoublePage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "DoublePage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "DoublePage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "DoublePage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "DoublePage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "LeftPage",
+					"order": "10"
+				}
+			]
+		}
+	]
+}

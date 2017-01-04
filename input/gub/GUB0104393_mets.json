@@ -1,0 +1,198 @@
+{
+	"meta": {
+		"mets_ID": "GUB0104393",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Kataloger över utställningar av  Ivar Arosenius verk",
+		"document_physloc": "12",
+		"document_physdesc": "12 häften",
+		"document_unitdate": "",
+		"document_searchdate": "1905-1980",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1244",
+			"metadata": {
+				"hd_id": "1244",
+				"hd_ref": "bild",
+				"physdesc": "1 häfte",
+				"note": "Göteborgs konstförening. Ivar Arosenius: minnesutställning: Göteborg 1927. Med anteckningar av Nils B. Adler.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "BookCover",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "DoublePage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "DoublePage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "DoublePage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "DoublePage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "DoublePage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "DoublePage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "DoublePage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "DoublePage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "DoublePage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "DoublePage",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "DoublePage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "DoublePage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "DoublePage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "DoublePage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "DoublePage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "DoublePage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "DoublePage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "DoublePage",
+					"order": "21"
+				},
+				{
+					"id": "web0022",
+					"type": "DoublePage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "DoublePage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "DoublePage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "DoublePage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "DoublePage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "DoublePage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "DoublePage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "DoublePage",
+					"order": "29"
+				},
+				{
+					"id": "web0030",
+					"type": "DoublePage",
+					"order": "30"
+				},
+				{
+					"id": "web0031",
+					"type": "BookCover",
+					"order": "31"
+				}
+			]
+		}
+	]
+}

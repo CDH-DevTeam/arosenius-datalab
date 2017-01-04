@@ -1,0 +1,58 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102357",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Philip",
+		"letter_sender_name_family": "Sandblom",
+		"letter_sender_name_date": "1903-2001",
+		"letter_recipient_name_given": "Ida (Eva)",
+		"letter_recipient_name_family": "Arosenius",
+		"letter_recipient_name_date": "1879-1965",
+		"letter_unitdate": "-",
+		"letter_note": "",
+		"letter_image_physdesc": "1 bl.",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": "1920-01-01"
+	},
+	"files": [
+		{
+			"id": "image_1292",
+			"metadata": {
+				"hd_id": "1292",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "Odat., slutet på 1920-talet?",
+				"searchdate": "1920-01-01"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				}
+			]
+		}
+	]
+}

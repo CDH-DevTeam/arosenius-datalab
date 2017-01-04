@@ -1,0 +1,68 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102416",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Adam",
+		"letter_sender_name_family": "Szymeczyk",
+		"letter_sender_name_date": "-",
+		"letter_recipient_name_given": "Astrid",
+		"letter_recipient_name_family": "Constantine-Torstensson",
+		"letter_recipient_name_date": "1935-",
+		"letter_unitdate": "2005-2005",
+		"letter_note": "",
+		"letter_image_physdesc": "1 bl., 1 kuvert",
+		"letter_image_unitdate": "2005-08-29",
+		"letter_image_searchdate": "2005-08-29"
+	},
+	"files": [
+		{
+			"id": "image_1181",
+			"metadata": {
+				"hd_id": "1181",
+				"hd_ref": "bild",
+				"physdesc": "1 bl., 1 kuvert",
+				"note": "",
+				"searchdate": "2005-08-29"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "RightPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "LeftPage",
+					"order": "5"
+				}
+			]
+		}
+	]
+}

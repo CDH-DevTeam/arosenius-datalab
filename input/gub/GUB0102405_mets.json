@@ -1,0 +1,58 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102405",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Ida (Eva)",
+		"letter_sender_name_family": "Arosenius",
+		"letter_sender_name_date": "1879-1965",
+		"letter_recipient_name_given": "Astrid",
+		"letter_recipient_name_family": "Constantine-Torstensson",
+		"letter_recipient_name_date": "1935-",
+		"letter_unitdate": "1965-1965",
+		"letter_note": "",
+		"letter_image_physdesc": "1 vykort",
+		"letter_image_unitdate": "1965-04-09",
+		"letter_image_searchdate": "1965-04-09"
+	},
+	"files": [
+		{
+			"id": "image_1174",
+			"metadata": {
+				"hd_id": "1174",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1965-04-09"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				}
+			]
+		}
+	]
+}

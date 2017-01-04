@@ -1,0 +1,224 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102022",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "document",
+		"document_unittitle": "Förteckningar över efterlämnade Ivar Arosenius konstverk",
+		"document_physloc": "2a",
+		"document_physdesc": "4 fasc.",
+		"document_unitdate": "",
+		"document_searchdate": "1912-1965",
+		"document_note": "",
+		"letter_physloc": "",
+		"letter_sender_name_given": "",
+		"letter_sender_name_family": "",
+		"letter_sender_name_date": "",
+		"letter_recipient_name_given": "",
+		"letter_recipient_name_family": "",
+		"letter_recipient_name_date": "",
+		"letter_unitdate": "",
+		"letter_note": "",
+		"letter_image_physdesc": "",
+		"letter_image_unitdate": "",
+		"letter_image_searchdate": ""
+	},
+	"files": [
+		{
+			"id": "image_1274",
+			"metadata": {
+				"hd_id": "1274",
+				"hd_ref": "bild",
+				"physdesc": "11 bl.",
+				"note": "Förteckning öfver Ivar Arosenius efterlämnade arbeten upprättad Pingsten den 26 och 27 maj 1912 af fru Ida Arosenius, ingenjör Erik Arosenius, Axel Adler o. Nils Adler",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "DoublePage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "DoublePage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "DoublePage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "DoublePage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "DoublePage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "DoublePage",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "DoublePage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "DoublePage",
+					"order": "12"
+				},
+				{
+					"id": "web0013",
+					"type": "LeftPage",
+					"order": "13"
+				}
+			]
+		},
+		{
+			"id": "image_1275",
+			"metadata": {
+				"hd_id": "1275",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Förteckning över Ivar Arosenius akvareller och teckningar inlämnat till C.E.Fritzes Kungl. Hovbokhandel av Eva Arosenius-Dich, 1943",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				},
+				{
+					"id": "web0016",
+					"type": "RightPage",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "LeftPage",
+					"order": "17"
+				}
+			]
+		},
+		{
+			"id": "image_1276",
+			"metadata": {
+				"hd_id": "1276",
+				"hd_ref": "bild",
+				"physdesc": "2 bl.",
+				"note": "Förteckning över Ivar Arosenius tavlor utförd av Ida (Eva) Arosenius-Dich 1909. Bilaga D. till fru Ida Dichs bouppteckning, 1965",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0018",
+					"type": "RightPage",
+					"order": "18"
+				},
+				{
+					"id": "web0019",
+					"type": "LeftPage",
+					"order": "19"
+				},
+				{
+					"id": "web0020",
+					"type": "RightPage",
+					"order": "20"
+				},
+				{
+					"id": "web0021",
+					"type": "LeftPage",
+					"order": "21"
+				}
+			]
+		},
+		{
+			"id": "image_1277",
+			"metadata": {
+				"hd_id": "1277",
+				"hd_ref": "bild",
+				"physdesc": "4 bl.",
+				"note": "Övriga förteckningar, odat. Varav 1 kopia.",
+				"searchdate": ""
+			},
+			"images": [
+				{
+					"id": "web0022",
+					"type": "RightPage",
+					"order": "22"
+				},
+				{
+					"id": "web0023",
+					"type": "LeftPage",
+					"order": "23"
+				},
+				{
+					"id": "web0024",
+					"type": "RightPage",
+					"order": "24"
+				},
+				{
+					"id": "web0025",
+					"type": "LeftPage",
+					"order": "25"
+				},
+				{
+					"id": "web0026",
+					"type": "RightPage",
+					"order": "26"
+				},
+				{
+					"id": "web0027",
+					"type": "LeftPage",
+					"order": "27"
+				},
+				{
+					"id": "web0028",
+					"type": "RightPage",
+					"order": "28"
+				},
+				{
+					"id": "web0029",
+					"type": "LeftPage",
+					"order": "29"
+				}
+			]
+		}
+	]
+}

@@ -63,6 +63,8 @@ client.search({
 //					console.log(hit._id);
 
 					hit._source.item_date = dateFrom;
+					hit._source.date_from = dateFrom;
+					hit._source.date_to = dateTo;
 
 					bulkBody.push({
 						update: {

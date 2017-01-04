@@ -1,0 +1,93 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102002",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "2",
+		"letter_sender_name_given": "Ivar",
+		"letter_sender_name_family": "Arosenius",
+		"letter_sender_name_date": "1878-1909",
+		"letter_recipient_name_given": "Gerhard",
+		"letter_recipient_name_family": "Henning",
+		"letter_recipient_name_date": "1880-1967",
+		"letter_unitdate": "1905-1905",
+		"letter_note": "1 brev med avskrift samt 2 kopior (original i KB)",
+		"letter_image_physdesc": "5 bl.",
+		"letter_image_unitdate": "1905-09-01",
+		"letter_image_searchdate": "1905-09-01"
+	},
+	"files": [
+		{
+			"id": "image_1000",
+			"metadata": {
+				"hd_id": "1000",
+				"hd_ref": "bild",
+				"physdesc": "5 bl.",
+				"note": "Daterat sept.1905. Med avskift.",
+				"searchdate": "1905-09-01"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "DoublePage",
+					"order": "3"
+				},
+				{
+					"id": "web0004",
+					"type": "LeftPage",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "DoublePage",
+					"order": "6"
+				},
+				{
+					"id": "web0007",
+					"type": "LeftPage",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "ColorTarget",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "RightPage",
+					"order": "9"
+				},
+				{
+					"id": "web0010",
+					"type": "LeftPage",
+					"order": "10"
+				}
+			]
+		}
+	]
+}

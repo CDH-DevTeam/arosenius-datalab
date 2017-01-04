@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102409",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Karl Gustaf",
+		"letter_sender_name_family": "Hedén",
+		"letter_sender_name_date": "1917-2001",
+		"letter_recipient_name_given": "Astrid",
+		"letter_recipient_name_family": "Constantine-Torstensson",
+		"letter_recipient_name_date": "1935-",
+		"letter_unitdate": "1971-1971",
+		"letter_note": "",
+		"letter_image_physdesc": "1 bl.",
+		"letter_image_unitdate": "1971-12-22",
+		"letter_image_searchdate": "1971-12-22"
+	},
+	"files": [
+		{
+			"id": "image_1178",
+			"metadata": {
+				"hd_id": "1178",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1971-12-22"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "RightPage",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "LeftPage",
+					"order": "2"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,193 @@
+{
+	"meta": {
+		"mets_ID": "GUB0102385",
+		"archive_id": "21",
+		"archive_unit_title": "Handlingar rörande konstnären Ivar Arosenius",
+		"archive_unit_date": "1896-2011",
+		"archive_physloc": "H 201",
+		"archive_physdesc": "H 201",
+		"doc_type": "letter",
+		"document_unittitle": "",
+		"document_physloc": "",
+		"document_physdesc": "",
+		"document_unitdate": "",
+		"document_searchdate": "",
+		"document_note": "",
+		"letter_physloc": "3",
+		"letter_sender_name_given": "Nils Bonde",
+		"letter_sender_name_family": "Adler",
+		"letter_sender_name_date": "1885-1984",
+		"letter_recipient_name_given": "Astrid",
+		"letter_recipient_name_family": "Constantine-Torstensson",
+		"letter_recipient_name_date": "1935-",
+		"letter_unitdate": "1968-1976",
+		"letter_note": "",
+		"letter_image_physdesc": "1 vykort",
+		"letter_image_unitdate": "1968-12-21",
+		"letter_image_searchdate": "1968-12-21"
+	},
+	"files": [
+		{
+			"id": "image_1167",
+			"metadata": {
+				"hd_id": "1167",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1968-12-21"
+			},
+			"images": [
+				{
+					"id": "web0001",
+					"type": "ColorTarget",
+					"order": "1"
+				},
+				{
+					"id": "web0002",
+					"type": "RightPage",
+					"order": "2"
+				},
+				{
+					"id": "web0003",
+					"type": "LeftPage",
+					"order": "3"
+				}
+			]
+		},
+		{
+			"id": "image_1168",
+			"metadata": {
+				"hd_id": "1168",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1970-03-23"
+			},
+			"images": [
+				{
+					"id": "web0004",
+					"type": "ColorTarget",
+					"order": "4"
+				},
+				{
+					"id": "web0005",
+					"type": "RightPage",
+					"order": "5"
+				},
+				{
+					"id": "web0006",
+					"type": "LeftPage",
+					"order": "6"
+				}
+			]
+		},
+		{
+			"id": "image_1169",
+			"metadata": {
+				"hd_id": "1169",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1974-01-03"
+			},
+			"images": [
+				{
+					"id": "web0007",
+					"type": "ColorTarget",
+					"order": "7"
+				},
+				{
+					"id": "web0008",
+					"type": "RightPage",
+					"order": "8"
+				},
+				{
+					"id": "web0009",
+					"type": "LeftPage",
+					"order": "9"
+				}
+			]
+		},
+		{
+			"id": "image_1170",
+			"metadata": {
+				"hd_id": "1170",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1975-11-09"
+			},
+			"images": [
+				{
+					"id": "web0010",
+					"type": "ColorTarget",
+					"order": "10"
+				},
+				{
+					"id": "web0011",
+					"type": "RightPage",
+					"order": "11"
+				},
+				{
+					"id": "web0012",
+					"type": "LeftPage",
+					"order": "12"
+				}
+			]
+		},
+		{
+			"id": "image_1171",
+			"metadata": {
+				"hd_id": "1171",
+				"hd_ref": "bild",
+				"physdesc": "1 vykort",
+				"note": "",
+				"searchdate": "1975-11-23"
+			},
+			"images": [
+				{
+					"id": "web0013",
+					"type": "ColorTarget",
+					"order": "13"
+				},
+				{
+					"id": "web0014",
+					"type": "RightPage",
+					"order": "14"
+				},
+				{
+					"id": "web0015",
+					"type": "LeftPage",
+					"order": "15"
+				}
+			]
+		},
+		{
+			"id": "image_1172",
+			"metadata": {
+				"hd_id": "1172",
+				"hd_ref": "bild",
+				"physdesc": "1 bl.",
+				"note": "",
+				"searchdate": "1976-06-19"
+			},
+			"images": [
+				{
+					"id": "web0016",
+					"type": "ColorTarget",
+					"order": "16"
+				},
+				{
+					"id": "web0017",
+					"type": "RightPage",
+					"order": "17"
+				},
+				{
+					"id": "web0018",
+					"type": "LeftPage",
+					"order": "18"
+				}
+			]
+		}
+	]
+}
