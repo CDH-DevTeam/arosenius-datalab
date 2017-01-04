@@ -81,8 +81,10 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 							date: file.meta.letter_image_unitdate
 						} : file.meta.letter_image_searchdate && file.meta.letter_image_searchdate != '' ? {
 							date: file.meta.letter_image_searchdate
-						} : {
+						} : file.meta.document_unitdate && file.meta.document_unitdate != '' ? {
 							date: file.meta.document_unitdate
+						} : {
+							date: file.meta.document_searchdate
 						},
 					title: file.meta.document_unittitle, //
 					subtitle: imagePack.metadata.physdesc,
