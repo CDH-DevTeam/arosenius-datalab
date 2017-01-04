@@ -60,6 +60,10 @@ client.indices.create({
 						type: 'string',
 						index: 'not_analyzed'
 					},
+					places: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
 					material: {
 						type: 'string',
 						index: 'not_analyzed'
