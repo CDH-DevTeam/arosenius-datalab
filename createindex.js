@@ -13,6 +13,9 @@ client.indices.create({
 		mappings: {
 			artwork: {
 				properties: {
+					published: {
+						type: 'boolean'
+					},
 					bundle: {
 						type: 'string',
 						index: 'not_analyzed'
