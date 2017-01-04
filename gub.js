@@ -76,6 +76,8 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					} : null,
 					date: file.meta.letter_image_unitdate && file.meta.letter_image_unitdate != '' ? {
 							date: file.meta.letter_image_unitdate
+						} : file.meta.letter_image_searchdate && file.meta.letter_image_searchdate != '' ? {
+							date: file.meta.letter_image_searchdate
 						} : {
 							date: file.meta.document_unitdate
 						},
@@ -113,6 +115,7 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					},
 					image: file.meta.mets_ID+'-'+image.id.replace('web', '')
 				};
+				console.log(imageDocument.date);
 
 				if (config.insert_limit) {
 					if (insertCounter < 30) {
