@@ -5,6 +5,7 @@ var elasticsearch = require('elasticsearch');
 var Canvas = require('canvas');
 var colorThief = require('thief');
 var Vibrant = require('node-vibrant');
+var chroma = require('chroma-js');
 
 var request = require("request");
 var http = require('http');
@@ -81,28 +82,34 @@ var processColors = function() {
 				var vibrant = new Vibrant(imagePath);
 
 				var vibrantColors = [];
-
+console.log('1');
 				vibrant.getPalette(function(err, swatches) {
+console.log('2');
 					for (var swatch in swatches) {
 						if (swatches.hasOwnProperty(swatch) && swatches[swatch]) {
-							var hsv = swatches[swatch].getHsl();
-							var hex = chroma(hsv).hex();
-							var temperature = chroma(hsv).temperature();
+							var hex = swatches[swatch].getHex();
+							var hsv = chroma(hex).hsv();
 
-							vibrantColors.push({
-								rgb: chroma(hsv).rgb(),
+							var temperature = chroma(hex).temperature();
+
+							vibrantColorObj = {
+								rgb: chroma(hex).rgb(),
 								hex: hex,
 								hsv: {
 									h: !hsv[0] || hsv[0] == null || typeof hsv[0] === 'null' || Math.round(hsv[0]) == null ? 0 : Math.round(hsv[0]), 
 									s: !hsv[1] || hsv[1] == null || typeof hsv[1] === 'null' || Math.round(hsv[1]*100) == null ? 0 : Math.round(hsv[1]*100), 
 									v: !hsv[2] || hsv[2] == null || typeof hsv[2] === 'null' || Math.round(hsv[2]*100) == null ? 0 : Math.round(hsv[2]*100)
 								},
-								population: swatch.getPopulation(),
+								population: swatches[swatch].getPopulation(),
 								temperature: temperature
-							});
+							};
+							console.log(vibrantColorObj);
+							vibrantColors.push(vibrantColorObj);
 						}
 					}
 				});
+console.log('3');
+				console.log('vibrantColors: '+vibrantColors.length);
 
 				var colorData = {
 					dominant: dominantColor,
