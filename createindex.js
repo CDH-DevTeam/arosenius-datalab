@@ -48,6 +48,9 @@ client.indices.create({
 							}
 						}
 					},
+					insert_id: {
+						type: 'integer'
+					},
 					type: {
 						type: 'string',
 						index: 'not_analyzed'
@@ -61,6 +64,10 @@ client.indices.create({
 						index: 'not_analyzed'
 					},
 					places: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
+					genre: {
 						type: 'string',
 						index: 'not_analyzed'
 					},

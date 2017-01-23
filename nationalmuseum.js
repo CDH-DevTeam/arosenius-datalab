@@ -14,20 +14,32 @@ fs.readFile(config.nationalmuseum_json+'lido.json', 'utf8', function (err, fileD
 	var data = JSON.parse(fileData);
 	console.log(data.length);
 
-	var bulkBody = [];
+	client.search({
+		index: 'arosenius',
+		type: 'artwork',
+		query: '*'
+	}).then(function (resp) {
+		var insertCount = resp.hits.total+1;
 
-	_.each(data, function(item, index) {
-		bulkBody.push({
-			create: {
-				_index: 'arosenius',
-				_type: 'artwork'
-			}
+		var bulkBody = [];
+
+		_.each(data, function(item, index) {
+			item.insert_id = insertCount;
+
+			bulkBody.push({
+				create: {
+					_index: 'arosenius',
+					_type: 'artwork'
+				}
+			});
+			bulkBody.push(item);
+
+			insertCount++;
 		});
-		bulkBody.push(item);
-	});
 
-	client.bulk({
-		body: bulkBody
+		client.bulk({
+			body: bulkBody
+		});
 	});
 });
 

@@ -7,7 +7,7 @@ var config = require('./config');
 
 var data = [];
 
-var insertCounter = 0;
+var insertCounter = 1;
 
 fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 	_.each(files, function(file) {
@@ -47,7 +47,7 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 				title: imagePack.metadata.physdesc,
 				description: imagePack.metadata.note,//
 				collection: {
-					museum: 'Göteborgs universitetbibliotek',
+					museum: 'Göteborgs universitetsbibliotek',
 					archive_item: {
 						title: file.meta.archive_unit_title,
 						archive_physloc: file.meta.archive_physloc
@@ -59,18 +59,20 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					bundle: file.meta.mets_ID+'-'+imagePack.metadata.hd_id, //
 					type: [
 						file.meta.letter_sender_name_given && file.meta.letter_sender_name_given != '' ? 'brev' : 
-						file.meta.document_unittitle.toLowerCase().indexOf('fotograf') > -1 ? 'fotograf' :
+						file.meta.document_unittitle.toLowerCase().indexOf('fotograf') > -1 ? 'fotografi' :
 						''
 					],
 					sender: file.meta.letter_sender_name_given && file.meta.letter_sender_name_given != '' ? {
-						firstname: file.meta.letter_sender_name_given,
-						surname: file.meta.letter_sender_name_family,
+//						firstname: file.meta.letter_sender_name_given,
+//						surname: file.meta.letter_sender_name_family,
+						name: file.meta.letter_sender_name_given+' '+file.meta.letter_sender_name_family,
 						birth_year: senderBirthYear,
 						death_year: senderDeathYear
 					} : null,
 					recipient: file.meta.letter_recipient_name_given && file.meta.letter_sender_name_given != '' ? {
-						firstname: file.meta.letter_recipient_name_given,
-						surname: file.meta.letter_recipient_name_family,
+//						firstname: file.meta.letter_recipient_name_given,
+//						surname: file.meta.letter_recipient_name_family,
+						name: file.meta.letter_recipient_name_given+' '+file.meta.letter_recipient_name_family,
 						birth_year: recipientBirthYear,
 						death_year: recipientDeathYear
 					} : null,
@@ -119,7 +121,8 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 						side: image.type,
 						order: image.order
 					},
-					image: file.meta.mets_ID+'-'+image.id.replace('web', '')
+					image: file.meta.mets_ID+'-'+image.id.replace('web', ''),
+					insert_id: insertCounter
 				};
 				console.log(imageDocument.date);
 

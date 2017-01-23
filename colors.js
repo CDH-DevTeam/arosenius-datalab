@@ -1,8 +1,11 @@
 var _ = require('underscore');
 var fs = require('fs');
 var elasticsearch = require('elasticsearch');
+
 var Canvas = require('canvas');
 var colorThief = require('thief');
+var Vibrant = require('node-vibrant');
+
 var request = require("request");
 var http = require('http');
 
@@ -13,7 +16,7 @@ var data = [];
 
 var client = new elasticsearch.Client({
 	host: config.host,
-	log: 'trace'
+//	log: 'trace'
 });
 
 var hits = [];
@@ -73,26 +76,17 @@ var processColors = function() {
 				var imageColors5 = _.map(colorThief.createPalette(canvas, 5), function(color) {
 						return colors.colorObject(color);
 				});
-				var imageColors8 = _.map(colorThief.createPalette(canvas, 8), function(color) {
-						return colors.colorObject(color);
-				});
 				var dominantColor = colors.colorObject(colorThief.getDominantColor(canvas));
+
+				var vibrant = new Vibrant(image);
+				var swatches = vibrant.swatches();
+				console.log(swatches);
 
 				var colorData = {
 					dominant: dominantColor,
 					colors: {
 						three: imageColors3,
-						five: imageColors5,
-						five_mapped: _.map(imageColors5, function(color) {
-							var mappedColor = colors.mapColorToPalette(color.rgb);
-
-							return colors.colorObject(mappedColor);
-						}),
-						eight_mapped: _.map(imageColors8, function(color) {
-							var mappedColor = colors.mapColorToPalette(color.rgb);
-
-							return colors.colorObject(mappedColor);
-						}),
+						five: imageColors5
 					}
 				};
 
