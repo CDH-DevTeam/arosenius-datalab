@@ -85,7 +85,7 @@ var processColors = function() {
 				vibrant.getPalette(function(err, swatches) {
 					for (var swatch in swatches) {
 						if (swatches.hasOwnProperty(swatch) && swatches[swatch]) {
-							var hsv = swatch.hsl;
+							var hsv = swatches[swatch].getHsl();
 							var hex = chroma(hsv).hex();
 							var temperature = chroma(hsv).temperature();
 
@@ -97,7 +97,7 @@ var processColors = function() {
 									s: !hsv[1] || hsv[1] == null || typeof hsv[1] === 'null' || Math.round(hsv[1]*100) == null ? 0 : Math.round(hsv[1]*100), 
 									v: !hsv[2] || hsv[2] == null || typeof hsv[2] === 'null' || Math.round(hsv[2]*100) == null ? 0 : Math.round(hsv[2]*100)
 								},
-								population: swatch.population,
+								population: swatch.getPopulation(),
 								temperature: temperature
 							});
 						}
