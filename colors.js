@@ -82,9 +82,8 @@ var processColors = function() {
 				var vibrant = new Vibrant(imagePath);
 
 				var vibrantColors = [];
-console.log('1');
+
 				vibrant.getPalette(function(err, swatches) {
-console.log('2');
 					for (var swatch in swatches) {
 						if (swatches.hasOwnProperty(swatch) && swatches[swatch]) {
 							var hex = swatches[swatch].getHex();
@@ -107,49 +106,46 @@ console.log('2');
 							vibrantColors.push(vibrantColorObj);
 						}
 					}
-				});
-console.log('3');
-				console.log('vibrantColors: '+vibrantColors.length);
-
-				var colorData = {
-					dominant: dominantColor,
-					colors: {
-						three: imageColors3,
-						five: imageColors5,
-						vibrant: vibrantColors
-					}
-				};
-
-				hit._source.color = colorData;
-
-				var options = {
-					host: '127.0.0.1',
-					port: 9200,
-					path: '/arosenius/artwork/'+hit._id+'/_update',
-					method: 'POST'
-				};
-
-
-				var req = http.request(options, function(resp) {
-					console.log('update '+hit._id);
-					resp.on('data', function(chunk){
-						console.log('resp.on: data');
-						console.log('hitIndex: '+hitIndex+', hits.length: '+hits.length);
-						if (hitIndex < hits.length) {
-							hitIndex++;
-
-							processColors();
+					var colorData = {
+						dominant: dominantColor,
+						colors: {
+							three: imageColors3,
+							five: imageColors5,
+							vibrant: vibrantColors
 						}
-					});
-				}).on("error", function(e){
-					console.log("Got error: " + e.message);
-				});
+					};
 
-				req.write(JSON.stringify({
-					doc: hit._source
-				}));
-				req.write('\n');
-				req.end();
+					hit._source.color = colorData;
+
+					var options = {
+						host: '127.0.0.1',
+						port: 9200,
+						path: '/arosenius/artwork/'+hit._id+'/_update',
+						method: 'POST'
+					};
+
+
+					var req = http.request(options, function(resp) {
+						console.log('update '+hit._id);
+						resp.on('data', function(chunk){
+							console.log('resp.on: data');
+							console.log('hitIndex: '+hitIndex+', hits.length: '+hits.length);
+							if (hitIndex < hits.length) {
+								hitIndex++;
+
+								processColors();
+							}
+						});
+					}).on("error", function(e){
+						console.log("Got error: " + e.message);
+					});
+
+					req.write(JSON.stringify({
+						doc: hit._source
+					}));
+					req.write('\n');
+					req.end();
+				});
 			}
 			catch(e) {
 				console.log(e);
