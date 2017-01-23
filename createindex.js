@@ -84,6 +84,9 @@ client.indices.create({
 									},
 									five: {
 										type: 'nested'
+									},
+									vibrant: {
+										type: 'nested'
 									}
 								}
 							}
