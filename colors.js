@@ -111,7 +111,7 @@ var processColors = function() {
 						colors: {
 							three: imageColors3,
 							five: imageColors5,
-							vibrant: vibrantColors
+							prominent: vibrantColors
 						}
 					};
 
