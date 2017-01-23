@@ -48,11 +48,11 @@ var processColors = function() {
 	}, function(err, resp, body) {
 		if (err) {
 			console.log(err);
-	    	if (hitIndex < hits.length) {
-	    		hitIndex++;
+			if (hitIndex < hits.length) {
+				hitIndex++;
 
-	    		processColors();
-	    	}
+				processColors();
+			}
 		}
 		else {
 			var imageData = body;
@@ -78,15 +78,38 @@ var processColors = function() {
 				});
 				var dominantColor = colors.colorObject(colorThief.getDominantColor(canvas));
 
-				var vibrant = new Vibrant(image);
-				var swatches = vibrant.swatches();
-				console.log(swatches);
+				var vibrant = new Vibrant(imagePath);
+
+				var vibrantColors = [];
+
+				vibrant.getPalette(function(err, swatches) {
+					for (var swatch in swatches) {
+						if (swatches.hasOwnProperty(swatch) && swatches[swatch]) {
+							var hsv = swatch.hsl;
+							var hex = chroma(hsv).hex();
+							var temperature = chroma(hsv).temperature();
+
+							vibrantColors.push({
+								rgb: chroma(hsv).rgb(),
+								hex: hex,
+								hsv: {
+									h: !hsv[0] || hsv[0] == null || typeof hsv[0] === 'null' || Math.round(hsv[0]) == null ? 0 : Math.round(hsv[0]), 
+									s: !hsv[1] || hsv[1] == null || typeof hsv[1] === 'null' || Math.round(hsv[1]*100) == null ? 0 : Math.round(hsv[1]*100), 
+									v: !hsv[2] || hsv[2] == null || typeof hsv[2] === 'null' || Math.round(hsv[2]*100) == null ? 0 : Math.round(hsv[2]*100)
+								},
+								population: swatch.population,
+								temperature: temperature
+							});
+						}
+					}
+				});
 
 				var colorData = {
 					dominant: dominantColor,
 					colors: {
 						three: imageColors3,
-						five: imageColors5
+						five: imageColors5,
+						vibrant: vibrantColors
 					}
 				};
 
@@ -105,11 +128,11 @@ var processColors = function() {
 					resp.on('data', function(chunk){
 						console.log('resp.on: data');
 						console.log('hitIndex: '+hitIndex+', hits.length: '+hits.length);
-				    	if (hitIndex < hits.length) {
-				    		hitIndex++;
+						if (hitIndex < hits.length) {
+							hitIndex++;
 
-				    		processColors();
-				    	}
+							processColors();
+						}
 					});
 				}).on("error", function(e){
 					console.log("Got error: " + e.message);
