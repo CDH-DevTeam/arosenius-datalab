@@ -29,6 +29,35 @@ client.indices.create({
 					item_date: {
 						type: 'date'
 					},
+					creation_date: {
+						type: 'date'
+					},
+					send_date: {
+						type: 'date'
+					},
+					receive_date: {
+						type: 'date'
+					},
+					alt_date1: {
+						type: 'date'
+					},
+					alt_date2: {
+						type: 'date'
+					},
+					sender: {
+						properties: {
+							date: {
+								type: 'date'
+							}
+						}
+					},
+					recipient: {
+						properties: {
+							date: {
+								type: 'date'
+							}
+						}
+					},
 					collection: {
 						properties: {
 							museum: {
