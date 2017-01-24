@@ -126,10 +126,10 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					insert_id: insertCounter
 				};
 
-				if (imageDocument.sender.name) {
+				if (imageDocument.sender && imageDocument.sender.name) {
 					imageDocument.persons.push(imageDocument.sender.name);
 				}
-				if (imageDocument.recipient.name) {
+				if (imageDocument.recipient && imageDocument.recipient.name) {
 					imageDocument.persons.push(imageDocument.recipient.name);
 				}
 
