@@ -93,6 +93,7 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					description: imagePack.metadata.note,//
 					serie: '',
 					format: {},
+					persons: [],
 					technic: null,
 					material: null,
 					collection: {
@@ -124,6 +125,14 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 					image: file.meta.mets_ID+'-'+image.id.replace('web', ''),
 					insert_id: insertCounter
 				};
+
+				if (imageDocument.sender.name) {
+					imageDocument.persons.push(imageDocument.sender.name);
+				}
+				if (imageDocument.recipient.name) {
+					imageDocument.persons.push(imageDocument.recipient.name);
+				}
+
 				console.log(imageDocument.date);
 
 				if (config.insert_limit) {
