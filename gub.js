@@ -7,7 +7,8 @@ var config = require('./config');
 
 var data = [];
 
-var insertCounter = 1;
+var insertCounter = 3295;
+var batchNumber = 2;
 
 fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 	_.each(files, function(file) {
@@ -123,7 +124,8 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 						order: image.order
 					},
 					image: file.meta.mets_ID+'-'+image.id.replace('web', ''),
-					insert_id: insertCounter
+					insert_id: insertCounter,
+					batchnumber: batchNumber
 				};
 
 				if (imageDocument.sender && imageDocument.sender.name) {
