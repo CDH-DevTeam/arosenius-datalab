@@ -44,7 +44,7 @@ fs.readdir(config.gub_json_path, _.bind(function(err, files) {
 
 		_.each(file.files, function(imagePack) {
 			bundleData.push({
-				bundle: file.meta.mets_ID+'-'+imagePack.metadata.hd_id,
+				bundle: file.meta.mets_ID+(imagePack.metadata && imagePack.metadata.hd_id ? '-'+imagePack.metadata.hd_id : ''),
 				title: imagePack.metadata.physdesc,
 				description: imagePack.metadata.note,//
 				collection: {
