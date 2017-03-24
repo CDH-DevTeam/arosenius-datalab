@@ -147,7 +147,6 @@ var processColors = function() {
 										population: swatches[swatch].getPopulation(),
 										temperature: temperature
 									};
-									console.log(vibrantColorObj);
 									vibrantColors.push(vibrantColorObj);
 								}
 							}
@@ -161,6 +160,15 @@ var processColors = function() {
 							};
 
 							hit._source.images[imageIndex].color = colorData;
+
+							if (imageIndex < hit._source.images.length-1) {
+								imageIndex++;
+
+								processImage();
+							}
+							else {
+								writeDocAndContinue();
+							}
 						});
 					}
 					catch(e) {
