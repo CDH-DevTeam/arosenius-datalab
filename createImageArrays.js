@@ -56,17 +56,7 @@ var processHits = function() {
 		imageArray.push(imageObject);
 
 		hit._source.images = imageArray;
-	
-		console.log(hit._source.images[0]);
 	}
-
-
-	if (hitIndex < hits.length-1) {
-		hitIndex++;
-		processHits();
-	}
-
-	return;
 
 	var options = {
 		host: '127.0.0.1',
@@ -89,4 +79,10 @@ var processHits = function() {
 	}).on("error", function(e){
 		console.log("Got error: " + e.message);
 	});
+
+	req.write(JSON.stringify({
+		doc: hit._source
+	}));
+	req.write('\n');
+	req.end();
 };
