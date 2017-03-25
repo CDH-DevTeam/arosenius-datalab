@@ -67,14 +67,15 @@ var processSizes = function() {
 	}
 
 	var processImage = function() {
-		var image = hit._source.images ? hit._source.images[imageIndex] : null;
+		console.log('imageIndex: '+imageIndex);
+		console.log(hit);
+		console.log('hit._source.images.length: '+hit._source.images.length);
+		console.log('imageIndex < hit._source.images.length = '+(imageIndex < hit._source.images.length));
+		console.log(hit._source.images[imageIndex]);
+		console.log(hit._source.title);
+		var image = hit._source.images[imageIndex];
 
 		if (image) {
-			console.log('imageIndex: '+imageIndex);
-			console.log('hit._source.images.length: '+hit._source.images.length);
-			console.log('imageIndex < hit._source.images.length = '+(imageIndex < hit._source.images.length));
-			console.log(hit._source.images[imageIndex]);
-			console.log(hit._source.title);
 			var imagePath = config.gub_image_path+'/'+image.image+'.'+config.image_type;
 
 			console.log('load: '+imagePath);
