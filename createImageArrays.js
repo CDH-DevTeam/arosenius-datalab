@@ -56,9 +56,10 @@ var processHits = function() {
 		imageArray.push(imageObject);
 
 		hit._source.images = imageArray;
+	
+		console.log(hit);
 	}
 
-	console.log(hit);
 
 	if (hitIndex < hits.length-1) {
 		hitIndex++;
