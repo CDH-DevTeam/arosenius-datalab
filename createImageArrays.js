@@ -52,6 +52,10 @@ var processHits = function() {
 		imageObject.color = hit._source.color;
 	}
 
+	if (!hit._source.image) {
+		console.log(hit);
+	}
+
 	imageArray.push(imageObject);
 
 	console.log(imageArray);
