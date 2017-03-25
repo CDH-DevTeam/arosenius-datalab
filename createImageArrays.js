@@ -57,7 +57,7 @@ var processHits = function() {
 
 		hit._source.images = imageArray;
 	
-		console.log(hit);
+		console.log(hit._source.images[0]);
 	}
 
 
