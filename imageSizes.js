@@ -19,7 +19,7 @@ var hits = [];
 client.search({
 	index: 'arosenius',
 	type: 'artwork',
-	q: '*',
+	q: 'collection.museum: Nationalmuseum',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
