@@ -39,23 +39,23 @@ var processHits = function() {
 	var imageArray= [];
 	imageObject = {};
 
-	if (hit.image) {
-		imageObject.image = hit.image;
+	if (hit._source.image) {
+		imageObject.image = hit._source.image;
 	}
-	if (hit.page) {
-		imageObject.page = hit.page;
+	if (hit._source.page) {
+		imageObject.page = hit._source.page;
 	}
-	if (hit.imagesize) {
-		imageObject.imagesize = hit.imagesize;
+	if (hit._source.imagesize) {
+		imageObject.imagesize = hit._source.imagesize;
 	}
-	if (hit.color) {
-		imageObject.color = hit.color;
+	if (hit._source.color) {
+		imageObject.color = hit._source.color;
 	}
 
 	imageArray.push(imageObject);
 
 	console.log(imageArray);
-	
+
 	if (hitIndex < hits.length-1) {
 		hitIndex++;
 		processHits();
