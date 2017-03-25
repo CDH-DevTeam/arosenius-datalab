@@ -67,7 +67,7 @@ var processSizes = function() {
 	}
 
 	var processImage = function() {
-		var image = hit._source.images[imageIndex];
+		var image = hit._source.images ? hit._source.images[imageIndex] : null;
 
 		if (image) {
 			console.log('imageIndex: '+imageIndex);
