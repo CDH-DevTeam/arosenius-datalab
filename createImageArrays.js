@@ -52,13 +52,13 @@ var processHits = function() {
 		imageObject.color = hit._source.color;
 	}
 
-	if (!hit._source.image) {
-		console.log(hit);
+	if (hit._source.image) {
+		imageArray.push(imageObject);
+
+		hit._source.images = imageArray;
 	}
 
-	imageArray.push(imageObject);
-
-	console.log(imageArray);
+	console.log(hit);
 
 	if (hitIndex < hits.length-1) {
 		hitIndex++;
