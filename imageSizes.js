@@ -2,15 +2,9 @@ var _ = require('underscore');
 var fs = require('fs');
 var elasticsearch = require('elasticsearch');
 
-var Canvas = require('canvas');
-var colorThief = require('thief');
-var Vibrant = require('node-vibrant');
-var chroma = require('chroma-js');
-
 var request = require("request");
 var http = require('http');
 
-var colors = require('./arosenius.color_utils');
 var config = require('./config');
 
 var data = [];
@@ -30,13 +24,13 @@ client.search({
 }, function(err, response) {
 	hits = response.hits.hits;
 
-	processColors();
+	processSizes();
 
 });
 
 var hitIndex = 0;
-var processColors = function() {
-	console.log('processColors: hitIndex: '+hitIndex);
+var processSizes = function() {
+	console.log('processSizes: hitIndex: '+hitIndex);
 	var hit = hits[hitIndex];
 
 	var imageIndex = 0;
@@ -58,7 +52,7 @@ var processColors = function() {
 			
 				if (hitIndex < hits.length-1) {
 					hitIndex++;
-					processColors();
+					processSizes();
 				}
 			});
 		}).on("error", function(e){
