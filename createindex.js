@@ -8,7 +8,7 @@ var client = new elasticsearch.Client({
 });
 
 client.indices.create({
-	index: 'arosenius',
+	index: process.argv[2] || 'arosenius',
 	body: {
 		mappings: {
 			artwork: {
@@ -103,6 +103,28 @@ client.indices.create({
 					material: {
 						type: 'string',
 						index: 'not_analyzed'
+					},
+					images: {
+						type: 'nested',
+						properties: {
+							color: {
+								properties: {
+									colors: {
+										properties: {
+											three: {
+												type: 'nested'
+											},
+											five: {
+												type: 'nested'
+											},
+											prominent: {
+												type: 'nested'
+											}
+										}
+									}
+								}
+							}
+						}
 					},
 					color: {
 						properties: {
