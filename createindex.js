@@ -80,10 +80,6 @@ client.indices.create({
 					insert_id: {
 						type: 'integer'
 					},
-					museum_int_id: {
-						type: 'string',
-						index: 'not_analyzed'
-					},
 					type: {
 						type: 'string',
 						index: 'not_analyzed'
