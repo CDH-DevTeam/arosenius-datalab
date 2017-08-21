@@ -15,40 +15,32 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 
 	var output = [];
 
-	var searchResultsHandler = function (resp) {
-		var insertCount = resp && resp.hits ? resp.hits.total+1 : 1;
-
-		var bulkBody = [];
-
-		_.each(data, function(item, index) {
-			item['insert_id'] = insertCount;
-
-			console.log(item);
-
-			bulkBody.push({
-				create: {
-					_index: 'arosenius',
-					_type: 'artwork'
-				}
-			});
-			bulkBody.push(item);
-
-			insertCount++;
-		});
-
-		return;
-
-		client.bulk({
-			body: bulkBody
-		});
-	};
-
 	var data = JSON.parse(fileData);
-	
-	client.search({
-		index: 'arosenius_v2',
-		type: 'artwork',
-		query: '*'
-	}).then(searchResultsHandler);
+
+	var insertCount = process.argv[3];
+
+	var bulkBody = [];
+
+	_.each(data, function(item, index) {
+		item['insert_id'] = insertCount;
+
+		console.log(item);
+
+		bulkBody.push({
+			create: {
+				_index: 'arosenius',
+				_type: 'artwork'
+			}
+		});
+		bulkBody.push(item);
+
+		insertCount++;
+	});
+
+	return;
+
+	client.bulk({
+		body: bulkBody
+	});
 });
 
