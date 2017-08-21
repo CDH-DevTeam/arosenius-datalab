@@ -25,7 +25,7 @@ var hits = [];
 client.search({
 	index: 'arosenius',
 	type: 'artwork',
-	q: 'collection.museum: Nationalmuseum',
+	q: process.argv[2] || '*',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
@@ -47,7 +47,6 @@ var processColors = function() {
 		 if (hit._source.images && hit._source.images[0]) {
 			hit._source.color = hit._source.images[0].color;
 		}
-
 
 		var options = {
 			host: '127.0.0.1',
