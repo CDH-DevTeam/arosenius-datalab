@@ -43,6 +43,12 @@ var processColors = function() {
 
 	var writeDocAndContinue = function() {
 		console.log(hit.images);
+
+		 if (hit._source.images && hit._source.images[0]) {
+			hit._source.color = hit._source.images[0].color;
+		}
+
+
 		var options = {
 			host: '127.0.0.1',
 			port: 9200,
