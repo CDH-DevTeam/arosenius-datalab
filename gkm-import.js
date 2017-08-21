@@ -46,7 +46,7 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 	var data = JSON.parse(fileData);
 	
 	client.search({
-		index: 'arosenius',
+		index: 'arosenius_v2',
 		type: 'artwork',
 		query: '*'
 	}).then(searchResultsHandler);
