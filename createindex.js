@@ -104,6 +104,22 @@ client.indices.create({
 						type: 'string',
 						index: 'not_analyzed'
 					},
+					exhibitions: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
+					exhibitions_nested: {
+						type: 'nested',
+						properties: {
+							place: {
+								type: 'string',
+								index: 'not_analyzed'
+							},
+							year: {
+								type: 'date'
+							}
+						}
+					},
 					images: {
 						type: 'nested',
 						properties: {
