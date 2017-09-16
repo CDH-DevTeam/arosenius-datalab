@@ -3,8 +3,6 @@ var config = require('./config');
 var fs = require('fs');
 var elasticsearch = require('elasticsearch');
 
-var RomanNumber = require('./lib/romans');
-
 var client = new elasticsearch.Client({
 	host: config.host,
 	log: 'trace'
@@ -17,7 +15,7 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 
 	var data = JSON.parse(fileData);
 
-	var insertCount = process.argv[3];
+	var insertCount = process.argv[4];
 
 	var bulkBody = [];
 
@@ -28,7 +26,7 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 
 		bulkBody.push({
 			create: {
-				_index: 'arosenius',
+				_index: process.argv[3] || 'arosenius',
 				_type: 'artwork'
 			}
 		});
