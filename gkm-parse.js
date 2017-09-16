@@ -17,6 +17,8 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 
 	var data = JSON.parse(fileData);
 
+	console.log('Input length: '+data.length);
+
 	var gkmImages = fs.readdirSync(process.argv[3]);
 
 	var notFoundLog = '';
@@ -81,7 +83,9 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 			dateParsed = Number(dateString);
 		}
 
-		var invNumberConverted = item['Inventarienummer'].split('/').join('-').split('  ').join(' ')+' ';
+		var invNumberConverted = 'gkm-'+item['Inventarienummer'].split('/').join('-').split('  ').join(' ');
+
+		console.log(invNumberConverted);
 
 		var imageFiles = _.filter(gkmImages, function(image) {
 			return image.split('  ').join(' ').indexOf(invNumberConverted) > -1;
@@ -103,11 +107,17 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 
 				var lastPart = parts[parts.length-1];
 				var romanNumber = lastPart.replace(/a|b|c/, '');
+
 				if (lastPart.indexOf('b') > -1) {
-					console.log(image.image);
+//					console.log(image.image);
 				}
 
-				return RomanNumber(romanNumber).toInt()+(lastPart.indexOf('b') > -1 ? 0.5 : 0);
+				try {
+					return RomanNumber(romanNumber).toInt()+(lastPart.indexOf('b') > -1 ? 0.5 : 0);
+				}
+				catch (e) {
+					return 0;
+				}
 			});
 		}
 
@@ -146,14 +156,14 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 			description: item['Beskrivning']
 		};
 
-		if (insertItem.images.length > 1) {
-			console.log(insertItem.images);
-
+		if (insertItem.images.length > 0) {
 			outputData.push(insertItem);
 		}
 	});
 
 	fs.writeFile(process.argv[4], JSON.stringify(outputData, null, 2));
+
+	console.log('All done, parsed '+outputData.length+' entries.')
 
 	fs.writeFile('not-found-gkm.csv', notFoundLog);
 });
