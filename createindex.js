@@ -10,6 +10,18 @@ var client = new elasticsearch.Client({
 client.indices.create({
 	index: process.argv[2] || 'arosenius',
 	body: {
+		settings: {
+			analysis: {
+				analyzer: {
+					case_insensitive: {
+						tokenizer: 'keyword',
+						filter: [
+							'lowercase'
+						]
+					}
+				}
+			}
+		},
 		mappings: {
 			artwork: {
 				properties: {
@@ -20,9 +32,14 @@ client.indices.create({
 						type: 'string',
 						index: 'not_analyzed'
 					},
-					title_static: {
+					title: {
 						type: 'string',
-						index: 'not_analyzed'
+						fields: {
+							raw: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
 					},
 					date_from: {
 						type: 'date'
@@ -66,7 +83,12 @@ client.indices.create({
 						properties: {
 							museum: {
 								type: 'string',
-								index: 'not_analyzed'
+								fields: {
+									raw: {
+										type: 'string',
+										index: 'not_analyzed'
+									}
+								}
 							},
 							department: {
 								type: 'string',
@@ -86,23 +108,48 @@ client.indices.create({
 					},
 					type: {
 						type: 'string',
-						index: 'not_analyzed'
+						fields: {
+							raw: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
 					},
 					tags: {
 						type: 'string',
-						index: 'not_analyzed'
+						fields: {
+							raw: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
 					},
 					persons: {
 						type: 'string',
-						index: 'not_analyzed'
+						fields: {
+							raw: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
 					},
 					places: {
 						type: 'string',
-						index: 'not_analyzed'
+						fields: {
+							raw: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
 					},
 					genre: {
 						type: 'string',
-						index: 'not_analyzed'
+						fields: {
+							raw: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
 					},
 					material: {
 						type: 'string',
@@ -110,7 +157,12 @@ client.indices.create({
 					},
 					exhibitions: {
 						type: 'string',
-						index: 'not_analyzed'
+						fields: {
+							raw: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
 					},
 					exhibitions_nested: {
 						type: 'nested',
@@ -167,5 +219,8 @@ client.indices.create({
 			}
 		}
 	}
-}, function() {
+}, function(err) {
+	if (err) {
+		console.log(err);
+	}
 });
