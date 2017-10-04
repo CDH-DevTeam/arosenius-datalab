@@ -20,6 +20,10 @@ client.indices.create({
 						type: 'string',
 						index: 'not_analyzed'
 					},
+					title_static: {
+						type: 'string',
+						index: 'not_analyzed'
+					},
 					date_from: {
 						type: 'date'
 					},

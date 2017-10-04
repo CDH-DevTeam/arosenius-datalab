@@ -41,8 +41,8 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 				.split('x');
 
 			sizeObj['inner'] = {
-				width: dimension[1],
-				height: dimension[0]
+				width: Number(dimension[1]),
+				height: Number(dimension[0])
 			};
 		}
 
@@ -59,8 +59,8 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 				.split('x');
 
 			sizeObj['outer'] = {
-				width: dimension[1],
-				height: dimension[0]
+				width: Number(dimension[1]),
+				height: Number(dimension[0])
 			};
 
 			if (dimension[2]) {

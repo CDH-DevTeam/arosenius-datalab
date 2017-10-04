@@ -22,8 +22,6 @@ fs.readFile(process.argv[2], 'utf8', function (err, fileData) {
 	_.each(data, function(item, index) {
 		item['insert_id'] = insertCount;
 
-		console.log(item);
-
 		bulkBody.push({
 			create: {
 				_index: process.argv[3] || 'arosenius',
