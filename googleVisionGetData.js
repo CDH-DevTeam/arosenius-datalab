@@ -1,6 +1,7 @@
 var _ = require('underscore');
 var fs = require('fs');
 var elasticsearch = require('elasticsearch');
+var chroma = require('chroma-js');
 
 var request = require("request");
 var http = require('http');
@@ -21,7 +22,7 @@ var hits = [];
 client.search({
 	index: config.index,
 	type: 'artwork',
-	q: '*',
+	q: '_id: AVnPnQWsfPVHYXsPDSgY',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
@@ -122,28 +123,49 @@ var processDocument = function() {
 				else {
 					console.log(body);
 //					return;
-					var colors = body.responses[0].imagePropertiesAnnotation.dominantColors.colors;
-					var labels = _.map(body.responses[0].labelAnnotations, function(label) {
-						return {
-							label: label.description,
-							score: label.score
+
+					if (body.responses[0].error) {
+						if (imageIndex < hit._source.images.length-1) {
+							imageIndex++;
+
+							processImage();
 						}
-					});
-					hit._source.images[imageIndex].googleVisionColors = colors;
-					hit._source.images[imageIndex].googleVisionLabels = labels;
-
-					if (imageIndex == 0) {
-						hit._source.googleVisionColors = colors;
-						hit._source.googleVisionLabels = labels;
-					}
-
-					if (imageIndex < hit._source.images.length-1) {
-						imageIndex++;
-
-						processImage();
+						else {
+							writeDocAndContinue();
+						}
 					}
 					else {
-						writeDocAndContinue();
+						var colors = _.map(body.responses[0].imagePropertiesAnnotation.dominantColors.colors, function(color) {
+							var hsv = chroma(color.color.red, color.color.green, color.color.blue).hsl();
+								color.hsv = {
+									h: !hsv[0] || hsv[0] == null || typeof hsv[0] === 'null' || Math.round(hsv[0]) == null ? 0 : Math.round(hsv[0]),
+									s: !hsv[1] || hsv[1] == null || typeof hsv[1] === 'null' || Math.round(hsv[1]*100) == null ? 0 : Math.round(hsv[1]*100),
+									v: !hsv[2] || hsv[2] == null || typeof hsv[2] === 'null' || Math.round(hsv[2]*100) == null ? 0 : Math.round(hsv[2]*100)
+								};
+								return color;
+						});
+						var labels = _.map(body.responses[0].labelAnnotations, function(label) {
+							return {
+								label: label.description,
+								score: label.score
+							}
+						});
+						hit._source.images[imageIndex].googleVisionColors = colors;
+						hit._source.images[imageIndex].googleVisionLabels = labels;
+
+						if (imageIndex == 0) {
+							hit._source.googleVisionColors = colors;
+							hit._source.googleVisionLabels = labels;
+						}
+
+						if (imageIndex < hit._source.images.length-1) {
+							imageIndex++;
+
+							processImage();
+						}
+						else {
+							writeDocAndContinue();
+						}
 					}
 				}
 			});
