@@ -70,11 +70,13 @@ var processDocument = function() {
 
 	var processImage = function() {
 		console.log('imageIndex: '+imageIndex);
-		console.log('hit._source.images.length: '+hit._source.images.length);
-		console.log('imageIndex < hit._source.images.length = '+(imageIndex < hit._source.images.length));
+		if (hit._source.images && hit._source.images[imageIndex]) {
+			console.log('hit._source.images.length: '+hit._source.images.length);
+			console.log('imageIndex < hit._source.images.length = '+(imageIndex < hit._source.images.length));
+		}
 		console.log(hit._source.title);
 		console.log(hit._id+' : '+hit._source.title);
-		var image = hit._source.images[imageIndex];
+		var image = hit._source.images && hit._source.images[imageIndex] ? hit._source.images[imageIndex] : null;
 
 		if (image) {
 			var imagePath = config.image_path_1000x+'/'+image.image+'.'+config.image_type;
