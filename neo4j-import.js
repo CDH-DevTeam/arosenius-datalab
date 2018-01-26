@@ -7,12 +7,12 @@ var cypherUrl = 'http://neo4j:lcp010xx@localhost:7474/db/data/cypher';
 var action = process.argv[2];
 
 if (process.argv.length > 3) {
-	console.log('node neo4j-import [persons|places|person_relations|places_relations]')
+	console.log('node neo4j-import [records|persons|places|tags|person_relations|places_relations|tags_relations]')
 }
 
 function importNodes(fieldName, nodeType) {
 	request({
-		url: 'http://cdh-vir-1.it.gu.se:8004/person_relations',
+		url: 'http://cdh-vir-1.it.gu.se:8004/artwork_relations',
 		json: true
 	}, function (error, response, body) {
 		var index = 0;
@@ -62,7 +62,7 @@ function importNodes(fieldName, nodeType) {
 
 function importLinks(fieldName, nodeType) {
 	request({
-		url: 'http://cdh-vir-1.it.gu.se:8004/person_relations',
+		url: 'http://cdh-vir-1.it.gu.se:8004/artwork_relations',
 		json: true
 	}, function (error, response, body) {
 		var index = 0;
@@ -112,7 +112,7 @@ function importLinks(fieldName, nodeType) {
 
 if (action == 'records') {
 	request({
-		url: 'http://cdh-vir-1.it.gu.se:8004/person_relations',
+		url: 'http://cdh-vir-1.it.gu.se:8004/artwork_relations',
 		json: true
 	}, function (error, response, body) {
 		var index = 0;
@@ -121,7 +121,7 @@ if (action == 'records') {
 			var artwork = body[index];
 
 			var createArtworkQuery = {
-				query: 'CREATE (a:Object {id: "'+artwork.id+'", title: "'+artwork.title+'", museum: "'+artwork.museum+'", type: "'+(artwork.type ? (artwork.type.join ? artwork.type[0] : artwork.type) : '')+'"}) RETURN a',
+				query: 'CREATE (a:Object {id: "'+artwork.id+'", title: "'+artwork.title+'", museum: "'+artwork.museum+'", type: "'+(artwork.type ? (artwork.type.join ? artwork.type[0] : artwork.type) : '')+'", image: "'+artwork.images[0]+'", dominant_1_h: '+artwork.dominant_1_h+', dominant_1_s: '+artwork.dominant_1_s+', dominant_1_v: '+artwork.dominant_1_v+', dominant_2_h: '+artwork.dominant_2_h+', dominant_2_s: '+artwork.dominant_2_s+', dominant_2_v: '+artwork.dominant_2_v+', dominant_3_h: '+artwork.dominant_3_h+', dominant_3_s: '+artwork.dominant_3_s+', dominant_3_v: '+artwork.dominant_3_v+'}) RETURN a',
 			};
 
 			console.log('Insert "'+artwork.title+'" ('+artwork.id+')');
@@ -152,8 +152,14 @@ if (action == 'persons') {
 if (action == 'places') {
 	importNodes('places', 'Place');
 }
+if (action == 'tags') {
+	importNodes('tags', 'Tag');
+}
 if (action == 'person_relations') {
 	importLinks('persons', 'Person');
+}
+if (action == 'tags_relations') {
+	importLinks('tags', 'Tag');
 }
 if (action == 'places_relations') {
 	importLinks('places', 'Place');
