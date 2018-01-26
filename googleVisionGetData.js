@@ -42,7 +42,7 @@ var processDocument = function() {
 		var options = {
 			host: '127.0.0.1',
 			port: 9200,
-			path: '/arosenius/artwork/'+hit._id+'/_update',
+			path: '/'+config.index+'/artwork/'+hit._id+'/_update',
 			method: 'POST'
 		};
 
@@ -149,7 +149,7 @@ var processDocument = function() {
 			});
 		}
 		else {
-			if (imageIndex < hit._source.images.length-1) {
+			if (!hit._source.images || imageIndex < hit._source.images.length-1) {
 				imageIndex++;
 
 				processImage();
