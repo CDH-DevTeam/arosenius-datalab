@@ -19,7 +19,7 @@ var client = new elasticsearch.Client({
 var hits = [];
 
 client.search({
-	index: 'arosenius',
+	index: config.index,
 	type: 'artwork',
 	q: '*',
 	size: 10000

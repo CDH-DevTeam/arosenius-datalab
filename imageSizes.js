@@ -19,9 +19,9 @@ var client = new elasticsearch.Client({
 var hits = [];
 
 client.search({
-	index: 'arosenius',
+	index: 'arosenius_v3',
 	type: 'artwork',
-	q: '_exists_: images',
+	q: '*',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
@@ -42,7 +42,7 @@ var processSizes = function() {
 		var options = {
 			host: '127.0.0.1',
 			port: 9200,
-			path: '/arosenius/artwork/'+hit._id+'/_update',
+			path: '/arosenius_v3/artwork/'+hit._id+'/_update',
 			method: 'POST'
 		};
 
@@ -50,7 +50,6 @@ var processSizes = function() {
 			console.log('update '+hit._id);
 			resp.on('data', function(chunk){
 				console.log('resp.on: data');
-				console.log('hitIndex: '+hitIndex+', hits.length: '+hits.length);
 			
 				if (hitIndex < hits.length-1) {
 					hitIndex++;
@@ -70,14 +69,11 @@ var processSizes = function() {
 
 	var processImage = function() {
 		console.log('imageIndex: '+imageIndex);
-		console.log(hit);
-		console.log('hit._source.images.length: '+hit._source.images.length);
-		console.log('imageIndex < hit._source.images.length = '+(imageIndex < hit._source.images.length));
-		console.log(hit._source.images[imageIndex]);
+		console.log(hit._id);
 		console.log(hit._source.title);
-		var image = hit._source.images[imageIndex];
 
-		if (image) {
+		if (hit._source.images && hit._source.images.length > 0) {
+			var image = hit._source.images[imageIndex];
 			var imagePath = config.gub_image_path+'/'+image.image+'.'+config.image_type;
 
 			console.log('load: '+imagePath);
@@ -88,7 +84,7 @@ var processSizes = function() {
 			}, function(err, resp, body) {
 				if (err) {
 					console.log(err);
-					if (imageIndex < hit._source.images.length-1) {
+					if (hit._source.images && imageIndex < hit._source.images.length-1) {
 						imageIndex++;
 
 						processImage();
@@ -106,13 +102,14 @@ var processSizes = function() {
 
 						var image = new Canvas.Image;
 						image.src = imageData;
+						console.log('image size: '+image.width+'x'+image.height);
 
 						hit._source.images[imageIndex].imagesize = {
 							width: image.width,
 							height: image.height
 						};
-
-						if (imageIndex < hit._source.images.length-1) {
+						console.log(hit._source.images[imageIndex]);
+						if (hit._source.images && imageIndex < hit._source.images.length-1) {
 							imageIndex++;
 
 							processImage();
@@ -122,8 +119,9 @@ var processSizes = function() {
 						}
 					}
 					catch(e) {
+						console.log('error');
 						console.log(e);
-						if (imageIndex < hit._source.images.length-1) {
+						if (hit._source.images && imageIndex < hit._source.images.length-1) {
 							imageIndex++;
 
 							processImage();
@@ -136,7 +134,7 @@ var processSizes = function() {
 			});
 		}
 		else {
-			if (imageIndex < hit._source.images.length-1) {
+			if (hit._source.images && imageIndex < hit._source.images.length-1) {
 				imageIndex++;
 
 				processImage();

@@ -23,7 +23,7 @@ var client = new elasticsearch.Client({
 var hits = [];
 
 client.search({
-	index: 'arosenius',
+	index: 'arosenius_v3',
 	type: 'artwork',
 	q: process.argv[2] || '*',
 	size: 10000
@@ -51,7 +51,7 @@ var processColors = function() {
 		var options = {
 			host: '127.0.0.1',
 			port: 9200,
-			path: '/arosenius/artwork/'+hit._id+'/_update',
+			path: '/arosenius_v3/artwork/'+hit._id+'/_update',
 			method: 'POST'
 		};
 

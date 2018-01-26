@@ -25,6 +25,16 @@ client.indices.create({
 		mappings: {
 			artwork: {
 				properties: {
+					date: {
+						properties: {
+							date: {
+								type: 'string'
+							}
+						}
+					},
+					item_date_str: {
+						type: 'string'
+					},
 					published: {
 						type: 'boolean'
 					},
