@@ -149,7 +149,7 @@ var processDocument = function() {
 			});
 		}
 		else {
-			if (!hit._source.images || imageIndex < hit._source.images.length-1) {
+			if (hit._source.images && imageIndex < hit._source.images.length-1) {
 				imageIndex++;
 
 				processImage();
