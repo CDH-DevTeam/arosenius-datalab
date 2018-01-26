@@ -22,7 +22,7 @@ var hits = [];
 client.search({
 	index: config.index,
 	type: 'artwork',
-	q: '_id: AVnPnQWsfPVHYXsPDSgY',
+	q: '*',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
