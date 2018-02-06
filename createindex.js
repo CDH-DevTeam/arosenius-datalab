@@ -58,7 +58,7 @@ client.indices.create({
 						type: 'date'
 					},
 					item_date: {
-						type: 'string'
+						type: 'date'
 					},
 					creation_date: {
 						type: 'date'
