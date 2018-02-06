@@ -9,7 +9,7 @@ var client = new elasticsearch.Client({
 });
 
 client.search({
-		index: 'arosenius',
+		index: config.index,
 		type: 'artwork',
 		query: '*',
 		body: {
@@ -39,7 +39,7 @@ client.search({
 
 				bulkBody.push({
 					update: {
-						_index: 'arosenius',
+						_index: config.index,
 						_type: 'artwork',
 						_id: hit._id
 					}
