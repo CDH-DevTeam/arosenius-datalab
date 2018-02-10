@@ -224,6 +224,18 @@ client.indices.create({
 								}
 							}
 						}
+					},
+					googleVisionLabels: {
+						type: 'nested',
+						properties: {
+							label: {
+								type: 'string',
+								index: 'not_analyzed'
+							}
+						}
+					},
+					googleVisionColors: {
+						type: 'nested',
 					}
 				}
 			}
