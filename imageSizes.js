@@ -19,9 +19,9 @@ var client = new elasticsearch.Client({
 var hits = [];
 
 client.search({
-	index: 'arosenius_v3',
+	index: config.index,
 	type: 'artwork',
-	q: '*',
+	q: process.argv[2] || '*',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
@@ -42,7 +42,7 @@ var processSizes = function() {
 		var options = {
 			host: '127.0.0.1',
 			port: 9200,
-			path: '/arosenius_v3/artwork/'+hit._id+'/_update',
+			path: '/'+config.index+'/artwork/'+hit._id+'/_update',
 			method: 'POST'
 		};
 

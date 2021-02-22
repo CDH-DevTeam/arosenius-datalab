@@ -22,7 +22,7 @@ var hits = [];
 client.search({
 	index: config.index,
 	type: 'artwork',
-	q: '*',
+	q: process.argv[2] || '*',
 	size: 10000
 }, function(err, response) {
 	hits = response.hits.hits;
@@ -94,9 +94,6 @@ var processDocument = function() {
 						},
 						"features":[
 							{
-								"type": "LABEL_DETECTION"
-							},
-							{
 								"type": "IMAGE_PROPERTIES"
 							}
 						]
@@ -144,18 +141,10 @@ var processDocument = function() {
 								};
 								return color;
 						});
-						var labels = _.map(body.responses[0].labelAnnotations, function(label) {
-							return {
-								label: label.description,
-								score: label.score
-							}
-						});
 						hit._source.images[imageIndex].googleVisionColors = colors;
-						hit._source.images[imageIndex].googleVisionLabels = labels;
 
 						if (imageIndex == 0) {
 							hit._source.googleVisionColors = colors;
-							hit._source.googleVisionLabels = labels;
 						}
 
 						if (imageIndex < hit._source.images.length-1) {
